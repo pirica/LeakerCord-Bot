@@ -24,10 +24,12 @@ async def check(ctx):
         return False
 
 @client.command()
-async def restartbot(ctx):
-    if ctx.author.id in [748283659542331412, 747787888716152842, 471477049291309066]:
-        await ctx.send("restart")
-        sys.exit()
+async def refresh(ctx):
+    os.chdir(os.path.dirname(os.path.realpath(__file__)))
+    os.system("git pull")
+    await ctx.send("Successfull downloaded the Bot. Restarting now...")
+    os.system("service leaker restart")
+
 
 @client.command()
 async def export(ctx, path: str):

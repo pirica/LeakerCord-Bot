@@ -4569,7 +4569,7 @@
       "name": "Rocket Launcher",
       "description": "Explosive Weapon: Fires long-range rockets that damage enemies in an area.",
       "rarity": "rare",
-      "type": "standard",
+      "type": "seasonal",
       "gameplayTags": [
         "Weapon.Ranged.Heavy.rocket_launcher",
         "Gameplay.DamageSource.Weapon",
@@ -4602,7 +4602,7 @@
       "name": "Rocket Launcher",
       "description": "Explosive Weapon: Fires long-range rockets that damage enemies in an area.",
       "rarity": "legendary",
-      "type": "standard",
+      "type": "seasonal",
       "gameplayTags": [
         "Weapon.Ranged.Heavy.rocket_launcher",
         "Gameplay.DamageSource.Weapon",
@@ -4635,7 +4635,7 @@
       "name": "Rocket Launcher",
       "description": "Explosive Weapon: Fires long-range rockets that damage enemies in an area.",
       "rarity": "uncommon",
-      "type": "standard",
+      "type": "seasonal",
       "gameplayTags": [
         "Weapon.Ranged.Heavy.rocket_launcher",
         "Gameplay.DamageSource.Weapon",
@@ -4668,7 +4668,7 @@
       "name": "Rocket Launcher",
       "description": "Explosive Weapon: Fires long-range rockets that damage enemies in an area.",
       "rarity": "epic",
-      "type": "standard",
+      "type": "seasonal",
       "gameplayTags": [
         "Weapon.Ranged.Heavy.rocket_launcher",
         "Gameplay.DamageSource.Weapon",
@@ -4701,7 +4701,7 @@
       "name": "Cupid's Crossbow",
       "description": "",
       "rarity": "epic",
-      "type": "standard",
+      "type": "seasonal",
       "gameplayTags": [
         "Skill.sniper.headshotbuff",
         "Gameplay.DamageSource.Weapon",
@@ -4733,7 +4733,7 @@
       "name": "Lump of Coal",
       "description": "",
       "rarity": "common",
-      "type": "standard",
+      "type": "seasonal",
       "gameplayTags": [
         "Gameplay.DamageSource.Ability",
         "Athena.ItemAction.Throw",
@@ -4763,7 +4763,7 @@
       "name": "Snowball Launcher",
       "description": "Explosive Weapon: Lobs rockets that damage everything in an area.",
       "rarity": "rare",
-      "type": "standard",
+      "type": "seasonal",
       "gameplayTags": [
         "Weapon.Ranged.Heavy.grenade_launcher",
         "Gameplay.DamageSource.Weapon",
@@ -4795,7 +4795,7 @@
       "name": "Snowball Launcher",
       "description": "Explosive Weapon: Lobs rockets that damage everything in an area.",
       "rarity": "legendary",
-      "type": "standard",
+      "type": "seasonal",
       "gameplayTags": [
         "Weapon.Ranged.Heavy.grenade_launcher",
         "Gameplay.DamageSource.Weapon",
@@ -4827,7 +4827,7 @@
       "name": "Snowball Launcher",
       "description": "Explosive Weapon: Lobs rockets that damage everything in an area.",
       "rarity": "uncommon",
-      "type": "standard",
+      "type": "seasonal",
       "gameplayTags": [
         "Weapon.Ranged.Heavy.grenade_launcher",
         "Gameplay.DamageSource.Weapon",
@@ -4859,7 +4859,7 @@
       "name": "Snowball Launcher",
       "description": "Explosive Weapon: Lobs rockets that damage everything in an area.",
       "rarity": "epic",
-      "type": "standard",
+      "type": "seasonal",
       "gameplayTags": [
         "Weapon.Ranged.Heavy.grenade_launcher",
         "Gameplay.DamageSource.Weapon",
@@ -5146,7 +5146,7 @@
       "name": "Skye's Assault Rifle",
       "description": "Assault Weapon: Fully Automatic. Flexible assault rifle capable of handling all types of combat scenarios. High rate of fire with solid accuracy when aiming down sights and firing in controlled bursts.",
       "rarity": "mythic",
-      "type": "standard",
+      "type": "boss",
       "gameplayTags": [
         "Gameplay.DamageSource.Weapon",
         "Bacchus.Shoot.AR.Auto",
@@ -5180,7 +5180,7 @@
       "name": "Skye's Grappler",
       "description": "Stick and move",
       "rarity": "mythic",
-      "type": "standard",
+      "type": "boss",
       "gameplayTags": [
         "Weapon.Meta.MiscWrapped",
         "Rarity.Mythic",
@@ -5209,7 +5209,7 @@
       "name": "Brutus' Minigun",
       "description": "Assault Weapon: A heavy weapon with high damage, an extreme rate of fire, and a huge magazine size. Very inaccurate unless aiming down sights from a fixed position, and firing in short bursts.",
       "rarity": "mythic",
-      "type": "standard",
+      "type": "boss",
       "gameplayTags": [
         "Gameplay.DamageSource.Weapon",
         "Bacchus.Shoot.Machinegun.Minigun",
@@ -5242,7 +5242,7 @@
       "name": "Meowscle's Peow Peow Rifle",
       "description": "",
       "rarity": "mythic",
-      "type": "standard",
+      "type": "boss",
       "gameplayTags": [
         "Gameplay.DamageSource.Weapon",
         "Bacchus.Shoot.AR.Auto",
@@ -5275,7 +5275,7 @@
       "name": "Jules' Drum Gun",
       "description": "Assault Weapon: A heavy weapon with high damage, an extreme rate of fire, and a huge magazine size. Very inaccurate unless aiming down sights from a fixed position, and firing in short bursts.",
       "rarity": "mythic",
-      "type": "standard",
+      "type": "boss",
       "gameplayTags": [
         "Gameplay.DamageSource.Weapon",
         "Weapon.Ranged.SMG",
@@ -7151,7 +7151,7 @@
       "name": "Jules' Glider Gun",
       "description": "Pull yourself towards a target location and then deploy a glider!",
       "rarity": "mythic",
-      "type": "standard",
+      "type": "boss",
       "gameplayTags": [
         "Weapon.Meta.MiscWrapped",
         "Trait.Grappler",
