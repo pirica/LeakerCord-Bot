@@ -1,0 +1,2615 @@
+{
+  "age_limit": 12,
+  "attributes": {
+    "facets": {
+      "game_content_type": [
+        {
+          "name": "Extras",
+          "count": 7,
+          "key": "addons"
+        },
+        {
+          "name": "Avatare",
+          "count": 12,
+          "key": "avatars"
+        }
+      ],
+      "release_date": [
+        {
+          "name": "In den letzten 30 Tagen",
+          "count": 1,
+          "key": "last_30_days"
+        }
+      ],
+      "price": [
+        {
+          "name": "Kostenlos",
+          "count": 14,
+          "key": "0-0"
+        },
+        {
+          "name": "Unter \u20ac1",
+          "count": 14,
+          "key": "0-99"
+        },
+        {
+          "name": "\u20ac2,50 - \u20ac4,99",
+          "count": 1,
+          "key": "250-499"
+        },
+        {
+          "name": "\u20ac5,00 - \u20ac9,99",
+          "count": 1,
+          "key": "500-999"
+        },
+        {
+          "name": "\u20ac10,00 - \u20ac19,99",
+          "count": 2,
+          "key": "1000-1999"
+        },
+        {
+          "name": "\u20ac30,00 - \u20ac39,99",
+          "count": 1,
+          "key": "3000-3999"
+        },
+        {
+          "name": "\u00c3\u009cber \u20ac60,00",
+          "count": 1,
+          "key": "6000-*"
+        }
+      ],
+      "addon_type": [
+        {
+          "name": "Figuren/Kost\u00fcme/Skins",
+          "count": 2,
+          "key": "characters_costumes_skins"
+        },
+        {
+          "name": "Objekt",
+          "count": 1,
+          "key": "items"
+        },
+        {
+          "name": "Virtuelle W\u00e4hrung",
+          "count": 4,
+          "key": "virtual_currency"
+        }
+      ],
+      "genre": [
+        {
+          "name": "Action",
+          "count": 20,
+          "key": "action"
+        },
+        {
+          "name": "Abenteuer",
+          "count": 20,
+          "key": "adventure"
+        },
+        {
+          "name": "Einmalig",
+          "count": 2,
+          "key": "unique"
+        }
+      ],
+      "top_category": [
+        {
+          "name": "Add-On",
+          "count": 7,
+          "key": "add_on"
+        },
+        {
+          "name": "Avatar",
+          "count": 12,
+          "key": "avatar"
+        },
+        {
+          "name": "Spielinhalt",
+          "count": 1,
+          "key": "game_content"
+        }
+      ],
+      "relationship": [
+        {
+          "name": "Extras",
+          "count": 7,
+          "key": "addons"
+        },
+        {
+          "name": "Avatare",
+          "count": 12,
+          "key": "avatars"
+        },
+        {
+          "name": "Weitere Extras",
+          "count": 1,
+          "key": "extras"
+        }
+      ]
+    },
+    "next": []
+  },
+  "bucket": "games",
+  "container_type": "product",
+  "content_origin": 0,
+  "content_rating": {
+    "description": "USK 12",
+    "rating_system": "USK",
+    "url": "https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/usk/usk_12.png"
+  },
+  "content_type": "1",
+  "default_sku": {
+    "amortizeFlag": false,
+    "bundleExclusiveFlag": false,
+    "chargeImmediatelyFlag": false,
+    "charge_type_id": 0,
+    "credit_card_required_flag": 0,
+    "defaultSku": true,
+    "display_price": "Kostenlos",
+    "eligibilities": [],
+    "entitlements": [
+      {
+        "description": null,
+        "drms": [],
+        "duration": 0,
+        "durationOverrideTypeId": null,
+        "exp_after_first_use": 0,
+        "feature_type_id": 3,
+        "id": "EP1464-CUSA07669_00-FORTNITETESTING1",
+        "license_type": 0,
+        "metadata": {
+          "voiceLanguageCode": [
+            "en"
+          ],
+          "subtitleLanguageCode": [
+            "en"
+          ]
+        },
+        "name": "Fortnite",
+        "packageType": "PS4GD",
+        "packages": [
+          {
+            "platformId": 13,
+            "platformName": "ps4",
+            "size": 6692143104
+          }
+        ],
+        "preorder_placeholder_flag": false,
+        "size": 0,
+        "subType": 0,
+        "subtitle_language_codes": [
+          "en"
+        ],
+        "type": 5,
+        "use_count": 0,
+        "voice_language_codes": [
+          "en"
+        ]
+      }
+    ],
+    "id": "EP1464-CUSA07669_00-FORTNITETESTING1-E001",
+    "is_original": false,
+    "name": "Vollversion",
+    "platforms": [
+      0,
+      18,
+      10,
+      13
+    ],
+    "price": 0,
+    "rewards": [],
+    "seasonPassExclusiveFlag": false,
+    "skuAvailabilityOverrideFlag": false,
+    "sku_type": 0,
+    "type": "standard"
+  },
+  "dob_required": true,
+  "gameContentTypesList": [
+    {
+      "name": "Vollversion",
+      "key": "FULL_GAME"
+    }
+  ],
+  "game_contentType": "Vollversion",
+  "id": "EP1464-CUSA07669_00-FORTNITETESTING1",
+  "images": [
+    {
+      "type": 10,
+      "url": "https://vulcan.dl.playstation.net/img/rnd/202008/2621/gq2XHV05RkLllSF8J2oU9OXh.png"
+    },
+    {
+      "type": 12,
+      "url": "https://vulcan.dl.playstation.net/img/rnd/202008/2621/P6K1qaEPMDJG5RhEeP6Y2JUc.png"
+    },
+    {
+      "type": 13,
+      "url": "https://vulcan.dl.playstation.net/img/rnd/202008/2621/OuJMb5weVzIBmO3E6r2iD23W.png"
+    }
+  ],
+  "legal_text": "<br/>\u00a9 2020 Epic Games, Inc. Alle Rechte vorbehalten. Epic, Epic Games, das Logo von Epic Games, Unreal, Unreal Engine, das Logo von Unreal Engine, Fortnite und das Logo von Fortnite sind Handelsmarken oder eingetragene Handelsmarken von Epic Games, Inc. in den USA wie anderenorts. All anderen Handelsmarken sind Eigentum ihrer entsprechenden Besitzer.<br/>",
+  "links": [
+    {
+      "bucket": "games",
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "\u20ac11,99",
+        "eligibilities": [
+          {
+            "id": "EP1464-CUSA07669_00-TPSCP1",
+            "operand": "IS_ACTIVE",
+            "operator": "FALSE",
+            "rightOperand": null,
+            "name": "Fortnite \u2013 Derby-Dynamo-Herausforderungspaket",
+            "description": null,
+            "entitlement_type": null,
+            "drms": []
+          },
+          {
+            "id": "EP1464-CUSA07669_00-TPSCP1",
+            "operand": "EXISTS",
+            "operator": "FALSE",
+            "rightOperand": null,
+            "name": "Fortnite \u2013 Derby-Dynamo-Herausforderungspaket",
+            "description": null,
+            "entitlement_type": null,
+            "drms": []
+          }
+        ],
+        "end_date": "2020-09-01T16:00:00Z",
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-TPSCP1",
+            "license_type": 0,
+            "metadata": null,
+            "name": "Fortnite \u2013 Derby-Dynamo-Herausforderungspaket",
+            "packageType": null,
+            "packages": [],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 1,
+            "use_count": 1,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-TPSCP10000000000-E001",
+        "is_original": false,
+        "name": "Add-On",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 1199,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Kost\u00fcm",
+          "key": "COSTUME"
+        }
+      ],
+      "game_contentType": "Kost\u00fcm",
+      "id": "EP1464-CUSA07669_00-TPSCP10000000000",
+      "images": [
+        {
+          "type": 10,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202008/0222/khi4dg6HmV67SLPJro60EGFx.png"
+        }
+      ],
+      "name": "Fortnite \u2013 Derby-Dynamo-Herausforderungspaket",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2020-08-19T16:00:00Z",
+      "restricted": false,
+      "revision": 0,
+      "short_name": "Derby-Dynamo-Herausforderungspaket",
+      "timestamp": 1598576243000,
+      "top_category": "add_on",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-TPSCP10000000000/1598576243"
+    },
+    {
+      "bucket": "games",
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "Kostenlos",
+        "eligibilities": [
+          {
+            "id": "EP1464-CUSA07669_00-PSCP10",
+            "operand": "EXISTS",
+            "operator": "FALSE",
+            "rightOperand": null,
+            "name": "PlayStationPlus Celebration Pack 10",
+            "description": null,
+            "entitlement_type": null,
+            "drms": []
+          },
+          {
+            "id": "EP1464-CUSA07669_00-PSCP10",
+            "operand": "IS_ACTIVE",
+            "operator": "FALSE",
+            "rightOperand": null,
+            "name": "PlayStationPlus Celebration Pack 10",
+            "description": null,
+            "entitlement_type": null,
+            "drms": []
+          }
+        ],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-PSCP10",
+            "license_type": 0,
+            "metadata": null,
+            "name": "PlayStationPlus Celebration Pack 10",
+            "packageType": null,
+            "packages": [],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 1,
+            "use_count": 1,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-PSCP100000000000-E001",
+        "is_original": false,
+        "name": "Add-On",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 0,
+        "rewards": [
+          {
+            "id": "IP9102-NPIA90006_01-RWD-1019",
+            "entitlement_id": "IP9102-NPIA90006_01-RWD-1019",
+            "service_provider_id": "IP9102",
+            "discount": 0,
+            "price": 0,
+            "reward_type": 3,
+            "display_price": "Kostenlos",
+            "name": "Exclusive reward (not to expire with subscription)",
+            "description": "Als PlayStation\u00aePlus-Mitglied kannst du diesen exklusiven Inhalt downloaden und f\u00fcr immer behalten. Du bist noch kein Mitglied? Melde dich f\u00fcr PlayStation\u00aePlus an und erhalte zahlreiche PlayStation\u00ae-Extras!\r\n",
+            "isPlus": true,
+            "rewardSourceId": 1,
+            "reward_source_type_id": 1,
+            "start_date": "2020-07-10T04:00:00Z"
+          }
+        ],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Kost\u00fcm",
+          "key": "COSTUME"
+        }
+      ],
+      "game_contentType": "Kost\u00fcm",
+      "id": "EP1464-CUSA07669_00-PSCP100000000000",
+      "images": [
+        {
+          "type": 10,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202006/3005/T3ImUldrVOM86GwYevYB3gfa.png"
+        }
+      ],
+      "name": "Fortnite \u2013 PlayStation\u00aePlus-Sonderpaket",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2020-07-10T06:00:00Z",
+      "restricted": false,
+      "revision": 0,
+      "short_name": "PlayStation\u00aePlus-Sonderpaket",
+      "timestamp": 1598364747000,
+      "top_category": "add_on",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-PSCP100000000000/1598364747"
+    },
+    {
+      "bucket": "games",
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "\u20ac3,99",
+        "eligibilities": [
+          {
+            "id": "EP1464-CUSA07669_00-RMPA11",
+            "operand": "EXISTS",
+            "operator": "FALSE",
+            "rightOperand": null,
+            "name": "Fortnite \u2013 Wespia-Paket",
+            "description": null,
+            "entitlement_type": null,
+            "drms": []
+          },
+          {
+            "id": "EP1464-CUSA07669_00-RMPA11",
+            "operand": "IS_ACTIVE",
+            "operator": "FALSE",
+            "rightOperand": null,
+            "name": "Fortnite \u2013 Wespia-Paket",
+            "description": null,
+            "entitlement_type": null,
+            "drms": []
+          }
+        ],
+        "end_date": "2020-09-01T14:00:00Z",
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-RMPA11",
+            "license_type": 0,
+            "metadata": null,
+            "name": "Fortnite \u2013 Wespia-Paket",
+            "packageType": null,
+            "packages": [],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 1,
+            "use_count": 1,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-RMPA110000000000-E002",
+        "is_original": false,
+        "name": "Add-On",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 399,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Add-On",
+          "key": "ADD-ON"
+        }
+      ],
+      "game_contentType": "Add-On",
+      "id": "EP1464-CUSA07669_00-RMPA110000000000",
+      "images": [
+        {
+          "type": 10,
+          "url": "https://vulcan.dl.playstation.net/img/cfn/113076oE9x-lhfJjtyePBDIZEBgiI7kd8bpi24NhwpiEHUFoxhH0Q-_iSIIxr4_twRd4MpALPQoGg4t8CPwNBHIAXVE_ohd6.png"
+        }
+      ],
+      "name": "Fortnite \u2013 Wespia-Paket",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2020-06-23T00:00:00Z",
+      "restricted": false,
+      "revision": 5,
+      "short_name": "Wespia-Paket",
+      "timestamp": 1598576226000,
+      "top_category": "add_on",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-RMPA110000000000/1598576226"
+    },
+    {
+      "bucket": "games",
+      "cloud_only_platform": [
+        "NONE"
+      ],
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "Kostenlos",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-AV00000000000014",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "BEEF BOSS AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-AV00000000000014-E001",
+        "is_original": false,
+        "name": "Avatar",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 0,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Avatar",
+          "key": "AVATAR"
+        }
+      ],
+      "game_contentType": "Avatar",
+      "id": "EP1464-CUSA07669_00-AV00000000000014",
+      "images": [
+        {
+          "type": 1,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/UgRpjOw83rwIa7xq6WNxdGOsPHKZW8mr.png"
+        },
+        {
+          "type": 2,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/RStbwht5oSILqn6wlYPJUXnIqbOAyPUA.png"
+        },
+        {
+          "type": 9,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/4lm5ST9fIJN5IFIJrKtJ5qSq9aNjjMS1.png"
+        },
+        {
+          "type": 10,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/arN9Uez8UTKixtUdBHibVbzUOinKBMAB.png"
+        }
+      ],
+      "name": "Fortnite \u2013 Beefboss-Avatar",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2019-01-25T00:00:00Z",
+      "restricted": false,
+      "revision": 2,
+      "short_name": "Beefboss-Avatar",
+      "timestamp": 1597667233000,
+      "top_category": "avatar",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000014/1597667233"
+    },
+    {
+      "bucket": "games",
+      "cloud_only_platform": [
+        "NONE"
+      ],
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "Kostenlos",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-AV00000000000013",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "BRITE BOMBER AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-AV00000000000013-E001",
+        "is_original": false,
+        "name": "Avatar",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 0,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Avatar",
+          "key": "AVATAR"
+        }
+      ],
+      "game_contentType": "Avatar",
+      "id": "EP1464-CUSA07669_00-AV00000000000013",
+      "images": [
+        {
+          "type": 1,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/NOJIYTzbqXJR9KDjkYyyQJTWvwa0XQ2E.png"
+        },
+        {
+          "type": 2,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/z2VQvIN1FpqvNhoQN1OFJvjwwXveFcGG.png"
+        },
+        {
+          "type": 9,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/y7AzPnWHMPT8OSl7RoZ8R97O4E4CowNM.png"
+        },
+        {
+          "type": 10,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/YHZNpqkPdPV5UGahPbGpdIkNcw3UWxdK.png"
+        }
+      ],
+      "name": "Fortnite \u2013 Farbenbomber-Avatar",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2019-01-25T00:00:00Z",
+      "restricted": false,
+      "revision": 2,
+      "short_name": "Farbenbomber-Avatar",
+      "timestamp": 1597667232000,
+      "top_category": "avatar",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000013/1597667232"
+    },
+    {
+      "bucket": "games",
+      "cloud_only_platform": [
+        "NONE"
+      ],
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "Kostenlos",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-AV00000000000015",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "LITESHOW AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-AV00000000000015-E001",
+        "is_original": false,
+        "name": "Avatar",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 0,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Avatar",
+          "key": "AVATAR"
+        }
+      ],
+      "game_contentType": "Avatar",
+      "id": "EP1464-CUSA07669_00-AV00000000000015",
+      "images": [
+        {
+          "type": 1,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/ad43XiwAYGf4j0Le64e8rVcyUvEA19YW.png"
+        },
+        {
+          "type": 2,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/pArNLG4c6UHZsbhkDBVggovSV7IBh8bH.png"
+        },
+        {
+          "type": 9,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/e6HyBxBlpakwpFi11xMP3U2O7t346TUV.png"
+        },
+        {
+          "type": 10,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/te8zCCw3jsRcTDalxQMk9XHoapu0m7ML.png"
+        }
+      ],
+      "name": "Fortnite \u2013 Lightshow-Avatar",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2019-01-25T00:00:00Z",
+      "restricted": false,
+      "revision": 2,
+      "short_name": "Lightshow-Avatar",
+      "timestamp": 1597667233000,
+      "top_category": "avatar",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000015/1597667233"
+    },
+    {
+      "bucket": "games",
+      "cloud_only_platform": [
+        "NONE"
+      ],
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "Kostenlos",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-AV00000000000016",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "RAVAGE AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-AV00000000000016-E001",
+        "is_original": false,
+        "name": "Avatar",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 0,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Avatar",
+          "key": "AVATAR"
+        }
+      ],
+      "game_contentType": "Avatar",
+      "id": "EP1464-CUSA07669_00-AV00000000000016",
+      "images": [
+        {
+          "type": 1,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/xxx2Q7oJ5ylb9Tv39Ccj4GMoe20pwlWQ.png"
+        },
+        {
+          "type": 2,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/s4JZyZ7MDnxkYnW7q6yefPxfcNevdgfL.png"
+        },
+        {
+          "type": 9,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/0IAb0H5pWETfHWm01JUS6xjanOM5xK6v.png"
+        },
+        {
+          "type": 10,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/FzN63zdl466kymdKnb1HWHbOVxkCzAQe.png"
+        }
+      ],
+      "name": "Fortnite \u2013 Verw\u00fcstung-Avatar",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2019-01-25T00:00:00Z",
+      "restricted": false,
+      "revision": 2,
+      "short_name": "Verw\u00fcstung-Avatar",
+      "timestamp": 1597667232000,
+      "top_category": "avatar",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000016/1597667232"
+    },
+    {
+      "bucket": "games",
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "\u20ac31,99",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-MTX05K",
+            "license_type": 0,
+            "metadata": null,
+            "name": "Fortnite \u2013 5.000 V-Bucks",
+            "packageType": null,
+            "packages": [],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 1,
+            "use_count": 1,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-MTX05K0000000000-E004",
+        "is_original": false,
+        "name": "Virtuelle W\u00e4hrung",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 3199,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Add-On",
+          "key": "ADD-ON"
+        }
+      ],
+      "game_contentType": "Add-On",
+      "id": "EP1464-CUSA07669_00-MTX05K0000000000",
+      "images": [
+        {
+          "type": 10,
+          "url": "https://vulcan.dl.playstation.net/img/cfn/11307cY_ZUXMufjoc4FqWH2F1FWxDe-jlILvh5p_0iMu7vMMy0vBEAz-J_6KSKxl4_4dUUAzZQ3QX2n8h6aVUJEWOQUiQZdj.png"
+        }
+      ],
+      "name": "Fortnite \u2013 5.000 V-Bucks",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2018-10-30T00:00:00Z",
+      "restricted": false,
+      "revision": 18,
+      "short_name": "5.000 V-Bucks",
+      "timestamp": 1598576228000,
+      "top_category": "add_on",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-MTX05K0000000000/1598576228"
+    },
+    {
+      "bucket": "games",
+      "cloud_only_platform": [
+        "NONE"
+      ],
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "Kostenlos",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-AV00000000000006",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "FORTNITE - JONESY AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-AV00000000000006-E001",
+        "is_original": false,
+        "name": "Avatar",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 0,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Avatar",
+          "key": "AVATAR"
+        }
+      ],
+      "game_contentType": "Avatar",
+      "id": "EP1464-CUSA07669_00-AV00000000000006",
+      "images": [
+        {
+          "type": 1,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/k4VgHUhfAfAKwsge0pRtutlCPw3ggC9Z.png"
+        },
+        {
+          "type": 2,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/Ae7SG2Q3tltEjePrI1X0iwMwAr5YxDTg.png"
+        },
+        {
+          "type": 9,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/xHRVNlfYlZnnbbpxjYNEMz0ws0g3l0OQ.png"
+        },
+        {
+          "type": 10,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/j2HWnaTj8uDH8uTGf2ooDi3zkKXJ2dkT.png"
+        }
+      ],
+      "name": "Fortnite - Jonesy-Avatar",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2018-06-12T00:00:00Z",
+      "restricted": false,
+      "revision": 2,
+      "short_name": "Jonesy-Avatar",
+      "timestamp": 1597667232000,
+      "top_category": "avatar",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000006/1597667232"
+    },
+    {
+      "bucket": "games",
+      "cloud_only_platform": [
+        "NONE"
+      ],
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "Kostenlos",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-AV00000000000010",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "FORTNITE - LEVIATHAN AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-AV00000000000010-E001",
+        "is_original": false,
+        "name": "Avatar",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 0,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Avatar",
+          "key": "AVATAR"
+        }
+      ],
+      "game_contentType": "Avatar",
+      "id": "EP1464-CUSA07669_00-AV00000000000010",
+      "images": [
+        {
+          "type": 1,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/lwraRCswUZBOoj1La9BLONeWjA5POZVq.png"
+        },
+        {
+          "type": 2,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/tFHhhXmyKjOA0BSYPkXsoUJnAEMJQsKi.png"
+        },
+        {
+          "type": 9,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/Fpp7TW3KIBmXgL0CDjDdfg0SUm3E0Z2x.png"
+        },
+        {
+          "type": 10,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/JPvfiMKp13MGPZDzwmP8C4ZNMo47R03z.png"
+        }
+      ],
+      "name": "Fortnite - Leviathan-Avatar",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2018-06-12T00:00:00Z",
+      "restricted": false,
+      "revision": 3,
+      "short_name": "Leviathan-Avatar",
+      "timestamp": 1597667233000,
+      "top_category": "avatar",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000010/1597667233"
+    },
+    {
+      "bucket": "games",
+      "cloud_only_platform": [
+        "NONE"
+      ],
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "Kostenlos",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-AV00000000000011",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "FORTNITE - REX AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-AV00000000000011-E001",
+        "is_original": false,
+        "name": "Avatar",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 0,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Avatar",
+          "key": "AVATAR"
+        }
+      ],
+      "game_contentType": "Avatar",
+      "id": "EP1464-CUSA07669_00-AV00000000000011",
+      "images": [
+        {
+          "type": 1,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/OKyYHq3tN2Hryr0zbnOlLTxT5KDSpvX0.png"
+        },
+        {
+          "type": 2,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/QA4f9orS96pZB0vKXsnx7B5QWgViF10O.png"
+        },
+        {
+          "type": 9,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/5kRBxEpz30pWS7YEr41vp6BBlPB6eCiJ.png"
+        },
+        {
+          "type": 10,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/g26DcefvBH0VmikpwwtFHxf4OSnfcoIY.png"
+        }
+      ],
+      "name": "Fortnite - Rex-Avatar",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2018-06-12T00:00:00Z",
+      "restricted": false,
+      "revision": 3,
+      "short_name": "Rex-Avatar",
+      "timestamp": 1597667232000,
+      "top_category": "avatar",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000011/1597667232"
+    },
+    {
+      "bucket": "games",
+      "cloud_only_platform": [
+        "NONE"
+      ],
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "Kostenlos",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-AV00000000000012",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "FORTNITE - TRICERA OPS AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-AV00000000000012-E001",
+        "is_original": false,
+        "name": "Avatar",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 0,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Avatar",
+          "key": "AVATAR"
+        }
+      ],
+      "game_contentType": "Avatar",
+      "id": "EP1464-CUSA07669_00-AV00000000000012",
+      "images": [
+        {
+          "type": 1,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/liO3aOn5jlPXNwQDQR8vEiBBsU8BSp3t.png"
+        },
+        {
+          "type": 2,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/vOCY6RgFfU2g2oUpcufj27xL1J0b3xsn.png"
+        },
+        {
+          "type": 9,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/41vb3eDDhynrpQwCmTJJc1eT6AdSniOd.png"
+        },
+        {
+          "type": 10,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/8tsPaqt1JLHkrwiSPwbwYaUTILhtarce.png"
+        }
+      ],
+      "name": "Fortnite - Dinokommando-Avatar",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2018-06-12T00:00:00Z",
+      "restricted": false,
+      "revision": 3,
+      "short_name": "Dinokommando-Avatar",
+      "timestamp": 1597667231000,
+      "top_category": "avatar",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000012/1597667231"
+    },
+    {
+      "bucket": "games",
+      "cloud_only_platform": [
+        "NONE"
+      ],
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "Kostenlos",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-AV00000000000008",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "FORTNITE - CUDDLE TEAM LEADER AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-AV00000000000008-E001",
+        "is_original": false,
+        "name": "Avatar",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 0,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Avatar",
+          "key": "AVATAR"
+        }
+      ],
+      "game_contentType": "Avatar",
+      "id": "EP1464-CUSA07669_00-AV00000000000008",
+      "images": [
+        {
+          "type": 1,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/NUeI68SVfCOlicRXMDzuxC8fdzlwpz1z.png"
+        },
+        {
+          "type": 2,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/oWauA9B1CBHBLePH29sw3zSniApNaXK0.png"
+        },
+        {
+          "type": 9,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/IIywtFK0vfd8mRbTbz8Zy6zrjSRKUjoL.png"
+        },
+        {
+          "type": 10,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/sKkMfaWMFKgP3EKgAjqLJuPe6smdWPZt.png"
+        }
+      ],
+      "name": "Fortnite - Kuschelbeauftragte-Avatar",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2018-06-01T00:00:00Z",
+      "restricted": false,
+      "revision": 3,
+      "short_name": "Kuschelbeauftragte-Avatar",
+      "timestamp": 1597667233000,
+      "top_category": "avatar",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000008/1597667233"
+    },
+    {
+      "bucket": "games",
+      "cloud_only_platform": [
+        "NONE"
+      ],
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "Kostenlos",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-AV00000000000007",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "FORTNITE - RAVEN AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-AV00000000000007-E001",
+        "is_original": false,
+        "name": "Avatar",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 0,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Avatar",
+          "key": "AVATAR"
+        }
+      ],
+      "game_contentType": "Avatar",
+      "id": "EP1464-CUSA07669_00-AV00000000000007",
+      "images": [
+        {
+          "type": 1,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/jBeiHA5Cmkwq4OV4Pz9dkTKmiVC4WTB1.png"
+        },
+        {
+          "type": 2,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/Wna08aVwx2I3QPAaRKle227DzxL6fUkU.png"
+        },
+        {
+          "type": 9,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/ySBasG2Ce3Sw5kc9vAveaRZwOkWvGMmI.png"
+        },
+        {
+          "type": 10,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/OjHj0H5lI4L5DdwcNIbfMyinZm66cRVV.png"
+        }
+      ],
+      "name": "Fortnite - Raben-Avatar",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2018-06-01T00:00:00Z",
+      "restricted": false,
+      "revision": 3,
+      "short_name": "Raben-Avatar",
+      "timestamp": 1597667233000,
+      "top_category": "avatar",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000007/1597667233"
+    },
+    {
+      "bucket": "games",
+      "cloud_only_platform": [
+        "NONE"
+      ],
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "Kostenlos",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-AV00000000000009",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "FORTNITE - TOMATOHEAD AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-AV00000000000009-E001",
+        "is_original": false,
+        "name": "Avatar",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 0,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Avatar",
+          "key": "AVATAR"
+        }
+      ],
+      "game_contentType": "Avatar",
+      "id": "EP1464-CUSA07669_00-AV00000000000009",
+      "images": [
+        {
+          "type": 1,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/r3wbWHsJsVgitubIL3FaIPNRErM2z55X.png"
+        },
+        {
+          "type": 2,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/F4Zx0JyLvipRlvPhnOtF2peJIxU9hUf8.png"
+        },
+        {
+          "type": 9,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/Rc7EbgDo4juPw85WV2BayBQLxtdgvsPF.png"
+        },
+        {
+          "type": 10,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/tEne1yRGxnzdfkzsL7UYgl7a9uqwS5GZ.png"
+        }
+      ],
+      "name": "Fortnite - Tomatenkopf-Avatar",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2018-06-01T00:00:00Z",
+      "restricted": false,
+      "revision": 3,
+      "short_name": "Tomatenkopf-Avatar",
+      "timestamp": 1597667233000,
+      "top_category": "avatar",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000009/1597667233"
+    },
+    {
+      "bucket": "games",
+      "cloud_only_platform": [
+        "NONE"
+      ],
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "Kostenlos",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-AV00000000000005",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "FORTNITE - LLAMA AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-AV00000000000005-E001",
+        "is_original": false,
+        "name": "Avatar",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 0,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Avatar",
+          "key": "AVATAR"
+        }
+      ],
+      "game_contentType": "Avatar",
+      "id": "EP1464-CUSA07669_00-AV00000000000005",
+      "images": [
+        {
+          "type": 1,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/z0ANdVUhh3plQ6kesLXI7TToR5WvmnFf.png"
+        },
+        {
+          "type": 2,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/86AH99BjrRuYJNsaZC320vJLFcUKDLGU.png"
+        },
+        {
+          "type": 9,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/XAHnFfnb8MD47kMPUBc6YESlwKWe5rWb.png"
+        },
+        {
+          "type": 10,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/OSgFnKjkAJQwuy4zKKBAq4fYQWhHoUBl.png"
+        }
+      ],
+      "name": "Fortnite - Lama-Avatar",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2018-06-01T00:00:00Z",
+      "restricted": false,
+      "revision": 3,
+      "short_name": "Lama-Avatar",
+      "timestamp": 1597667233000,
+      "top_category": "avatar",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000005/1597667233"
+    },
+    {
+      "bucket": "games",
+      "cloud_only_platform": [
+        "NONE"
+      ],
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "Kostenlos",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-SFTHEME000000001",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "ADDON_SHAREFACTORY"
+              ]
+            },
+            "name": "Fortnite SHAREfactory\u2122 Theme",
+            "packageType": "PS4AC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 61800448
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-SFTHEME000000001-E001",
+        "is_original": false,
+        "name": "Theme",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 0,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Add-On",
+          "key": "ADDON_SHAREFACTORY"
+        }
+      ],
+      "game_contentType": "Add-On",
+      "id": "EP1464-CUSA07669_00-SFTHEME000000001",
+      "images": [
+        {
+          "type": 1,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/OQzYiyhjdcZwuUCUWY1vgyUO0NqAblGs.png"
+        },
+        {
+          "type": 2,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/hyMtSacB8YOc3KpGTenr1PF5Ci2pyeSL.png"
+        },
+        {
+          "type": 9,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/0xFDgPRv7oY3IAU7DR1m3ruTkVdrGjwF.png"
+        },
+        {
+          "type": 10,
+          "url": "https://apollo2.dl.playstation.net/cdn/EP1464/CUSA07669_00/gF3b1pbx4c4uEXrf8NEu6GaoLboHBy67.png"
+        }
+      ],
+      "name": "Fortnite-SHAREfactory\u2122-Design",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2018-05-10T00:00:00Z",
+      "restricted": false,
+      "revision": 1,
+      "short_name": "SHAREfactory\u2122-Design",
+      "timestamp": 1598576408000,
+      "top_category": "game_content",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-SFTHEME000000001/1598576408"
+    },
+    {
+      "bucket": "games",
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "\u20ac79,99",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-MTX14K",
+            "license_type": 0,
+            "metadata": null,
+            "name": "Fortnite \u2013 13.500 V-Bucks",
+            "packageType": null,
+            "packages": [],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 1,
+            "use_count": 1,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-MTX14K0000000000-E005",
+        "is_original": false,
+        "name": "Virtuelle W\u00e4hrung",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 7999,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Add-On",
+          "key": "ADD-ON"
+        }
+      ],
+      "game_contentType": "Add-On",
+      "id": "EP1464-CUSA07669_00-MTX14K0000000000",
+      "images": [
+        {
+          "type": 10,
+          "url": "https://vulcan.dl.playstation.net/img/cfn/11307fLRAY2ujz5b5LCMFUXSSMk32ZyiPAd_rPyUu7tM9k4ctPQCqK7KKJSXap1hBwIZ3ORuQa4BQlCaDIkaIAERePY7lr4T.png"
+        }
+      ],
+      "name": "Fortnite \u2013 13.500 V-Bucks",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2017-07-21T00:00:00Z",
+      "restricted": false,
+      "revision": 21,
+      "short_name": "13.500 V-Bucks",
+      "timestamp": 1598576238000,
+      "top_category": "add_on",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-MTX14K0000000000/1598576238"
+    },
+    {
+      "bucket": "games",
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "\u20ac19,99",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-MTX03K",
+            "license_type": 0,
+            "metadata": null,
+            "name": "Fortnite \u2013 2.800 V-Bucks",
+            "packageType": null,
+            "packages": [],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 1,
+            "use_count": 1,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-MTX03K0000000000-E005",
+        "is_original": false,
+        "name": "Virtuelle W\u00e4hrung",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 1999,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Add-On",
+          "key": "ADD-ON"
+        }
+      ],
+      "game_contentType": "Add-On",
+      "id": "EP1464-CUSA07669_00-MTX03K0000000000",
+      "images": [
+        {
+          "type": 10,
+          "url": "https://vulcan.dl.playstation.net/img/cfn/11307VpNgDwV-vnA4kieFBaKAJZWL9VfZpn8jOZ6vkqDCkJsHf-9yWn5qhznuy27lMbGO4iSjIMva3NGHwcGpCmKVMEHUxXg.png"
+        }
+      ],
+      "name": "Fortnite \u2013 2.800 V-Bucks",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2017-07-21T00:00:00Z",
+      "restricted": false,
+      "revision": 21,
+      "short_name": "2.800 V-Bucks",
+      "timestamp": 1598576236000,
+      "top_category": "add_on",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-MTX03K0000000000/1598576236"
+    },
+    {
+      "bucket": "games",
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "\u20ac7,99",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-MTX01K",
+            "license_type": 0,
+            "metadata": null,
+            "name": "Fortnite \u2013 1.000 V-Bucks",
+            "packageType": null,
+            "packages": [],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 1,
+            "use_count": 1,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-MTX01K0000000000-E005",
+        "is_original": false,
+        "name": "Virtuelle W\u00e4hrung",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 799,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Add-On",
+          "key": "ADD-ON"
+        }
+      ],
+      "game_contentType": "Add-On",
+      "id": "EP1464-CUSA07669_00-MTX01K0000000000",
+      "images": [
+        {
+          "type": 10,
+          "url": "https://vulcan.dl.playstation.net/img/cfn/113077E1AKdCrhuy7jtPSeLeghvuFdSWiFv3zzyyzMoMNVrEvLi0Qe94e9pjhYhdXmfRGtMviI0-PhREd2Wcfy9y4BcJ3Lwb.png"
+        }
+      ],
+      "name": "Fortnite \u2013 1.000 V-Bucks",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2017-07-21T00:00:00Z",
+      "restricted": false,
+      "revision": 16,
+      "short_name": "1.000 V-Bucks",
+      "timestamp": 1598576237000,
+      "top_category": "add_on",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-MTX01K0000000000/1598576237"
+    }
+  ],
+  "long_desc": "Sei dabei in Fortnite Kapitel 2 \u2013 Saison 4: Nexus War und schlie\u00dfe dich den Helden und B\u00f6sewichten von Marvel an. Spiele als Iron Man, Thor, Storm und weitere Charaktere, w\u00e4hrend du dich auf den Kampf gegen Galactus den Weltenverschlinger vorbereitest. Setze neue Superkr\u00e4fte ein, r\u00fcste dich mit dem Stark Industries-Sturmgewehr aus und erkunde bekannte Orte aus dem Marvel-Universum.<br/><br/>Im komplett kostenlosen Mehrspielertitel Fortnite kannst du zusammen mit deinen Freunden eine Fortnite-Welt nach deinen W\u00fcnschen gestalten oder dir eine Schlacht bis auf den letzten \u00dcberlebenden liefern. Spiele jetzt KOSTENLOS Battle Royale sowie den Fortnite-Kreativmodus. Lade es jetzt herunter und st\u00fcrz dich in die Action.<br/><br/>Der Download ist au\u00dferdem ein guter Anreiz, dir die kooperative PvE-Kampagne \u201eRette die Welt\u201c zu kaufen, die Teil von Fortnites Early Access ist.<br/><br/>Dieses Produkt verf\u00fcgt \u00fcber folgende Sprachunterst\u00fctzung: Englisch<br/><br/><br/><br/>In-Game-K\u00e4ufe optional<br/><br/><br/><br/>Offline-Einzelspieler<br/>Online-Multiplayer (2\u201399\u00a0Spieler). Die Online-Funktionen erfordern ein Konto und unterliegen unseren Nutzungsbedingungen (playstationnetwork.com/terms-of-service), unseren Datenschutzrichtlinien (playstationnetwork.com/privacy-policy) und den Datenschutzrichtlinien des Spielherausgebers.<br/>Verwendet die DUALSHOCK\u00a04-Vibrationsfunktion<br/>Optionale In-Game-Eink\u00e4ufe<br/>Onlinespiel erforderlich<br/><br><br>Der Download dieses Produkts unterliegt den Nutzungsbedingungen von PlayStation Network und unseren Software-Nutzungsbedingungen sowie allen f\u00fcr dieses Produkt geltenden Zusatzbedingungen. Der Download erfordert die Zustimmung zu diesen Bedingungen. Weitere wichtige Informationen finden sich in den Nutzungsbedingungen.<br><br>Einmalige Lizenzgeb\u00fchr f\u00fcr den Download auf mehrere PS4-Systeme. F\u00fcr eine Verwendung auf Ihrem prim\u00e4ren PS4-System ist keine Anmeldung im PlayStation Network erforderlich, f\u00fcr die Verwendung auf anderen PS4-Systemen m\u00fcssen Sie sich jedoch anmelden.<br><br>Bitte lesen Sie sich die Informationen in den Gesundheitswarnungen durch, bevor Sie dieses Produkt verwenden.<br><br>Bibliotheksprogramme \u00a9 Sony Interactive Entertainment Inc., unter exklusiver Lizenz f\u00fcr Sony Interactive Entertainment Europe. Es gelten die Software-Nutzungsbedingungen. Vollst\u00e4ndige Nutzungsrechte unter eu.playstation.com/legal.<br>",
+  "mediaList": {
+    "previews": [
+      {
+        "type": "PREVIEW",
+        "typeId": 2,
+        "source": "PRODUCT_MEDIA",
+        "url": "https://vulcan.dl.playstation.net/img/rnd/202008/2707/nbcNrTrqn1Fjivj70vZrEwRi.mp4",
+        "order": 0,
+        "streamUrl": "https://vulcan.dl.playstation.net/ap/bm/9bc8c912-167d-48dc-a43b-63f11686d791-kebvxges/master_avc.m3u8",
+        "shots": [
+          "https://vulcan.dl.playstation.net/img/rnd/202008/2707/QTslrGza0FXRff2JAcqGfLF1.png"
+        ]
+      },
+      {
+        "type": "PREVIEW",
+        "typeId": 2,
+        "source": "PRODUCT_MEDIA",
+        "url": "https://vulcan.dl.playstation.net/img/rnd/202008/2707/PGW104LJoOTyffkN8tgh5Gtt.mp4",
+        "order": 1,
+        "streamUrl": "https://vulcan.dl.playstation.net/ap/bm/90f5bf23-d60d-4b5d-8c4d-943343ba7f5d-kebvxg23/master_avc.m3u8",
+        "shots": [
+          "https://vulcan.dl.playstation.net/img/rnd/202008/2707/TdU3RCwmsf3TlWwxXW6tOyIH.png"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "type": "SCREENSHOT",
+        "typeId": 4,
+        "source": "PRODUCT_MEDIA",
+        "url": "https://vulcan.dl.playstation.net/img/cfn/11307hJ3VoVZr_37CHywYtrIpcIEXnqYdeZvJcVXNiZgmweQQQmJUHhNYwE9KfMWFvTIwWNwcB4ZvvLnay19bfCaHbMDhin8.jpg",
+        "order": 0
+      },
+      {
+        "type": "SCREENSHOT",
+        "typeId": 4,
+        "source": "PRODUCT_MEDIA",
+        "url": "https://vulcan.dl.playstation.net/img/cfn/11307ZN32DW11nvSIJ5yKX41q8zFlR5r-PqnAfG2zJ6ALpFQT0-GjaW0WOPKUj8VQVPg9KIM1om42G4K62lT_4zryBQMU9w8.jpg",
+        "order": 1
+      },
+      {
+        "type": "SCREENSHOT",
+        "typeId": 4,
+        "source": "PRODUCT_MEDIA",
+        "url": "https://vulcan.dl.playstation.net/img/cfn/11307unhOcn3PylqyUlz-gszG-ZF6tvLmdppHsmyHCjw0DiswaruCtt0wUyjwKZg-l62J_-PrvsDt9rN1FYmO2t9s8AkaCMB.jpg",
+        "order": 2
+      },
+      {
+        "type": "SCREENSHOT",
+        "typeId": 4,
+        "source": "PRODUCT_MEDIA",
+        "url": "https://vulcan.dl.playstation.net/img/cfn/113070cnNonsDeOHLP0bqyj3m22ts_717-_0CbHy5CG6oH6oPd0WoowL7hUivD8ejX2pV97USAO8BMLs8RGeeJaFAzMRyIDY.jpg",
+        "order": 3
+      },
+      {
+        "type": "SCREENSHOT",
+        "typeId": 4,
+        "source": "PRODUCT_MEDIA",
+        "url": "https://vulcan.dl.playstation.net/img/cfn/11307W-7F9-IgIJ9j3hLejn5dL1TD9Y6A4VjfXy1pi-VEjEMlHlqWUCoxAPKfmvNu3Zrc948P-cTrg7WYsS2W2j1-OclAVAX.jpg",
+        "order": 4
+      }
+    ]
+  },
+  "media_layouts": [
+    {
+      "type": "description",
+      "height": 1,
+      "width": 4
+    }
+  ],
+  "metadata": {
+    "cn_remotePlay": {
+      "name": "cn_remotePlay",
+      "values": [
+        "FALSE"
+      ]
+    },
+    "cn_vrEnabled": {
+      "name": "cn_vrEnabled",
+      "values": [
+        "FALSE"
+      ]
+    },
+    "game_subgenre": {
+      "name": "subgenre",
+      "values": [
+        "EPIC",
+        "THIRD_PERSON_SHOOTER",
+        "TEAM_FIGHTING"
+      ]
+    },
+    "cn_vrRequired": {
+      "name": "cn_vrRequired",
+      "values": [
+        "FALSE"
+      ]
+    },
+    "game_genre": {
+      "name": "Genre",
+      "values": [
+        "ACTION",
+        "ADVENTURE"
+      ]
+    },
+    "playable_platform": {
+      "name": "playable_platform",
+      "values": [
+        "PS4\u2122"
+      ]
+    },
+    "cn_dualshockVibration": {
+      "name": "cn_dualshockVibration",
+      "values": [
+        "TRUE"
+      ]
+    },
+    "tertiary_classification": {
+      "name": "tertiary_classification",
+      "values": [
+        "FREEMIUM"
+      ]
+    },
+    "genre": {
+      "name": "Genre",
+      "values": [
+        "Action",
+        "Abenteuer"
+      ]
+    },
+    "cn_psVrAimRequired": {
+      "name": "cn_psVrAimRequired",
+      "values": [
+        "FALSE"
+      ]
+    },
+    "cn_crossPlatformPSVita": {
+      "name": "cn_crossPlatformPSVita",
+      "values": [
+        "FALSE"
+      ]
+    },
+    "cn_onlinePlayMode": {
+      "name": "cn_onlinePlayMode",
+      "values": [
+        "REQUIRED"
+      ]
+    },
+    "cn_psVrAimEnabled": {
+      "name": "cn_psVrAimEnabled",
+      "values": [
+        "FALSE"
+      ]
+    },
+    "primary_classification": {
+      "name": "primary_classification",
+      "values": [
+        "PREMIUM_GAME"
+      ]
+    },
+    "cn_playstationMove": {
+      "name": "cn_playstationMove",
+      "values": [
+        "NOTREQUIRED"
+      ]
+    },
+    "cn_wirelessController": {
+      "name": "cn_wirelessController",
+      "values": [
+        "NOTREQUIRED"
+      ]
+    },
+    "cn_numberOfNetworkPlayers": {
+      "name": "cn_numberOfNetworkPlayers",
+      "values": [
+        "99"
+      ]
+    },
+    "secondary_classification": {
+      "name": "secondary_classification",
+      "values": [
+        "GAME"
+      ]
+    },
+    "cn_psEnhanced": {
+      "name": "cn_psEnhanced",
+      "values": [
+        "FALSE"
+      ]
+    },
+    "cn_numberOfPlayers": {
+      "name": "cn_numberOfPlayers",
+      "values": [
+        "1"
+      ]
+    },
+    "subgenre": {
+      "name": "subgenre",
+      "values": [
+        "EPIC",
+        "THIRD_PERSON_SHOOTER",
+        "TEAM_FIGHTING"
+      ]
+    },
+    "container_type": {
+      "name": "Container-Spiele",
+      "values": [
+        "NP_PS4_REPRESENTATIVE"
+      ]
+    },
+    "cn_inGamePurchases": {
+      "name": "cn_inGamePurchases",
+      "values": [
+        "OPTIONAL"
+      ]
+    },
+    "cn_playstationCamera": {
+      "name": "cn_playstationCamera",
+      "values": [
+        "NOTREQUIRED"
+      ]
+    },
+    "cn_singstarMicrophone": {
+      "name": "cn_singstarMicrophone",
+      "values": [
+        "NOTREQUIRED"
+      ]
+    }
+  },
+  "name": "Fortnite",
+  "pageTypeId": 2,
+  "playable_platform": [
+    "PS4\u2122"
+  ],
+  "promomedia": [
+    {
+      "id": 0,
+      "key": "preview",
+      "type": 2,
+      "url": "https://vulcan.dl.playstation.net/img/rnd/202008/2707/nbcNrTrqn1Fjivj70vZrEwRi.mp4?country=DE"
+    },
+    {
+      "id": 0,
+      "key": "preview",
+      "type": 2,
+      "url": "https://vulcan.dl.playstation.net/img/rnd/202008/2707/PGW104LJoOTyffkN8tgh5Gtt.mp4?country=DE"
+    }
+  ],
+  "provider_name": "EPIC GAMES",
+  "relationships": [
+    {
+      "count": 7,
+      "id": "ADD-ONS",
+      "key_name": "add-ons",
+      "name": "Extras",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-FORTNITETESTING1/1598576045?relationship=ADD-ONS"
+    },
+    {
+      "count": 12,
+      "id": "AVATARS",
+      "key_name": "avatars",
+      "name": "Avatare",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-FORTNITETESTING1/1598576045?relationship=AVATARS"
+    },
+    {
+      "count": 1,
+      "id": "EXTRAS",
+      "key_name": "extras",
+      "name": "Weitere Extras",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-FORTNITETESTING1/1598576045?relationship=EXTRAS"
+    }
+  ],
+  "release_date": "2017-07-21T00:00:00Z",
+  "restricted": false,
+  "revision": 75,
+  "short_name": "Fortnite",
+  "size": 20,
+  "sku_links": [],
+  "skus": [
+    {
+      "amortizeFlag": false,
+      "bundleExclusiveFlag": false,
+      "chargeImmediatelyFlag": false,
+      "charge_type_id": 0,
+      "credit_card_required_flag": 0,
+      "defaultSku": true,
+      "display_price": "Kostenlos",
+      "eligibilities": [],
+      "entitlements": [
+        {
+          "description": null,
+          "drms": [],
+          "duration": 0,
+          "durationOverrideTypeId": null,
+          "exp_after_first_use": 0,
+          "feature_type_id": 3,
+          "id": "EP1464-CUSA07669_00-FORTNITETESTING1",
+          "license_type": 0,
+          "metadata": {
+            "voiceLanguageCode": [
+              "en"
+            ],
+            "subtitleLanguageCode": [
+              "en"
+            ]
+          },
+          "name": "Fortnite",
+          "packageType": "PS4GD",
+          "packages": [
+            {
+              "platformId": 13,
+              "platformName": "ps4",
+              "size": 6692143104
+            }
+          ],
+          "preorder_placeholder_flag": false,
+          "size": 0,
+          "subType": 0,
+          "subtitle_language_codes": [
+            "en"
+          ],
+          "type": 5,
+          "use_count": 0,
+          "voice_language_codes": [
+            "en"
+          ]
+        }
+      ],
+      "id": "EP1464-CUSA07669_00-FORTNITETESTING1-E001",
+      "is_original": false,
+      "name": "Vollversion",
+      "platforms": [
+        0,
+        18,
+        10,
+        13
+      ],
+      "price": 0,
+      "rewards": [],
+      "seasonPassExclusiveFlag": false,
+      "skuAvailabilityOverrideFlag": false,
+      "sku_type": 0,
+      "type": "standard"
+    }
+  ],
+  "sort": "static",
+  "star_rating": {
+    "total": "2596061",
+    "score": "4.37",
+    "count": [
+      {
+        "star": 1,
+        "count": 235325
+      },
+      {
+        "star": 2,
+        "count": 26901
+      },
+      {
+        "star": 3,
+        "count": 184382
+      },
+      {
+        "star": 4,
+        "count": 236078
+      },
+      {
+        "star": 5,
+        "count": 1913375
+      }
+    ]
+  },
+  "start": 0,
+  "timestamp": 1598576045000,
+  "title_name": "FORTNITE",
+  "top_category": "downloadable_game",
+  "total_results": 20
+}

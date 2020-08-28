@@ -1,0 +1,496 @@
+{
+  "productRatings": {
+    "_type": "Epic Store Product Ratings"
+  },
+  "disableNewAddons": true,
+  "modMarketplaceEnabled": false,
+  "_title": "fortnite",
+  "regionBlock": "",
+  "_noIndex": false,
+  "productName": "Fortnite",
+  "jcr:isCheckedOut": true,
+  "namespace": "fn",
+  "theme": {
+    "_type": "Diesel Theme"
+  },
+  "reviewOptOut": false,
+  "jcr:baseVersion": "a7ca237317f1e754baf63b-b67d-4d13-a23b-f3b44adc1d27",
+  "externalNavLinks": {
+    "_type": "Epic Store Links"
+  },
+  "_urlPattern": "/productv2/fortnite",
+  "_slug": "fortnite",
+  "_activeDate": "2018-10-17T13:50:57.250Z",
+  "lastModified": "2020-08-11T22:56:23.048Z",
+  "_locale": "en-US",
+  "_id": "7b47179d-a281-47ae-a2e0-8432697d4824",
+  "pages": [
+    {
+      "productRatings": {
+        "_type": "Epic Store Product Ratings"
+      },
+      "disableNewAddons": true,
+      "modMarketplaceEnabled": false,
+      "_title": "home",
+      "regionBlock": "",
+      "_noIndex": false,
+      "productName": "Fortnite",
+      "jcr:isCheckedOut": true,
+      "namespace": "fn",
+      "theme": {
+        "buttonPrimaryBg": "#F5CA23",
+        "customPrimaryBg": "#000000",
+        "_type": "Diesel Theme",
+        "colorScheme": "dark"
+      },
+      "reviewOptOut": false,
+      "jcr:baseVersion": "a7ca237317f1e75cab04a8-a13e-4a45-aaf1-d443f97b9c75",
+      "externalNavLinks": {
+        "_type": "Epic Store Links"
+      },
+      "_urlPattern": "/productv2/fortnite/home",
+      "_slug": "home",
+      "_activeDate": "2018-10-17T13:51:28.640Z",
+      "lastModified": "2020-08-27T08:17:07.625Z",
+      "_locale": "en-US",
+      "_id": "af8e309a-019d-42dd-899c-a05908ba4be5",
+      "offer": {
+        "regionRestrictions": {
+          "_type": "Store Region Filtering"
+        },
+        "_type": "Diesel Offer",
+        "namespace": "fn",
+        "id": "09176f4ff7564bbbb499bbe20bd6348f",
+        "hasOffer": true
+      },
+      "item": {
+        "catalogId": "4fe75bbc5a674f4f9b356b5c90567da5",
+        "appName": "Fortnite",
+        "_type": "Diesel Product Item",
+        "namespace": "fn",
+        "hasItem": true
+      },
+      "data": {
+        "socialLinks": {
+          "linkTwitter": "https://twitter.com/fortnitegame",
+          "linkTwitch": "https://www.twitch.tv/directory/game/Fortnite",
+          "linkFacebook": "https://www.facebook.com/FortniteGame/",
+          "linkYoutube": "https://www.youtube.com/user/epicfortnite",
+          "_type": "Diesel Social Links",
+          "linkVk": "https://vk.com/fortnite",
+          "linkDiscord": "http://discord.gg/fortnite",
+          "title": "Follow Fortnite",
+          "linkHomepage": "https://www.epicgames.com/fortnite",
+          "linkInstagram": "https://www.instagram.com/fortnite"
+        },
+        "requirements": {
+          "languages": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Korean",
+            "Polish",
+            "Portuguese (Brazil)",
+            "Russian",
+            "Spanish (Latin America, Spain)",
+            "Turkish",
+            "Arabic"
+          ],
+          "systems": [
+            {
+              "_type": "Diesel System Detail",
+              "systemType": "Windows",
+              "details": [
+                {
+                  "_type": "Diesel System Detail Item",
+                  "title": "OS",
+                  "minimum": "Windows 7/8/10 64-bit ",
+                  "recommended": "Windows 7/8/10 64-bit "
+                },
+                {
+                  "_type": "Diesel System Detail Item",
+                  "title": "CPU",
+                  "minimum": "Core i3 3.3 GHz",
+                  "recommended": "Core i5 3.5 GHz"
+                },
+                {
+                  "_type": "Diesel System Detail Item",
+                  "title": "Memory",
+                  "minimum": "4GB RAM",
+                  "recommended": "8GB RAM"
+                },
+                {
+                  "_type": "Diesel System Detail Item",
+                  "title": "GPU",
+                  "minimum": "Intel HD 4000",
+                  "recommended": "Nvidia GTX 660 or AMD Radeon HD 7870 equivalent DX11 GPU"
+                }
+              ]
+            },
+            {
+              "_type": "Diesel System Detail",
+              "systemType": "Mac",
+              "details": [
+                {
+                  "_type": "Diesel System Detail Item",
+                  "title": "OS",
+                  "minimum": "Mac OSX Mojave (10.14.6+)",
+                  "recommended": "Mac OSX Mojave (10.14.6+)"
+                },
+                {
+                  "_type": "Diesel System Detail Item",
+                  "title": "CPU",
+                  "minimum": "Core i3 3.3 GHz",
+                  "recommended": "Core i5 3.5 GHz"
+                },
+                {
+                  "_type": "Diesel System Detail Item",
+                  "title": "Memory",
+                  "minimum": "4GB RAM",
+                  "recommended": "8GB RAM"
+                },
+                {
+                  "_type": "Diesel System Detail Item",
+                  "title": "GPU",
+                  "minimum": " Intel Iris Pro 5200",
+                  "recommended": "Nvidia GTX 660 or AMD Radeon HD 7870 equivalent DX11 GPU"
+                }
+              ]
+            }
+          ],
+          "legalTags": [
+            {
+              "countryCodes": "DE",
+              "visibility": "visibleToSpecific",
+              "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_12-350x350-eb06b723e538efe4928dcde499cd8a6cc6a697cb.png",
+              "_type": "Epic Footer Legal Tag",
+              "title": "USK ab 12 "
+            },
+            {
+              "countryCodes": "JP",
+              "visibility": "visibleToSpecific",
+              "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite_CERO_C-400x337-84d54e9834bc91bda9623c7f395954246a6b7e28.png",
+              "_type": "Epic Footer Legal Tag",
+              "title": "CERO C"
+            },
+            {
+              "countryCodes": "AU,NZ",
+              "visibility": "visibleToSpecific",
+              "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite_ACB_M-2179x833-d266f3b9a5678a5521aa5fb94d77bda7011abc67.png",
+              "_type": "Epic Footer Legal Tag",
+              "title": "Mature"
+            },
+            {
+              "countryCodes": "BR",
+              "visibility": "visibleToSpecific",
+              "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FBR-12-80x80-03e9c6d23b9685b741e3381439740bc70ed35b66.png",
+              "_type": "Epic Footer Legal Tag",
+              "title": "12 anos"
+            },
+            {
+              "countryCodes": "RU",
+              "visibility": "visibleToSpecific",
+              "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FRU-12plus-68x71-53bf261697f6dee39e8b10dc1ca4dd71bea52b78.png",
+              "_type": "Epic Footer Legal Tag",
+              "title": "12+"
+            },
+            {
+              "countryCodes": "KR",
+              "visibility": "visibleToSpecific",
+              "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FKR-12-139x80-91bb81ee144c80e9e1b01456a1f35aee79905d57.png",
+              "_type": "Epic Footer Legal Tag",
+              "title": "12\uc138\uc774\uc6a9\uac00"
+            },
+            {
+              "countryCodes": "KR",
+              "visibility": "visibleToSpecific",
+              "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FKR-details-383x80-86a2f1fdecaa5b5e57298966f9df47274ec10d1d.png",
+              "_type": "Epic Footer Legal Tag",
+              "title": "Korea"
+            },
+            {
+              "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+              "visibility": "visibleToSpecific",
+              "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FPEGI_fn-116x142-e87be4367ec679bcf710975567f973a7ba766a81.png",
+              "_type": "Epic Footer Legal Tag",
+              "title": "PEGI 12"
+            },
+            {
+              "countryCodes": "US,CA",
+              "visibility": "visibleToSpecific",
+              "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FESRB-369x217-3386d50bb6a48893e81914fb8e44834ef4458c63.png",
+              "_type": "Epic Footer Legal Tag",
+              "title": "TEEN"
+            }
+          ],
+          "_type": "Diesel System Details",
+          "rating": {
+            "_type": "Diesel Rating",
+            "ratingImages": [
+              {
+                "altText": "rating: teen",
+                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FESRB-369x217-3386d50bb6a48893e81914fb8e44834ef4458c63.png",
+                "_type": "Diesel Image"
+              }
+            ]
+          }
+        },
+        "productLinks": {
+          "_type": "Diesel Product Lins"
+        },
+        "footer": {
+          "_type": "Diesel Product Footer",
+          "copy": "\u00a9 2019, Epic Games, Inc. Epic, Epic Games, the Epic Games logo, Fortnite, the Fortnite logo, Unreal, Unreal Engine 4 and UE4 are trademarks or registered trademarks of Epic Games, Inc. in the United States of America and elsewhere. All rights reserved.",
+          "privacyPolicyLink": {
+            "_type": "Diesel Link"
+          }
+        },
+        "_type": "Diesel Product Detail",
+        "about": {
+          "image": {
+            "altText": "Fortnite",
+            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FSeasonx%2F10BR_EGS_Launcher_G2-1000x840-de1b9f27e581238c9781b23ede586b6163151ef8.png",
+            "_type": "Diesel Image"
+          },
+          "developerAttribution": "Epic Games",
+          "_type": "Diesel Product About",
+          "publisherAttribution": "Epic Games",
+          "description": "# Fortnite Chapter 2  Battle. Build. Create. \nFortnite is the free, always evolving, multiplayer game where you and your friends battle to be the last one standing or collaborate to create your dream Fortnite world. Play both Battle Royale and Fortnite Creative for FREE. Download now and jump into the action. This download also gives you a path to purchase the Save the World co-op PvE campaign.\n",
+          "shortDescription": "The War To Save Reality Starts Now! The lore, legends, heroes, and villains from Marvel have arrived in Fortnite. Awaken the hero within and team up with Thor, Iron Man, She-Hulk, Storm, and more in Fortnite: Nexus War!  Haven't tried Fortnite before? Drop into Fortnite Chapter 2 - Season 4 and join the fight!",
+          "title": "Fortnite Season 4",
+          "developerLogo": {
+            "src": "https://cdn2.unrealengine.com/Diesel%2Flogo%2FLogo_EpicGames_Black-1360x1360-f15ee5845c95eacd424199bdf326047631b4bc69.png",
+            "_type": "Diesel Image"
+          }
+        },
+        "banner": {
+          "showPromotion": false,
+          "_type": "Epic Store Product Banner",
+          "link": {
+            "_type": "Diesel Link"
+          }
+        },
+        "hero": {
+          "logoImage": {
+            "altText": "Fortnite",
+            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite-Logo_w-Shadow-1778x811-ed23fe8dea13f030db120b226f9d2a101560bde2.png",
+            "_type": "Diesel Image"
+          },
+          "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/14br-bplaunch-egs-ft2-1200x1600-1200x1600-851248137.jpg",
+          "_type": "Diesel Hero",
+          "action": {
+            "_type": "Diesel Action",
+            "href": "",
+            "text": ""
+          },
+          "video": {
+            "loop": true,
+            "_type": "Diesel Video",
+            "hasFullScreen": false,
+            "hasControls": false,
+            "type": "htmlVideo",
+            "muted": false,
+            "autoplay": true
+          },
+          "isFullBleed": false,
+          "altContentPosition": false,
+          "backgroundImageUrl": "https://cdn2.unrealengine.com/14br-bplaunch-egs-ft1-1920x1080-1920x1080-851248346.jpg"
+        },
+        "carousel": {
+          "_type": "Diesel Carousel",
+          "items": [
+            {
+              "image": {
+                "_type": "Diesel Image"
+              },
+              "_type": "Diesel Carousel Item - Image OR Video",
+              "video": {
+                "epicStillDurationSeconds": 3,
+                "recipes": "{\n    \"ar\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"d5f0cdf89d024a2f8b7755133993cb43\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"85d5da2b02ec43f99f5ac13a676907e3\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"ec07946e84d74e4399bc252da4dd1792\"\n        }\n    ],\n    \"de\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"d2ad198f59b54c8b996999de796da1e7\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"8ba1cf3807dd4f7f8529a38009721acf\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"740df392154f4d5fb804768860924c45\"\n        }\n    ],\n    \"en-US\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"b9b0a7e8450743aea11bed57d8f03cd8\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"663a1d1deacb4c48ae9aabd646487bd7\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"456826d9e32e458eb2ca61ad4d154fa0\"\n        }\n    ],\n    \"es-MX\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"6228789425a4437d9096982a17ccf2dd\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"c5aea2c0a44445478e3d6cb788a046d4\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"ed577604eb8f449cbf29f6e21f747e93\"\n        }\n    ],\n    \"fr\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"0ce241c458b145ed94e928e9a229ec6a\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"96418f91111242b386c7fa68f91ee149\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"82c0da0c3978492790437692429abf23\"\n        }\n    ],\n    \"it\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"cdc722ae81864d8f9cb891ccee60d4a3\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"9fce9c438bb046dcb05c22db161b9f9e\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"4508f2eb1be343669e997990f1afa83c\"\n        }\n    ],\n    \"ja\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"378772c2005d4b1c996515b9eba1c92f\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"7e17500a1aab4da190f47e07d47c48c4\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"e7fbe6f5341d4916bd26cc782e60c359\"\n        }\n    ],\n    \"ko\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"c58eeb34cb914a8f9b40d20f79959f75\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"34e5cf24ab75409ca41f256f54241576\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"9bb70a64d315456bb0446f113199f879\"\n        }\n    ],\n    \"pl\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"185dfa58b64d4ee685c34db974e3eb73\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"13ae5ccc31184a41a89641ae14637734\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"f3f025b711ea4751a2dca04a3a560acb\"\n        }\n    ],\n    \"pt-BR\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"87e8bc9ba67d4148913a16c16d17893a\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"4333bd78c038474983490eed09e14840\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"ec7b68a331ae4da58805b86ec239abcc\"\n        }\n    ],\n    \"ru\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"9258854f7cc94405a2ee5bb3990d6e51\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"ec5605edc24b4ad5b4a96f88053c48a9\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"8fb17f5f2ef54c32a9dce072f02b0831\"\n        }\n    ]\n}",
+                "epicStillType": "OVERLAY_BR",
+                "loop": true,
+                "_type": "Diesel Video",
+                "hasFullScreen": false,
+                "hasControls": true,
+                "title": "Cinematic",
+                "type": "epicHosted",
+                "muted": false,
+                "autoplay": true
+              }
+            },
+            {
+              "image": {
+                "_type": "Diesel Image"
+              },
+              "_type": "Diesel Carousel Item - Image OR Video",
+              "video": {
+                "epicStillDurationSeconds": 3,
+                "recipes": "{\n    \"ar\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"e6a714f593c14c029b18d2036872ba78\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"843cd3a756594c05a9920b3c3ce99336\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"81a69b6b510d4d7a82206885d11c6cde\"\n        }\n    ],\n    \"de\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"09876208be324f29a36c0a3eed346806\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"b5fedf4c6e30489aa0aac1c870b1396d\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"c128a91e4fed47f2a078294331ada6e7\"\n        }\n    ],\n    \"en-US\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"5a20a66e3c944a4896ae8fa688e73478\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"69a7487f47cc4424b68d9b4a055cd3aa\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"a0fe1a12a8ab43cdba006c640c28f746\"\n        }\n    ],\n    \"es-ES\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"6670600e754a4ec8865899aaef111153\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"e9354a96d46d4e77823713aaf28d9cb5\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"f2a23d7dad9b4741823739b71a6cf4d7\"\n        }\n    ],\n    \"es-MX\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"4701f937e7fe4533b849ffcacf60ce02\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"3ffb8c4311144f39974fa88f901e9c10\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"9a0d109ac8dd460da48083bb8262637e\"\n        }\n    ],\n    \"fr\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"5af50ad44bb24cde8405f121fa51f936\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"7de372a7ea424c3b964786f167baac37\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"3e6cd1b3345e407aacb53e1047026ca3\"\n        }\n    ],\n    \"it\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"bbd5706c8cf44527b16086bc3a7592ba\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"95849dd54e3c4afb89ed2dc4e1032108\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"c7380350ecf14a80a8d49656d734a8b3\"\n        }\n    ],\n    \"ja\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"019cba4b90dd408cb1526453f7ae8f48\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"dd6d60396a444b42b8231a002dedc746\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"945d3a96807042cdbc2db0eb9d20d683\"\n        }\n    ],\n    \"ko\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"77ace43124304e50b1c426a6e9a4bf2f\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"d3fca83df97345f3b9d19737875cecac\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"03984d7ddd7742a29d528bfdad35f6b8\"\n        }\n    ],\n    \"pl\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"f4aac37225984810a37bb07ee6f3c40f\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"fba73b934ef8419898175df2bc78d4f8\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"eded0904a65942c5a1315b1a801eb502\"\n        }\n    ],\n    \"pt-BR\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"91f7b2933365470cb47483d837ed957e\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"4bb75aa59fff4d26ad0c9522ffdcd263\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"d43eabfc385f47dfb0545a3d1155f88b\"\n        }\n    ],\n    \"ru\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"f67838e8b0a14e259aa0bf174e18dca6\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"7f01bbca7aff4f2580f22a5a5b79f0a4\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"6f76c40900f64177bc5ef617a0bbc994\"\n        }\n    ],\n    \"tr\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"733f37404e4d47bbb07ac194f1c3fe16\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"ce454658e76e471c82e68bbeba1222ae\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"2b20bc99fe3d4e538a6bb392594c4539\"\n        }\n    ]\n}",
+                "epicStillType": "OVERLAY_BR",
+                "loop": true,
+                "_type": "Diesel Video",
+                "hasFullScreen": false,
+                "hasControls": true,
+                "title": "Battle Pass",
+                "type": "epicHosted",
+                "muted": false,
+                "autoplay": true
+              }
+            },
+            {
+              "image": {
+                "src": "https://cdn2.unrealengine.com/14br-bplaunch-egs-g1-1280x720-1280x720-851248117.jpg",
+                "_type": "Diesel Image"
+              },
+              "_type": "Diesel Carousel Item - Image OR Video",
+              "video": {
+                "loop": false,
+                "_type": "Diesel Video",
+                "hasFullScreen": false,
+                "hasControls": false,
+                "muted": false,
+                "autoplay": false
+              }
+            }
+          ]
+        },
+        "editions": {
+          "_type": "Epic Store Editions",
+          "enableImages": false
+        },
+        "meta": {
+          "releaseDate": "2017-07-25T04:00:00.000Z",
+          "_type": "Epic Store Meta",
+          "publisher": [
+            "Epic Games"
+          ],
+          "logo": {
+            "_type": "Epic Store Image"
+          },
+          "developer": [
+            "Epic Games"
+          ],
+          "platform": [
+            "Windows",
+            "MAC"
+          ],
+          "tags": [
+            "SHOOTER",
+            "MULTIPLAYER",
+            "SINGLE_PLAYER"
+          ]
+        },
+        "markdown": {
+          "_type": "Epic Store Markdown"
+        },
+        "dlc": {
+          "contingentOffer": {
+            "regionRestrictions": {
+              "_type": "Store Region Filtering"
+            },
+            "_type": "Diesel Offer",
+            "hasOffer": false
+          },
+          "_type": "Epic Store DLC",
+          "enableImages": false
+        },
+        "seo": {
+          "image": {
+            "_type": "Epic Store Image"
+          },
+          "twitter": {
+            "_type": "SEO Twitter Metadata"
+          },
+          "_type": "Epic Store Product SEO",
+          "og": {
+            "_type": "SEO OG Metadata"
+          }
+        },
+        "productSections": [
+          {
+            "productSection": "HERO",
+            "_type": "Diesel Product Section"
+          },
+          {
+            "productSection": "ABOUT",
+            "_type": "Diesel Product Section"
+          },
+          {
+            "productSection": "CAROUSEL",
+            "_type": "Diesel Product Section"
+          },
+          {
+            "productSection": "SOCIAL_LINKS",
+            "_type": "Diesel Product Section"
+          },
+          {
+            "productSection": "GALLERY",
+            "_type": "Diesel Product Section"
+          },
+          {
+            "productSection": "REQUIREMENTS",
+            "_type": "Diesel Product Section"
+          },
+          {
+            "productSection": "FOOTER",
+            "_type": "Diesel Product Section"
+          }
+        ],
+        "gallery": {
+          "_type": "Diesel Gallery",
+          "galleryImages": [
+            {
+              "src": "https://cdn2.unrealengine.com/14br-bplaunch-egs-s1-2560x1440-2560x1440-851249168.jpg",
+              "_type": "Diesel Gallery Image",
+              "row": 1
+            },
+            {
+              "src": "https://cdn2.unrealengine.com/14br-bplaunch-egs-g2-1280x720-1280x720-851247956.jpg",
+              "_type": "Diesel Gallery Image",
+              "row": 2
+            },
+            {
+              "src": "https://cdn2.unrealengine.com/14br-bplaunch-egs-g3-1280x720-1280x720-851248329.jpg",
+              "_type": "Diesel Gallery Image",
+              "row": 3
+            },
+            {
+              "src": "https://cdn2.unrealengine.com/14br-bplaunch-egs-g4-1280x720-1280x720-851248440.jpg",
+              "_type": "Diesel Gallery Image",
+              "row": 4
+            }
+          ]
+        },
+        "navTitle": "Fortnite"
+      },
+      "ageGate": {
+        "hasAgeGate": false,
+        "_type": "Epic Store Age Gate"
+      },
+      "type": "productHome",
+      "_images_": [
+        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FESRB-369x217-3386d50bb6a48893e81914fb8e44834ef4458c63.png",
+        "https://cdn2.unrealengine.com/14br-bplaunch-egs-ft1-1920x1080-1920x1080-851248346.jpg",
+        "https://cdn2.unrealengine.com/14br-bplaunch-egs-g1-1280x720-1280x720-851248117.jpg",
+        "https://cdn2.unrealengine.com/14br-bplaunch-egs-g3-1280x720-1280x720-851248329.jpg",
+        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FSeasonx%2F10BR_EGS_Launcher_G2-1000x840-de1b9f27e581238c9781b23ede586b6163151ef8.png",
+        "https://cdn2.unrealengine.com/14br-bplaunch-egs-g2-1280x720-1280x720-851247956.jpg",
+        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite_CERO_C-400x337-84d54e9834bc91bda9623c7f395954246a6b7e28.png",
+        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FBR-12-80x80-03e9c6d23b9685b741e3381439740bc70ed35b66.png",
+        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FPEGI_fn-116x142-e87be4367ec679bcf710975567f973a7ba766a81.png",
+        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite_ACB_M-2179x833-d266f3b9a5678a5521aa5fb94d77bda7011abc67.png",
+        "https://cdn2.unrealengine.com/14br-bplaunch-egs-s1-2560x1440-2560x1440-851249168.jpg",
+        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FRU-12plus-68x71-53bf261697f6dee39e8b10dc1ca4dd71bea52b78.png",
+        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FKR-details-383x80-86a2f1fdecaa5b5e57298966f9df47274ec10d1d.png",
+        "https://cdn2.unrealengine.com/14br-bplaunch-egs-ft2-1200x1600-1200x1600-851248137.jpg",
+        "https://cdn2.unrealengine.com/Diesel%2Flogo%2FLogo_EpicGames_Black-1360x1360-f15ee5845c95eacd424199bdf326047631b4bc69.png",
+        "https://cdn2.unrealengine.com/14br-bplaunch-egs-g4-1280x720-1280x720-851248440.jpg",
+        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_12-350x350-eb06b723e538efe4928dcde499cd8a6cc6a697cb.png",
+        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite-Logo_w-Shadow-1778x811-ed23fe8dea13f030db120b226f9d2a101560bde2.png",
+        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FKR-12-139x80-91bb81ee144c80e9e1b01456a1f35aee79905d57.png"
+      ]
+    }
+  ]
+}

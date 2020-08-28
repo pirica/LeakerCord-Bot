@@ -1,0 +1,21 @@
+{
+  "": {
+    "609848FC467BEADA017DED813E8DB93E": "ALL CHILL. NO SWEAT.",
+    "F18932D3499A2BB8A7A20ABFD0B171D5": "The Axe of Champions",
+    "08D2D38A4AF7C1B6C9E1DCA7820832A7": "Current FNCS Champion exclusive.",
+    "620E78054DC1FE6E6C133B9C2BB110D3": "Fortnite Champion Series",
+    "DA2DD80E43A2DD2715D1ABAD24A0E8FB": "Unlock Deadpool",
+    "8BC5E17B4D80E913D6066B818BB00E4F": "<Emphesis>Maximum Outfit!</>",
+    "1645EFA6470A6D63251324B4E05EC619": "Time to Make the <Emphesis>Chimichangas!</>",
+    "8AD0E5E7486EF109142CBA94398A1850": "Chapter 2 - Season 2 through June 4th.",
+    "AA4C9E7A442BDBA3110EA4B4AE8E8EAC": "JUMP IN NOW!",
+    "3C8465604A9044A8380ADA96B766CF3A": ""
+  },
+  "CosmeticSets": {
+    "Cosmetics.Set.FNCS_DisplayName": "Fortnite Champion Series"
+  },
+  "FortSetting": {
+    "LicensedAudioTreatment_Name": "Licensed Audio",
+    "LicensedAudioTreatment_Description": "If you are a content creator, you can select this option to avoid playing licensed music. This setting does not apply to certain event playlists that feature content that is licensed like concerts.\n\n<strong>Play</>: The audio is played normally (Default).\n\n<strong>Mute Others</>: When other players play licensed audio, the audio will be muted.\n\n<strong>Mute All</>: All licensed audio will be muted if you or anyone plays them."
+  }
+}

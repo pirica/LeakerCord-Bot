@@ -1,0 +1,79 @@
+{
+  "status": 200,
+  "data": {
+    "br": {
+      "language": "en-US",
+      "title": "battleroyalenews",
+      "lastModified": "2020-08-27T06:11:35.504Z",
+      "motds": null,
+      "messages": [
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",
+          "hidden": false,
+          "messageType": "normal",
+          "type": "CommonUI Simple Message Base",
+          "adspace": null,
+          "title": "Keep Your Account Secure",
+          "body": "Avoid scam sites offering free V-Bucks. Epic will never ask for your password. Enable Two-Factor Authentication to help stay secure!",
+          "spotlight": false
+        }
+      ]
+    },
+    "stw": {
+      "language": "en-US",
+      "title": "SaveTheWorldNews",
+      "lastModified": "2020-08-27T23:47:07.714Z",
+      "motds": null,
+      "messages": [
+        {
+          "image": "https://cdn2.unrealengine.com/stw05-motd-1024x512-redline-1024x512-682778429.jpg",
+          "hidden": false,
+          "messageType": null,
+          "type": "CommonUI Simple Message Base",
+          "adspace": "LEAVING SOON!",
+          "title": "REDLINE RAMIREZ",
+          "body": "Rev beyond the limit with Redline Ramirez!",
+          "spotlight": false
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/10stw-boombox-hammer-motd-1024x512-682778334.jpg",
+          "hidden": false,
+          "messageType": null,
+          "type": "CommonUI Simple Message Base",
+          "adspace": "LEAVING SOON!",
+          "title": "Surround Pound",
+          "body": "Create a massive bass drop with the Surround Pound! Smash the ground, creating a series of sonic pulses that damage and knock back enemies.",
+          "spotlight": false
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/dennis-jr-1024x512-682778428.jpg",
+          "hidden": false,
+          "messageType": null,
+          "type": "CommonUI Simple Message Base",
+          "adspace": "LEAVING SOON!",
+          "title": "Dennis Jr",
+          "body": "Break out the axe and Introduce the Husks to the shredder himself, Dennis Jr! This Hero unlocks the \"\"Totally Rockin' Out\"\" Team Perk.",
+          "spotlight": false
+        }
+      ]
+    },
+    "creative": {
+      "language": "en-US",
+      "title": "Creativenews",
+      "lastModified": "2020-08-27T14:29:43.543Z",
+      "motds": null,
+      "messages": [
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",
+          "hidden": false,
+          "messageType": "normal",
+          "type": "CommonUI Simple Message Base",
+          "adspace": null,
+          "title": "Keep Your Account Secure",
+          "body": "Avoid scam sites offering free V-Bucks. Epic will never ask for your password. Enable Two-Factor Authentication to help stay secure!",
+          "spotlight": false
+        }
+      ]
+    }
+  }
+}

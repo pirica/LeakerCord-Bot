@@ -1,0 +1,33 @@
+{
+  "appName": "FortniteContentBuilds",
+  "labelName": "Live-Android",
+  "buildVersion": "++Fortnite+Release-14.00-CL-14173417-Android",
+  "catalogItemId": "5cb97847cee34581afdbc445400e2f77",
+  "expires": "2020-08-27T06:35:11.826Z",
+  "items": {
+    "MANIFEST": {
+      "signature": "Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IipCdWlsZHMvRm9ydG5pdGUvQ29udGVudC9DbG91ZERpci96dWRyMnZBSnplMHF5amd5akVPZmFvTGh2TWk3R2cubWFuaWZlc3QiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTg1MTAxMTF9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=zjJOIBzadZQJUF3HC~H4pdR5mEMbU9fUyekbve52PkjQKocGxx6T7~6V6hfwqhypt-8hYWprK7nR4E5VIhhph5OBwaXDTnKAMaEZIBeHlPQw9eBjrF~MtVOqTnMDXOzcxVLoV8Ej5b9Y5r2gFHS3rQ2HstE1h2XMB2PRZBfMacnxvjJAGeV2FiLAL40jNv5jYMp1P9gLSPuwCxUUc5AZ-xv0PnFbE8YiaaTTq5cuHEPwsHQde9OuX91sxRet0lNf1L3mXoQRbEFialwlZD2ejJ8CINVfaWMS3I~WFc~3Nu7j4HGmKSow2WWG~pqwUxyyXPGx698mvfRVRP54yYChtg__&Key-Pair-Id=APKAI5CNFPJPTPYZISXQ",
+      "distribution": "https://epicgames-download1.akamaized.net/",
+      "path": "Builds/Fortnite/Content/CloudDir/zudr2vAJze0qyjgyjEOfaoLhvMi7Gg.manifest",
+      "hash": "650768e78d7016c92b25b018872195168a6f8453",
+      "additionalDistributions": [
+        "https://download.epicgames.com/",
+        "https://download2.epicgames.com/",
+        "https://download3.epicgames.com/",
+        "https://download4.epicgames.com/"
+      ]
+    },
+    "CHUNKS": {
+      "signature": "Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IipCdWlsZHMvRm9ydG5pdGUvQ29udGVudC9DbG91ZERpci96dWRyMnZBSnplMHF5amd5akVPZmFvTGh2TWk3R2cubWFuaWZlc3QiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTg1MTAxMTF9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=zjJOIBzadZQJUF3HC~H4pdR5mEMbU9fUyekbve52PkjQKocGxx6T7~6V6hfwqhypt-8hYWprK7nR4E5VIhhph5OBwaXDTnKAMaEZIBeHlPQw9eBjrF~MtVOqTnMDXOzcxVLoV8Ej5b9Y5r2gFHS3rQ2HstE1h2XMB2PRZBfMacnxvjJAGeV2FiLAL40jNv5jYMp1P9gLSPuwCxUUc5AZ-xv0PnFbE8YiaaTTq5cuHEPwsHQde9OuX91sxRet0lNf1L3mXoQRbEFialwlZD2ejJ8CINVfaWMS3I~WFc~3Nu7j4HGmKSow2WWG~pqwUxyyXPGx698mvfRVRP54yYChtg__&Key-Pair-Id=APKAI5CNFPJPTPYZISXQ",
+      "distribution": "https://epicgames-download1.akamaized.net/",
+      "path": "Builds/Fortnite/Content/CloudDir/zudr2vAJze0qyjgyjEOfaoLhvMi7Gg.manifest",
+      "additionalDistributions": [
+        "https://download.epicgames.com/",
+        "https://download2.epicgames.com/",
+        "https://download3.epicgames.com/",
+        "https://download4.epicgames.com/"
+      ]
+    }
+  },
+  "assetId": "FortniteContentBuilds"
+}

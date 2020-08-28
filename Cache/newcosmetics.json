@@ -1,0 +1,1576 @@
+{
+  "previousVersion": "++Fortnite+Release-13.00-CL-13715544-Windows",
+  "currentVersion": "++Fortnite+Release-13.20-CL-13777676-Windows",
+  "items": [
+    {
+      "id": "CID_797_Athena_Commando_F_Taco",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_797_Athena_Commando_F_Taco",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/CID_797_Athena_Commando_F_Taco/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/CID_797_Athena_Commando_F_Taco/featured.png",
+        "series": null
+      },
+      "name": "Lada",
+      "description": "Spicy and saucy.",
+      "shortDescription": "Outfit",
+      "backendType": "AthenaCharacter",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.BurritoDay"
+      ]
+    },
+    {
+      "id": "Wrap_254_NeonBands",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_254_NeonBands",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Wrap_254_NeonBands/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Wrap_254_NeonBands/featured.png",
+        "series": null
+      },
+      "name": "Afterparty",
+      "description": "Show your style.",
+      "shortDescription": "Wrap",
+      "backendType": "AthenaItemWrap",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.Wrap.Animated",
+        "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+      ]
+    },
+    {
+      "id": "Pickaxe_ID_425_MsWhipFemale1H",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_425_MsWhipFemale1H",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Pickaxe_ID_425_MsWhipFemale1H/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Pickaxe_ID_425_MsWhipFemale1H/featured.png",
+        "series": null
+      },
+      "name": "Two Scoops",
+      "description": "Whip up a double.",
+      "shortDescription": "Harvesting Tool",
+      "backendType": "AthenaPickaxe",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Pickaxe.DualWield",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.LadyTreat"
+      ]
+    },
+    {
+      "id": "Glider_ID_226_GreenJacketFemale",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_226_GreenJacketFemale",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Glider_ID_226_GreenJacketFemale/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Glider_ID_226_GreenJacketFemale/featured.png",
+        "series": null
+      },
+      "name": "Green Eagle",
+      "description": "Be seen.",
+      "shortDescription": "Glider",
+      "backendType": "AthenaGlider",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Slam"
+      ]
+    },
+    {
+      "id": "SPID_215_MeowsclesBox",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_215_MeowsclesBox",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/SPID_215_MeowsclesBox/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "I Sits",
+      "description": "A perfect fit. ",
+      "shortDescription": "Spray",
+      "backendType": "AthenaSpray",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Spray",
+        "Cosmetics.Filter.Season.13"
+      ]
+    },
+    {
+      "id": "Pickaxe_ID_408_MastermindShadow",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_408_MastermindShadow",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Pickaxe_ID_408_MastermindShadow/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Mayhem Scythe",
+      "description": "Mayhem is golden...",
+      "shortDescription": "Harvesting Tool",
+      "backendType": "AthenaPickaxe",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": "Double Agent",
+      "setText": "Part of the Double Agent set.",
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Set.TwoActor",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop"
+      ]
+    },
+    {
+      "id": "CID_775_Athena_Commando_F_StreetRacerCobraGold",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_775_Athena_Commando_F_StreetRacerCobraGold",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/CID_775_Athena_Commando_F_StreetRacerCobraGold/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/CID_775_Athena_Commando_F_StreetRacerCobraGold/featured.png",
+        "series": null
+      },
+      "name": "Rally Raider",
+      "description": "Live like every lap's a victory lap.",
+      "shortDescription": "Outfit",
+      "backendType": "AthenaCharacter",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": [
+        {
+          "channel": "Parts",
+          "type": "STYLE",
+          "options": [
+            {
+              "tag": "Stage1",
+              "name": "DEFAULT",
+              "image": "https://benbotfn.tk/cdn/images/CID_775_Athena_Commando_F_StreetRacerCobraGold/variant/Parts/Stage1.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Stage2",
+              "name": "UNMASKED",
+              "image": "https://benbotfn.tk/cdn/images/CID_775_Athena_Commando_F_StreetRacerCobraGold/variant/Parts/Stage2.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.RoughStreet",
+        "Cosmetics.UserFacingFlags.HasVariants"
+      ]
+    },
+    {
+      "id": "CID_804_Athena_Commando_M_SharkSuit",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_804_Athena_Commando_M_SharkSuit",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/CID_804_Athena_Commando_M_SharkSuit/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/CID_804_Athena_Commando_M_SharkSuit/featured.png",
+        "series": null
+      },
+      "name": "Comfy Chomps",
+      "description": "Kick back and get chompin.",
+      "shortDescription": "Outfit",
+      "backendType": "AthenaCharacter",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.EatingCraze"
+      ]
+    },
+    {
+      "id": "BID_552_ConstellationSun",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_552_ConstellationSun",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/BID_552_ConstellationSun/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Universal Bloom",
+      "description": "Harness the power of creation.",
+      "shortDescription": "Back Bling",
+      "backendType": "AthenaBackpack",
+      "rarity": "Epic",
+      "backendRarity": "EFortRarity::Epic",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.AreaFlame"
+      ]
+    },
+    {
+      "id": "Wrap_255_ConstellationSun",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_255_ConstellationSun",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Wrap_255_ConstellationSun/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Wrap_255_ConstellationSun/featured.png",
+        "series": null
+      },
+      "name": "Burning Bright",
+      "description": "Show your style.",
+      "shortDescription": "Wrap",
+      "backendType": "AthenaItemWrap",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.Wrap.Animated",
+        "Cosmetics.Set.AreaFlame"
+      ]
+    },
+    {
+      "id": "Emoji_S13_FNCS",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S13_FNCS",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Emoji_S13_FNCS/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "FNCS 2:3 Emoticon",
+      "description": "Champion Series CH2 - S3",
+      "shortDescription": "Emoticon",
+      "backendType": "AthenaEmoji",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": "Fortnite Champion Series",
+      "setText": "Part of the Fortnite Champion Series set.",
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Emoji",
+        "Cosmetics.Set.FNCS",
+        "Cosmetics.Source.FNCS",
+        "Cosmetics.Filter.Season.13"
+      ]
+    },
+    {
+      "id": "BID_559_GreenJacket",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_559_GreenJacket",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/BID_559_GreenJacket/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Impact Green",
+      "description": "Let 'em see you coming.",
+      "shortDescription": "Back Bling",
+      "backendType": "AthenaBackpack",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.Slam"
+      ]
+    },
+    {
+      "id": "EID_Bollywood",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Bollywood",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/EID_Bollywood/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Bhangra Boogie",
+      "description": "Celebrate together.",
+      "shortDescription": "Emote",
+      "backendType": "AthenaDance",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Dance",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13"
+      ]
+    },
+    {
+      "id": "CID_801_Athena_Commando_F_GolfSummer",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_801_Athena_Commando_F_GolfSummer",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/CID_801_Athena_Commando_F_GolfSummer/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/CID_801_Athena_Commando_F_GolfSummer/featured.png",
+        "series": null
+      },
+      "name": "Par Patroller",
+      "description": "Patience and focus wins the match.",
+      "shortDescription": "Outfit",
+      "backendType": "AthenaCharacter",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.HarshInvaders"
+      ]
+    },
+    {
+      "id": "Glider_ID_227_SharkSuit",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_227_SharkSuit",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Glider_ID_227_SharkSuit/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Glider_ID_227_SharkSuit/featured.png",
+        "series": null
+      },
+      "name": "Sail Shark",
+      "description": "Take a bite out of flight.",
+      "shortDescription": "Glider",
+      "backendType": "AthenaGlider",
+      "rarity": "Legendary",
+      "backendRarity": "EFortRarity::Legendary",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.EatingCraze"
+      ]
+    },
+    {
+      "id": "Pickaxe_ID_424_HeartBreakerFemale1H",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_424_HeartBreakerFemale1H",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Pickaxe_ID_424_HeartBreakerFemale1H/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Pickaxe_ID_424_HeartBreakerFemale1H/featured.png",
+        "series": null
+      },
+      "name": "Flail Blades",
+      "description": "Sometimes you gotta bash, sometimes you gotta slice.",
+      "shortDescription": "Harvesting Tool",
+      "backendType": "AthenaPickaxe",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Pickaxe.DualWield",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.CrazyCowboy"
+      ]
+    },
+    {
+      "id": "Pickaxe_ID_403_CavalryBanditShadow1H",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_403_CavalryBanditShadow1H",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Pickaxe_ID_403_CavalryBanditShadow1H/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Shadow Blades",
+      "description": "Shadow's silent blades.",
+      "shortDescription": "Harvesting Tool",
+      "backendType": "AthenaPickaxe",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": "Double Agent",
+      "setText": "Part of the Double Agent set.",
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Pickaxe.DualWield",
+        "Cosmetics.Set.TwoActor",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop"
+      ]
+    },
+    {
+      "id": "BID_557_SharkSuitFemale",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_557_SharkSuitFemale",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/BID_557_SharkSuitFemale/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Sharky Shawl",
+      "description": "Drape yourself in sharky goodness.",
+      "shortDescription": "Back Bling",
+      "backendType": "AthenaBackpack",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.EatingCraze"
+      ]
+    },
+    {
+      "id": "Pickaxe_ID_421_CandySummerFemale1H",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_421_CandySummerFemale1H",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Pickaxe_ID_421_CandySummerFemale1H/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Pickaxe_ID_421_CandySummerFemale1H/featured.png",
+        "series": null
+      },
+      "name": "Lil' Sweeties",
+      "description": "They've got quite a pop.",
+      "shortDescription": "Harvesting Tool",
+      "backendType": "AthenaPickaxe",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Pickaxe.DualWield",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop"
+      ]
+    },
+    {
+      "id": "EID_JustHome",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_JustHome",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/EID_JustHome/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "The Renegade",
+      "description": "Win big.",
+      "shortDescription": "Emote",
+      "backendType": "AthenaDance",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Dance",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13"
+      ]
+    },
+    {
+      "id": "Pickaxe_ID_411_PartyGoldMale",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_411_PartyGoldMale",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Pickaxe_ID_411_PartyGoldMale/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Pickaxe_ID_411_PartyGoldMale/featured.png",
+        "series": null
+      },
+      "name": "Weathered Gold",
+      "description": "Sturdy shine with a powerful edge.",
+      "shortDescription": "Harvesting Tool",
+      "backendType": "AthenaPickaxe",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop"
+      ]
+    },
+    {
+      "id": "CID_803_Athena_Commando_F_SharkSuit",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_803_Athena_Commando_F_SharkSuit",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/CID_803_Athena_Commando_F_SharkSuit/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/CID_803_Athena_Commando_F_SharkSuit/featured.png",
+        "series": null
+      },
+      "name": "Cozy Chomps",
+      "description": "Take life one chomp at a time.",
+      "shortDescription": "Outfit",
+      "backendType": "AthenaCharacter",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": [
+        {
+          "channel": "Material",
+          "type": "STYLE",
+          "options": [
+            {
+              "tag": "Mat1",
+              "name": "DEFAULT",
+              "image": "https://benbotfn.tk/cdn/images/CID_803_Athena_Commando_F_SharkSuit/variant/Material/Mat1.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat2",
+              "name": "NO TAIL",
+              "image": "https://benbotfn.tk/cdn/images/CID_803_Athena_Commando_F_SharkSuit/variant/Material/Mat2.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.EatingCraze",
+        "Cosmetics.UserFacingFlags.HasVariants"
+      ]
+    },
+    {
+      "id": "Pickaxe_ID_422_GolfSummerFemale",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_422_GolfSummerFemale",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Pickaxe_ID_422_GolfSummerFemale/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Pickaxe_ID_422_GolfSummerFemale/featured.png",
+        "series": null
+      },
+      "name": "Hook Slicer",
+      "description": "Any way but the fairway.",
+      "shortDescription": "Harvesting Tool",
+      "backendType": "AthenaPickaxe",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.HarshInvaders"
+      ]
+    },
+    {
+      "id": "BID_556_SharkSuit",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_556_SharkSuit",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/BID_556_SharkSuit/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Overbite",
+      "description": "It's got teeth.",
+      "shortDescription": "Back Bling",
+      "backendType": "AthenaBackpack",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.EatingCraze"
+      ]
+    },
+    {
+      "id": "BID_551_CupidDarkFemale",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_551_CupidDarkFemale",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/BID_551_CupidDarkFemale/icon.png",
+        "featured": null,
+        "series": "https://benbotfn.tk/cdn/series/CUBESeries.png"
+      },
+      "name": "Heartless Wings",
+      "description": "Heartbreakingly flappy.",
+      "shortDescription": "Back Bling",
+      "backendType": "AthenaBackpack",
+      "rarity": "Epic",
+      "backendRarity": "EFortRarity::Epic",
+      "set": null,
+      "setText": null,
+      "series": {
+        "name": "DARK SERIES",
+        "colors": {
+          "Color1": {
+            "r": 255,
+            "g": 20,
+            "b": 142,
+            "a": 255
+          },
+          "Color2": {
+            "r": 157,
+            "g": 0,
+            "b": 108,
+            "a": 255
+          },
+          "Color3": {
+            "r": 97,
+            "g": 0,
+            "b": 100,
+            "a": 255
+          },
+          "Color4": {
+            "r": 29,
+            "g": 2,
+            "b": 51,
+            "a": 255
+          },
+          "Color5": {
+            "r": 10,
+            "g": 4,
+            "b": 10,
+            "a": 255
+          }
+        }
+      },
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.GroupAgony"
+      ]
+    },
+    {
+      "id": "Pickaxe_ID_407_HeistShadow",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_407_HeistShadow",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Pickaxe_ID_407_HeistShadow/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Gold Crow",
+      "description": "Give it a pry.",
+      "shortDescription": "Harvesting Tool",
+      "backendType": "AthenaPickaxe",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": "Double Agent",
+      "setText": "Part of the Double Agent set.",
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Set.TwoActor",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop"
+      ]
+    },
+    {
+      "id": "EID_PlayerEleven",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_PlayerEleven",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/EID_PlayerEleven/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Introducing...",
+      "description": "Make yourself known.",
+      "shortDescription": "Emote",
+      "backendType": "AthenaDance",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Dance",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13"
+      ]
+    },
+    {
+      "id": "CID_808_Athena_Commando_F_ConstellationSun",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_808_Athena_Commando_F_ConstellationSun",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/CID_808_Athena_Commando_F_ConstellationSun/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/CID_808_Athena_Commando_F_ConstellationSun/featured.png",
+        "series": null
+      },
+      "name": "Starflare",
+      "description": "The last star you'll see tonight.",
+      "shortDescription": "Outfit",
+      "backendType": "AthenaCharacter",
+      "rarity": "Epic",
+      "backendRarity": "EFortRarity::Epic",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.AreaFlame"
+      ]
+    },
+    {
+      "id": "Wrap_252_Dazzle",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_252_Dazzle",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Wrap_252_Dazzle/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Wrap_252_Dazzle/featured.png",
+        "series": null
+      },
+      "name": "Stylish Stripes",
+      "description": "Show your style.",
+      "shortDescription": "Wrap",
+      "backendType": "AthenaItemWrap",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.Wrap.Animated"
+      ]
+    },
+    {
+      "id": "BID_538_StreetRacerCobraGold",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_538_StreetRacerCobraGold",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/BID_538_StreetRacerCobraGold/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Weathered Wings",
+      "description": "Always ready to rise above.",
+      "shortDescription": "Back Bling",
+      "backendType": "AthenaBackpack",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.RoughStreet"
+      ]
+    },
+    {
+      "id": "BID_558_PunkDevilSummer",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_558_PunkDevilSummer",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/BID_558_PunkDevilSummer/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Starpower",
+      "description": "You've got the makings of a real star.",
+      "shortDescription": "Back Bling",
+      "backendType": "AthenaBackpack",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.UserFacingFlags.Reactive",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.DevilIsland"
+      ]
+    },
+    {
+      "id": "CID_806_Athena_Commando_F_GreenJacket",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_806_Athena_Commando_F_GreenJacket",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/CID_806_Athena_Commando_F_GreenJacket/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/CID_806_Athena_Commando_F_GreenJacket/featured.png",
+        "series": null
+      },
+      "name": "Kyra",
+      "description": "Never afraid to stand out.",
+      "shortDescription": "Outfit",
+      "backendType": "AthenaCharacter",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.Slam"
+      ]
+    },
+    {
+      "id": "CID_800_Athena_Commando_M_Robro",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_800_Athena_Commando_M_Robro",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/CID_800_Athena_Commando_M_Robro/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/CID_800_Athena_Commando_M_Robro/featured.png",
+        "series": null
+      },
+      "name": "Bryce 3000",
+      "description": "Influencer. Fashonista. Robot.",
+      "shortDescription": "Outfit",
+      "backendType": "AthenaCharacter",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.DudeGadgets"
+      ]
+    },
+    {
+      "id": "BID_550_JonesyVagabond",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_550_JonesyVagabond",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/BID_550_JonesyVagabond/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Beef Pack",
+      "description": "Packed with beefy goodness.",
+      "shortDescription": "Back Bling",
+      "backendType": "AthenaBackpack",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": [
+        {
+          "channel": "Parts",
+          "type": "STYLE",
+          "options": [
+            {
+              "tag": "Stage1",
+              "name": "DEFAULT",
+              "image": "https://benbotfn.tk/cdn/images/BID_550_JonesyVagabond/variant/Parts/Stage1.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Stage2",
+              "name": "PRECHEWED PACK",
+              "image": "https://benbotfn.tk/cdn/images/BID_550_JonesyVagabond/variant/Parts/Stage2.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.CasualSize",
+        "Cosmetics.UserFacingFlags.HasVariants"
+      ]
+    },
+    {
+      "id": "Pickaxe_ID_423_GreenJacketFemale1H",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_423_GreenJacketFemale1H",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Pickaxe_ID_423_GreenJacketFemale1H/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Pickaxe_ID_423_GreenJacketFemale1H/featured.png",
+        "series": null
+      },
+      "name": "Block Blades",
+      "description": "Vibrant angular battle cleavers.",
+      "shortDescription": "Harvesting Tool",
+      "backendType": "AthenaPickaxe",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Pickaxe.DualWield",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Slam"
+      ]
+    },
+    {
+      "id": "EID_MagicMan",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_MagicMan",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/EID_MagicMan/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Verve",
+      "description": "It's all about the energy.",
+      "shortDescription": "Emote",
+      "backendType": "AthenaDance",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Dance",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13"
+      ]
+    },
+    {
+      "id": "EID_DaBounce",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_DaBounce",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/EID_DaBounce/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Get Loose",
+      "description": "Ready for whatever comes your way.",
+      "shortDescription": "Emote",
+      "backendType": "AthenaDance",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Dance",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13"
+      ]
+    },
+    {
+      "id": "BID_554_Robro",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_554_Robro",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/BID_554_Robro/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Boombox 3000",
+      "description": "Here comes the boombox.",
+      "shortDescription": "Back Bling",
+      "backendType": "AthenaBackpack",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.DudeGadgets"
+      ]
+    },
+    {
+      "id": "Pickaxe_ID_419_JonesyVagabondMale1H",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_419_JonesyVagabondMale1H",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Pickaxe_ID_419_JonesyVagabondMale1H/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Pickaxe_ID_419_JonesyVagabondMale1H/featured.png",
+        "series": null
+      },
+      "name": "Snax",
+      "description": "Take two, they're small.",
+      "shortDescription": "Harvesting Tool",
+      "backendType": "AthenaPickaxe",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.CasualSize"
+      ]
+    },
+    {
+      "id": "EID_HackySack",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_HackySack",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/EID_HackySack/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Sackin'",
+      "description": "Can you hack it?",
+      "shortDescription": "Emote",
+      "backendType": "AthenaDance",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Dance",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13"
+      ]
+    },
+    {
+      "id": "SPID_216_S13_FNCS",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_216_S13_FNCS",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/SPID_216_S13_FNCS/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "FNCS 2:3",
+      "description": "Champion Series CH2 - S3",
+      "shortDescription": "Spray",
+      "backendType": "AthenaSpray",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Spray",
+        "Cosmetics.Filter.Season.13"
+      ]
+    },
+    {
+      "id": "Pickaxe_ID_426_PunkDevilSummerFemale",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_426_PunkDevilSummerFemale",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Pickaxe_ID_426_PunkDevilSummerFemale/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Pickaxe_ID_426_PunkDevilSummerFemale/featured.png",
+        "series": null
+      },
+      "name": "Starstruck Axe",
+      "description": "Show off your star power.",
+      "shortDescription": "Harvesting Tool",
+      "backendType": "AthenaPickaxe",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.DevilIsland"
+      ]
+    },
+    {
+      "id": "BID_555_HeartBreaker",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_555_HeartBreaker",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/BID_555_HeartBreaker/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Gunny Sack",
+      "description": "Locked and loaded up with goodies.",
+      "shortDescription": "Back Bling",
+      "backendType": "AthenaBackpack",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.CrazyCowboy"
+      ]
+    },
+    {
+      "id": "Wrap_253_FishKite",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_253_FishKite",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Wrap_253_FishKite/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Wrap_253_FishKite/featured.png",
+        "series": null
+      },
+      "name": "Fighting Fish",
+      "description": "Show your style.",
+      "shortDescription": "Wrap",
+      "backendType": "AthenaItemWrap",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.Wrap.Animated",
+        "Cosmetics.UserFacingFlags.Reactive.TimeOfDay"
+      ]
+    },
+    {
+      "id": "BID_561_PeppaRonnie",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_561_PeppaRonnie",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/BID_561_PeppaRonnie/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/BID_561_PeppaRonnie/featured.png",
+        "series": null
+      },
+      "name": "Capearoni",
+      "description": "A cheesy slice of flavor.",
+      "shortDescription": "Back Bling",
+      "backendType": "AthenaBackpack",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13"
+      ]
+    },
+    {
+      "id": "Wrap_257_WaffleCone",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_257_WaffleCone",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Wrap_257_WaffleCone/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Wrap_257_WaffleCone/featured.png",
+        "series": null
+      },
+      "name": "Ms. Whip",
+      "description": "Show your style.",
+      "shortDescription": "Wrap",
+      "backendType": "AthenaItemWrap",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.LadyTreat"
+      ]
+    },
+    {
+      "id": "Wrap_256_HorizontalBands",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_256_HorizontalBands",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Wrap_256_HorizontalBands/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Wrap_256_HorizontalBands/featured.png",
+        "series": null
+      },
+      "name": "Linear Streak",
+      "description": "Show your style.",
+      "shortDescription": "Wrap",
+      "backendType": "AthenaItemWrap",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.Wrap.Animated"
+      ]
+    },
+    {
+      "id": "SPID_217_TheBratHotdog",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_217_TheBratHotdog",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/SPID_217_TheBratHotdog/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Dog Eat Dog",
+      "description": "Leave your mark.",
+      "shortDescription": "Spray",
+      "backendType": "AthenaSpray",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Spray",
+        "Cosmetics.Filter.Season.13"
+      ]
+    },
+    {
+      "id": "Pickaxe_ID_418_CupidDarkFemale1H",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_418_CupidDarkFemale1H",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Pickaxe_ID_418_CupidDarkFemale1H/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Pickaxe_ID_418_CupidDarkFemale1H/featured.png",
+        "series": "https://benbotfn.tk/cdn/series/CUBESeries.png"
+      },
+      "name": "Bewitching Blades",
+      "description": "They'll take your breath away.",
+      "shortDescription": "Harvesting Tool",
+      "backendType": "AthenaPickaxe",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": {
+        "name": "DARK SERIES",
+        "colors": {
+          "Color1": {
+            "r": 255,
+            "g": 20,
+            "b": 142,
+            "a": 255
+          },
+          "Color2": {
+            "r": 157,
+            "g": 0,
+            "b": 108,
+            "a": 255
+          },
+          "Color3": {
+            "r": 97,
+            "g": 0,
+            "b": 100,
+            "a": 255
+          },
+          "Color4": {
+            "r": 29,
+            "g": 2,
+            "b": 51,
+            "a": 255
+          },
+          "Color5": {
+            "r": 10,
+            "g": 4,
+            "b": 10,
+            "a": 255
+          }
+        }
+      },
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Pickaxe.DualWield",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.GroupAgony"
+      ]
+    },
+    {
+      "id": "CID_805_Athena_Commando_F_PunkDevilSummer",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_805_Athena_Commando_F_PunkDevilSummer",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/CID_805_Athena_Commando_F_PunkDevilSummer/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/CID_805_Athena_Commando_F_PunkDevilSummer/featured.png",
+        "series": null
+      },
+      "name": "Surf Witch",
+      "description": "Curse the beach with your dark presence.",
+      "shortDescription": "Outfit",
+      "backendType": "AthenaCharacter",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": [
+        {
+          "channel": "Parts",
+          "type": "STYLE",
+          "options": [
+            {
+              "tag": "Stage1",
+              "name": "DEFAULT",
+              "image": "https://benbotfn.tk/cdn/images/CID_805_Athena_Commando_F_PunkDevilSummer/variant/Parts/Stage1.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Stage2",
+              "name": "SURF DEMON",
+              "image": "https://benbotfn.tk/cdn/images/CID_805_Athena_Commando_F_PunkDevilSummer/variant/Parts/Stage2.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.DevilIsland",
+        "Cosmetics.UserFacingFlags.HasVariants"
+      ]
+    },
+    {
+      "id": "CID_802_Athena_Commando_F_HeartBreaker",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_802_Athena_Commando_F_HeartBreaker",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/CID_802_Athena_Commando_F_HeartBreaker/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/CID_802_Athena_Commando_F_HeartBreaker/featured.png",
+        "series": null
+      },
+      "name": "Safari",
+      "description": "Conqueror of the untamed.",
+      "shortDescription": "Outfit",
+      "backendType": "AthenaCharacter",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": [
+        {
+          "channel": "Parts",
+          "type": "STYLE",
+          "options": [
+            {
+              "tag": "Stage1",
+              "name": "DEFAULT",
+              "image": "https://benbotfn.tk/cdn/images/CID_802_Athena_Commando_F_HeartBreaker/variant/Parts/Stage1.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Stage2",
+              "name": "HAT OFF",
+              "image": "https://benbotfn.tk/cdn/images/CID_802_Athena_Commando_F_HeartBreaker/variant/Parts/Stage2.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.CrazyCowboy",
+        "Cosmetics.UserFacingFlags.HasVariants"
+      ]
+    },
+    {
+      "id": "CID_798_Athena_Commando_M_JonesyVagabond",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_798_Athena_Commando_M_JonesyVagabond",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/CID_798_Athena_Commando_M_JonesyVagabond/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/CID_798_Athena_Commando_M_JonesyVagabond/featured.png",
+        "series": null
+      },
+      "name": "Dad Bod Jonesy",
+      "description": "Victory or whatever else you've got, he's not picky.",
+      "shortDescription": "Outfit",
+      "backendType": "AthenaCharacter",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.CasualSize"
+      ]
+    },
+    {
+      "id": "MusicPack_053_FortniteTrapRemix",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_053_FortniteTrapRemix",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/MusicPack_053_FortniteTrapRemix/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "OG (Future Remix)",
+      "description": "Press play and follow this remix into the future.",
+      "shortDescription": "Music",
+      "backendType": "AthenaMusicPack",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop"
+      ]
+    },
+    {
+      "id": "Pickaxe_ID_428_SharkSuitMale1H",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_428_SharkSuitMale1H",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/Pickaxe_ID_428_SharkSuitMale1H/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/Pickaxe_ID_428_SharkSuitMale1H/featured.png",
+        "series": null
+      },
+      "name": "Sharky Slappers",
+      "description": "The power of a shark. The convenience of a slap.",
+      "shortDescription": "Harvesting Tool",
+      "backendType": "AthenaPickaxe",
+      "rarity": "Uncommon",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Pickaxe.DualWield",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.EatingCraze"
+      ]
+    },
+    {
+      "id": "BID_542_Foam",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_542_Foam",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/BID_542_Foam/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Number One",
+      "description": "Who's number one?",
+      "shortDescription": "Back Bling",
+      "backendType": "AthenaBackpack",
+      "rarity": "Epic",
+      "backendRarity": "EFortRarity::Epic",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13"
+      ]
+    },
+    {
+      "id": "CID_799_Athena_Commando_F_CupidDark",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_799_Athena_Commando_F_CupidDark",
+      "icons": {
+        "icon": "https://benbotfn.tk/cdn/images/CID_799_Athena_Commando_F_CupidDark/icon.png",
+        "featured": "https://benbotfn.tk/cdn/images/CID_799_Athena_Commando_F_CupidDark/featured.png",
+        "series": "https://benbotfn.tk/cdn/series/CUBESeries.png"
+      },
+      "name": "Darkheart",
+      "description": "Statuesque heart breaker.",
+      "shortDescription": "Outfit",
+      "backendType": "AthenaCharacter",
+      "rarity": "Epic",
+      "backendRarity": "EFortRarity::Epic",
+      "set": null,
+      "setText": null,
+      "series": {
+        "name": "DARK SERIES",
+        "colors": {
+          "Color1": {
+            "r": 255,
+            "g": 20,
+            "b": 142,
+            "a": 255
+          },
+          "Color2": {
+            "r": 157,
+            "g": 0,
+            "b": 108,
+            "a": 255
+          },
+          "Color3": {
+            "r": 97,
+            "g": 0,
+            "b": 100,
+            "a": 255
+          },
+          "Color4": {
+            "r": 29,
+            "g": 2,
+            "b": 51,
+            "a": 255
+          },
+          "Color5": {
+            "r": 10,
+            "g": 4,
+            "b": 10,
+            "a": 255
+          }
+        }
+      },
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.GroupAgony"
+      ]
+    }
+  ]
+}
