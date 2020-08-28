@@ -31,6 +31,8 @@ class free(commands.Cog):
             async with session.get(
                     "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=en-US") as response:
                 new = await response.json()
+                await (await aiofiles.open('Cache/freegames.json', mode='w+')).write(
+                    json.dumps(new, indent=2))
         for i in new["data"]["Catalog"]["searchStore"]["elements"]:
             if not i in old["data"]["Catalog"]["searchStore"]["elements"]:
                 print(i)
@@ -46,8 +48,6 @@ class free(commands.Cog):
                                                       f"**Original Price:** {i['price']['totalPrice']['fmtPrice']['originalPrice']}")
                 embed.set_image(url=i['keyImages'][0]['url'].replace(" ", ""))
                 await self.client.get_channel(747731560945549414).send(embed=embed)
-        await (await aiofiles.open('Cache/freegames.json', mode='w+')).write(
-            json.dumps(new, indent=2))
 
     def cog_unload(self):
         self.check.stop()

@@ -443,9 +443,9 @@
       "restricted": false,
       "revision": 0,
       "short_name": "PlayStation\u00aePlus-Sonderpaket",
-      "timestamp": 1598620862000,
+      "timestamp": 1598623726000,
       "top_category": "add_on",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-PSCP100000000000/1598620862"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-PSCP100000000000/1598623726"
     },
     {
       "bucket": "games",
@@ -2582,7 +2582,7 @@
   ],
   "sort": "static",
   "star_rating": {
-    "total": "2597094",
+    "total": "2597089",
     "score": "4.37",
     "count": [
       {
@@ -2595,7 +2595,7 @@
       },
       {
         "star": 3,
-        "count": 184456
+        "count": 184455
       },
       {
         "star": 4,
@@ -2603,7 +2603,7 @@
       },
       {
         "star": 5,
-        "count": 1914059
+        "count": 1914055
       }
     ]
   },
