@@ -26,12 +26,12 @@ class updatechecker(commands.Cog):
             print(ex)
             self.checkandroid.stop()
             self.checkandroid.start()
-        try:
-            self.checkios.start()
-        except Exception as ex:
-            print(ex)
-            self.checkios.stop()
-            self.checkios.start()
+        # try:
+        #     self.checkios.start()
+        # except Exception as ex:
+        #     print(ex)
+        #     self.checkios.stop()
+        #     self.checkios.start()
 
     @tasks.loop(seconds=30)
     async def checkpc(self):

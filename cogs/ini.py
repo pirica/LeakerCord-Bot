@@ -38,43 +38,42 @@ class ini(commands.Cog):
         except Exception as error:
             traceback.print_exception(type(error), error, error.__traceback__)
             return
-        if new != old:
-            await (await aiofiles.open('Cache/ini.json', mode='w+')).write(
-                json.dumps(new, indent=2))
-            for i in new:
-                if i not in old:
-                    async with aiohttp.ClientSession() as cs:
-                        headers = {"Authorization": f"bearer {token}"}
-                        async with cs.get(
-                                f'https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/system/{i["uniqueFilename"]}',
-                                headers=headers) as data:
-                            if data.status != 200:
+        await (await aiofiles.open('Cache/ini.json', mode='w+')).write(
+            json.dumps(new, indent=2))
+        for i in new:
+            if i not in old:
+                async with aiohttp.ClientSession() as cs:
+                    headers = {"Authorization": f"bearer {token}"}
+                    async with cs.get(
+                            f'https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/system/{i["uniqueFilename"]}',
+                            headers=headers) as data:
+                        if data.status != 200:
+                            continue
+                        oldd = await (
+                            await aiofiles.open(f'Cache/ini/{i["filename"]}', mode='r', encoding="utf8")).read()
+                        text = str(await data.text())
+                        templist = []
+                        changes = ""
+                        for line in text.splitlines():
+                            if line in oldd.splitlines():
                                 continue
-                            oldd = await (
-                                await aiofiles.open(f'Cache/ini/{i["filename"]}', mode='r', encoding="utf8")).read()
-                            text = str(await data.text())
-                            templist = []
-                            changes = ""
-                            for line in text.splitlines():
-                                if line in oldd.splitlines():
-                                    continue
-                                else:
-                                    changes += f"+ {line}\n"
-                            templist.append(changes)
-                            for i2 in templist:
-                                if i2 == "":
-                                    continue
-                                if len(i2) > 1500:
-                                    async with aiofiles.open("Cache/temp.txt", mode="w+", encoding="utf8") as file:
-                                        await file.write(str(i2))
-                                    file = discord.File("Cache/temp.txt")
-                                    await self.client.get_channel(743191744161775758).send(
-                                        f"Detected Changes for **{i['filename']}**", file=file)
-                                else:
-                                    await self.client.get_channel(743191744161775758).send(
-                                        f"Detected Changes for **{i['filename']}**\n```ini\n{i2}\n```")
-                            async with aiofiles.open(f"Cache/ini/{i['filename']}", mode="w+", encoding="utf8") as file:
-                                await file.write(text)
+                            else:
+                                changes += f"+ {line}\n"
+                        templist.append(changes)
+                        for i2 in templist:
+                            if i2 == "":
+                                continue
+                            if len(i2) > 1500:
+                                async with aiofiles.open("Cache/temp.txt", mode="w+", encoding="utf8") as file:
+                                    await file.write(str(i2))
+                                file = discord.File("Cache/temp.txt")
+                                await self.client.get_channel(743191744161775758).send(
+                                    f"Detected Changes for **{i['filename']}**", file=file)
+                            else:
+                                await self.client.get_channel(743191744161775758).send(
+                                    f"Detected Changes for **{i['filename']}**\n```ini\n{i2}\n```")
+                        async with aiofiles.open(f"Cache/ini/{i['filename']}", mode="w+", encoding="utf8") as file:
+                            await file.write(text)
 
     def cog_unload(self):
         self.check.stop()

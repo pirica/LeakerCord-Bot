@@ -128,19 +128,19 @@
                 {
                   "promotionalOffers": [
                     {
-                      "startDate": "2020-09-10T15:00:00.000Z",
-                      "endDate": "2020-09-24T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 50
-                      }
-                    },
-                    {
                       "startDate": "2020-09-03T15:00:00.000Z",
                       "endDate": "2020-09-10T15:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 0
+                      }
+                    },
+                    {
+                      "startDate": "2020-09-10T15:00:00.000Z",
+                      "endDate": "2020-09-24T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE",
+                        "discountPercentage": 50
                       }
                     }
                   ]
@@ -928,6 +928,65 @@
             "Catalog",
             "searchStore",
             "elements",
+            2,
+            "price",
+            "totalPrice"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            2,
+            "price",
+            "totalPrice",
+            "currencyInfo"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            2,
+            "price",
+            "totalPrice",
+            "fmtPrice"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            2,
+            "price",
+            "lineOffers"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            2,
+            "price",
+            "lineOffers",
+            0,
+            "appliedRules"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
             0,
             "price",
             "totalPrice"
@@ -979,6 +1038,80 @@
             "lineOffers",
             0,
             "appliedRules"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            1,
+            "price",
+            "totalPrice"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            1,
+            "price",
+            "totalPrice",
+            "currencyInfo"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            1,
+            "price",
+            "totalPrice",
+            "fmtPrice"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            1,
+            "price",
+            "lineOffers"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            1,
+            "price",
+            "lineOffers",
+            0,
+            "appliedRules"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            1,
+            "price",
+            "lineOffers",
+            0,
+            "appliedRules",
+            0,
+            "discountSetting"
           ],
           "maxAge": 0
         },
@@ -1062,8 +1195,8 @@
             "searchStore",
             "elements",
             1,
-            "price",
-            "totalPrice"
+            "promotions",
+            "promotionalOffers"
           ],
           "maxAge": 0
         },
@@ -1073,45 +1206,10 @@
             "searchStore",
             "elements",
             1,
-            "price",
-            "totalPrice",
-            "currencyInfo"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            1,
-            "price",
-            "totalPrice",
-            "fmtPrice"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            1,
-            "price",
-            "lineOffers"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            1,
-            "price",
-            "lineOffers",
+            "promotions",
+            "promotionalOffers",
             0,
-            "appliedRules"
+            "promotionalOffers"
           ],
           "maxAge": 0
         },
@@ -1121,12 +1219,23 @@
             "searchStore",
             "elements",
             1,
-            "price",
-            "lineOffers",
+            "promotions",
+            "promotionalOffers",
             0,
-            "appliedRules",
+            "promotionalOffers",
             0,
             "discountSetting"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            1,
+            "promotions",
+            "upcomingPromotionalOffers"
           ],
           "maxAge": 0
         },
@@ -1192,115 +1301,6 @@
             "promotionalOffers",
             1,
             "discountSetting"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            1,
-            "promotions",
-            "promotionalOffers"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            1,
-            "promotions",
-            "promotionalOffers",
-            0,
-            "promotionalOffers"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            1,
-            "promotions",
-            "promotionalOffers",
-            0,
-            "promotionalOffers",
-            0,
-            "discountSetting"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            1,
-            "promotions",
-            "upcomingPromotionalOffers"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            2,
-            "price",
-            "totalPrice"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            2,
-            "price",
-            "totalPrice",
-            "currencyInfo"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            2,
-            "price",
-            "totalPrice",
-            "fmtPrice"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            2,
-            "price",
-            "lineOffers"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            2,
-            "price",
-            "lineOffers",
-            0,
-            "appliedRules"
           ],
           "maxAge": 0
         },

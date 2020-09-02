@@ -38,7 +38,7 @@ async def export(ctx, path: str):
             if response.status == 404:
                 return await ctx.send("I cannot find this.")
             if response.status != 200:
-                return await ctx.send(response.status, ": Error")
+                return await ctx.send(str(response.status) + ": Error")
             if response.status == 200:
                 with open(f"response.{str(response.content_type).split('/')[1]}", "wb") as f:
                     f.write(await response.read())

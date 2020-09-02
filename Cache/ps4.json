@@ -2480,28 +2480,28 @@
   ],
   "sort": "static",
   "star_rating": {
-    "total": "2617611",
+    "total": "2617790",
     "score": "4.37",
     "count": [
       {
         "star": 1,
-        "count": 237738
+        "count": 237751
       },
       {
         "star": 2,
-        "count": 27206
+        "count": 27209
       },
       {
         "star": 3,
-        "count": 186563
+        "count": 186587
       },
       {
         "star": 4,
-        "count": 238488
+        "count": 238506
       },
       {
         "star": 5,
-        "count": 1927616
+        "count": 1927737
       }
     ]
   },
