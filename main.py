@@ -46,13 +46,14 @@ async def on_message(msg):
 
 @client.command()
 async def refresh(ctx):
-    try:
-        os.chdir(os.path.dirname(os.path.realpath(__file__)))
-        os.system("git fetch")
-        await ctx.send("Successfull downloaded the Bot. Restarting now...")
-        os.system("service leaker restart")
-    except Exception as ex:
-        await ctx.send(ex)
+    if ctx.author.roles in [741331981857587341]:
+        try:
+            os.chdir(os.path.dirname(os.path.realpath(__file__)))
+            os.system("git fetch")
+            await ctx.send("Successfull downloaded the Bot. Restarting now...")
+            os.system("service leaker restart")
+        except Exception as ex:
+            await ctx.send(ex)
 
 @client.command()
 async def export(ctx, path: str):
