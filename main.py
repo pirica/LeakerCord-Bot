@@ -34,19 +34,24 @@ async def on_message(msg):
     if msg.author.id == client.user.id:
         return
     if msg.channel.id == 748885612777701386:
-        os.chdir(os.path.dirname(os.path.realpath(__file__)))
-        os.system("git fetch")
-        await client.get_channel(748885612777701386).send("Successfull downloaded the Bot. Restarting now...")
-        os.system("service leaker restart")
+        try:
+            os.chdir(os.path.dirname(os.path.realpath(__file__)))
+            os.system("git fetch")
+            await client.get_channel(748885612777701386).send("Successfull downloaded the Bot. Restarting now...")
+            os.system("service leaker restart")
+        except Exception as ex:
+            await client.get_channel(748885612777701386).send(ex)
 
 
 @client.command()
 async def refresh(ctx):
-    os.chdir(os.path.dirname(os.path.realpath(__file__)))
-    os.system("git fetch")
-    await ctx.send("Successfull downloaded the Bot. Restarting now...")
-    os.system("service leaker restart")
-
+    try:
+        os.chdir(os.path.dirname(os.path.realpath(__file__)))
+        os.system("git fetch")
+        await ctx.send("Successfull downloaded the Bot. Restarting now...")
+        os.system("service leaker restart")
+    except Exception as ex:
+        await ctx.send(ex)
 
 @client.command()
 async def export(ctx, path: str):
