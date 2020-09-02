@@ -42,14 +42,6 @@ class weapon(commands.Cog):
             traceback.print_exception(type(ex), ex, ex.__traceback__)
             print(ex)
             return
-        if new is None:
-            nono = self.client.get_user(Settings.SETTINGS.nono)
-            await nono.send("weapons not loaded", new)
-            return print("LOLweapons")
-        if Cached is None:
-            nono = self.client.get_user(Settings.SETTINGS.nono)
-            await nono.send("weapons cache not loaded")
-            return print("LOL weapons")
         if Cached["weapons"] != new["weapons"]:
             for i in new["weapons"]:
                 if i not in Cached["weapons"]:
@@ -246,7 +238,7 @@ class weapon(commands.Cog):
                                 except:
                                     oldReloadTime = "Not Found"
                                 stats += f"New Reload Time: {ReloadTime}\n"
-                                stats += f"Old Reload Time: {oldReloadTime}"
+                                stats += f"Old Reload Time: {oldReloadTime}\n\n"
 
                                 try:
                                     BulletsPerCartridge = i["mainStats"]["BulletsPerCartridge"]
