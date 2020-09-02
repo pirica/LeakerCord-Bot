@@ -3,7 +3,7 @@
   "_title": "Fortnite Game",
   "jcr:baseVersion": "a7ca237317f1e7883b3279-c38f-4aa7-a325-e099e4bf71e5",
   "_activeDate": "2017-08-30T03:20:48.050Z",
-  "lastModified": "2020-08-27T19:42:38.757Z",
+  "lastModified": "2020-09-01T16:32:15.799Z",
   "_locale": "en-US",
   "subgameinfo": {
     "battleroyale": {
@@ -75,7 +75,27 @@
   },
   "battleroyalenews": {
     "news": {
-      "motds": [],
+      "motds": [
+        {
+          "entryType": "NavigateToTab",
+          "image": "https://cdn2.unrealengine.com/br07-motd-lilwhip-1920x1080-1920x1080-891090978.jpg",
+          "tileImage": "https://cdn2.unrealengine.com/br14-motd-lilwhip-1024x512-1024x512-890281631.jpg",
+          "navigateToTabValue": "ShowAthenaItemShop",
+          "hidden": false,
+          "videoMute": false,
+          "_type": "CommonUI Simple Message MOTD",
+          "title": "Lil Whip",
+          "body": "Take on the heat with a sweet summer treat.",
+          "videoLoop": false,
+          "videoStreamingEnabled": false,
+          "sortingPriority": 80,
+          "buttonTextOverride": "Grab It ",
+          "id": "Lil Whip links to Item Shop",
+          "videoAutoplay": false,
+          "videoFullscreen": false,
+          "spotlight": false
+        }
+      ],
       "_type": "Battle Royale News",
       "messages": [
         {
@@ -88,7 +108,145 @@
           "spotlight": false
         }
       ],
-      "platform_motds": []
+      "platform_motds": [
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "Text",
+            "image": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1920x1080-1920x1080-891082253.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1024x512-1024x512-891082247.jpg",
+            "hidden": true,
+            "videoMute": false,
+            "tabTitleOverride": "New Location",
+            "experiment_id": 0,
+            "_type": "CommonUI Simple Message MOTD",
+            "cameraTag": "",
+            "title": "Doom's Domain",
+            "body": "Infiltrate Doom\u2019s Domain and take down Doctor Doom to harness the power of chaos and wield powerful abilities.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 40,
+            "buttonTextOverride": "View the Battle Pass",
+            "id": "Dooms Domain",
+            "videoAutoplay": false,
+            "experiment_percent": 0,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "switch"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "Text",
+            "image": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1920x1080-1920x1080-891082253.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1024x512-1024x512-891082247.jpg",
+            "hidden": true,
+            "videoMute": false,
+            "tabTitleOverride": "New Location",
+            "experiment_id": 0,
+            "_type": "CommonUI Simple Message MOTD",
+            "cameraTag": "",
+            "title": "Doom's Domain",
+            "body": "Infiltrate Doom\u2019s Domain and take down Doctor Doom to harness the power of chaos and wield powerful abilities.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 40,
+            "buttonTextOverride": "View the Battle Pass",
+            "id": "Dooms Domain",
+            "videoAutoplay": false,
+            "experiment_percent": 0,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "windows"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "Text",
+            "image": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1920x1080-1920x1080-891082253.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1024x512-1024x512-891082247.jpg",
+            "hidden": true,
+            "videoMute": false,
+            "tabTitleOverride": "New Location",
+            "experiment_id": 0,
+            "_type": "CommonUI Simple Message MOTD",
+            "cameraTag": "",
+            "title": "Doom's Domain",
+            "body": "Infiltrate Doom\u2019s Domain and take down Doctor Doom to harness the power of chaos and wield powerful abilities.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 40,
+            "buttonTextOverride": "View the Battle Pass",
+            "id": "Dooms Domain",
+            "videoAutoplay": false,
+            "experiment_percent": 0,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "android"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "Text",
+            "image": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1920x1080-1920x1080-891082253.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1024x512-1024x512-891082247.jpg",
+            "hidden": true,
+            "videoMute": false,
+            "tabTitleOverride": "New Location",
+            "experiment_id": 0,
+            "_type": "CommonUI Simple Message MOTD",
+            "cameraTag": "",
+            "title": "Doom's Domain",
+            "body": "Infiltrate Doom\u2019s Domain and take down Doctor Doom to harness the power of chaos and wield powerful abilities.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 40,
+            "buttonTextOverride": "View the Battle Pass",
+            "id": "Dooms Domain",
+            "videoAutoplay": false,
+            "experiment_percent": 0,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "XBoxOne"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "Text",
+            "image": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1920x1080-1920x1080-891082253.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1024x512-1024x512-891082247.jpg",
+            "videoMute": false,
+            "hidden": true,
+            "tabTitleOverride": "New Location",
+            "experiment_id": 0,
+            "_type": "CommonUI Simple Message MOTD",
+            "cameraTag": "",
+            "title": "Doom's Domain",
+            "body": "Infiltrate Doom\u2019s Domain and take down Doctor Doom to harness the power of chaos and wield powerful abilities.",
+            "videoLoop": false,
+            "websiteButtonText": "",
+            "videoStreamingEnabled": false,
+            "sortingPriority": 40,
+            "websiteURL": "",
+            "buttonTextOverride": "View the Battle Pass",
+            "id": "Dooms Domain",
+            "videoAutoplay": false,
+            "experiment_percent": 0,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "PS4"
+        }
+      ]
     },
     "jcr:isCheckedOut": true,
     "_title": "battleroyalenews",
@@ -96,9 +254,9 @@
     "style": "None",
     "_noIndex": false,
     "alwaysShow": false,
-    "jcr:baseVersion": "a7ca237317f1e74597f88c-30c6-4089-ab5e-05fd8be8645c",
+    "jcr:baseVersion": "a7ca237317f1e7f967cd06-73fa-40ee-b6e4-da035f6732f0",
     "_activeDate": "2020-01-21T14:00:00.000Z",
-    "lastModified": "2020-08-27T06:11:35.504Z",
+    "lastModified": "2020-08-31T23:59:15.945Z",
     "_locale": "en-US"
   },
   "lobby": {
@@ -111,7 +269,45 @@
   },
   "creativenews": {
     "news": {
-      "motds": [],
+      "motds": [
+        {
+          "entryType": "Text",
+          "image": "https://cdn2.unrealengine.com/14-0-05-completedestructionroyale-1920x1080-1920x1080-865882909.jpg",
+          "tileImage": "https://cdn2.unrealengine.com/14-0-05-completedestructionroyale-1024x512-1024x512-865882904.jpg",
+          "tabTitleOverride": "New Featured Island",
+          "hidden": false,
+          "videoMute": false,
+          "_type": "CommonUI Simple Message MOTD",
+          "title": "Complete Destruction Royale",
+          "body": "Battle Royale, Artistic, Free For All, One Life\nGo play the community made Featured Island by prudiz",
+          "videoLoop": false,
+          "videoStreamingEnabled": false,
+          "sortingPriority": 70,
+          "id": "Complete Destruction Royale New Featured Island",
+          "videoAutoplay": false,
+          "videoFullscreen": false,
+          "spotlight": false
+        },
+        {
+          "entryType": "NavigateToTab",
+          "image": "https://cdn2.unrealengine.com/br07-motd-lilwhip-1920x1080-1920x1080-891090978.jpg",
+          "tileImage": "https://cdn2.unrealengine.com/br14-motd-lilwhip-1024x512-1024x512-890281631.jpg",
+          "navigateToTabValue": "ShowAthenaItemShop",
+          "hidden": false,
+          "videoMute": false,
+          "_type": "CommonUI Simple Message MOTD",
+          "title": "Lil Whip",
+          "body": "Take on the heat with a sweet summer treat.",
+          "videoLoop": false,
+          "videoStreamingEnabled": false,
+          "sortingPriority": 80,
+          "buttonTextOverride": "Grab It ",
+          "id": "Lil Whip links to Item Shop",
+          "videoAutoplay": false,
+          "videoFullscreen": false,
+          "spotlight": false
+        }
+      ],
       "_type": "Battle Royale News",
       "messages": [
         {
@@ -132,9 +328,9 @@
     "style": "None",
     "_noIndex": false,
     "alwaysShow": false,
-    "jcr:baseVersion": "a7ca237317f1e7f6ff7479-5ae0-4331-8455-9ce0a45b3fd3",
+    "jcr:baseVersion": "a7ca237317f1e7920394ab-f546-4306-b0ca-09a2eaa55dfb",
     "_activeDate": "2020-01-22T00:00:00.000Z",
-    "lastModified": "2020-08-27T14:29:43.543Z",
+    "lastModified": "2020-08-31T23:35:40.813Z",
     "_locale": "en-US"
   },
   "savetheworldnews": {
@@ -142,12 +338,12 @@
       "_type": "Battle Royale News",
       "messages": [
         {
-          "image": "https://cdn2.unrealengine.com/09stw-dinosaurconstructor-motd-1024x512-682778270.jpg",
+          "image": "https://cdn2.unrealengine.com/10stw-hotmix-motd-1024x512-682778365.jpg",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "adspace": "LEAVING SOON!",
-          "title": "Prehistoric Izza",
-          "body": "Break out the might of the Saurian Hide with Prehistoric Izza!",
+          "adspace": "EVENT STORE",
+          "title": "HOT MIX!",
+          "body": "Drop the hottest of mixes with the Hot Mix Pistol! Fire a pair of Sonic Blasts that pierce enemies.",
           "spotlight": false
         },
         {
@@ -160,12 +356,12 @@
           "spotlight": false
         },
         {
-          "image": "https://cdn2.unrealengine.com/13stw-triceraopsramirez-motd-1024x512-1024x512-319992869.jpg",
+          "image": "https://cdn2.unrealengine.com/dennis-jr-1024x512-682778428.jpg",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "LEAVING SOON!",
-          "title": "Tricera Ops Ramirez",
-          "body": "Stand strong using Saurian Vigor with Tricera Ops Ramirez!",
+          "title": "Dennis Jr",
+          "body": "Break out the axe and Introduce the Husks to the shredder himself, Dennis Jr! This Hero unlocks the \"\"Totally Rockin' Out\"\" Team Perk.",
           "spotlight": false
         }
       ]
@@ -174,9 +370,9 @@
     "_title": "SaveTheWorldNews",
     "_noIndex": false,
     "alwaysShow": false,
-    "jcr:baseVersion": "a7ca237317f1e7b78ee1b2-6c3a-4b6d-b8f2-ecb8b08133d7",
+    "jcr:baseVersion": "a7ca237317f1e77db3789a-8318-418b-9200-64e8f73fda1d",
     "_activeDate": "2020-01-22T00:00:00.000Z",
-    "lastModified": "2020-08-26T23:50:08.424Z",
+    "lastModified": "2020-09-01T00:06:49.800Z",
     "_locale": "en-US"
   },
   "playersurvey": {
@@ -191,7 +387,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -304,7 +500,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -417,7 +613,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -530,7 +726,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -643,7 +839,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -758,7 +954,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -871,7 +1067,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -984,7 +1180,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -1097,7 +1293,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -1211,7 +1407,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -1324,7 +1520,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -1437,7 +1633,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -1550,7 +1746,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -1663,7 +1859,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -1776,7 +1972,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -1889,7 +2085,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -2002,7 +2198,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -2115,7 +2311,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -2228,7 +2424,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -2341,7 +2537,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -2454,7 +2650,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -5624,6 +5820,119 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
+              },
+              "_type": "Player Survey - Condition Container"
+            }
+          ],
+          "hidden": false,
+          "e": false,
+          "_type": "Player Survey - Survey",
+          "cm": {
+            "_type": "Player Survey - Message"
+          },
+          "q": [
+            {
+              "mc": {
+                "s": "rating",
+                "c": [
+                  {
+                    "t": "Too Weak",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Too Strong",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  }
+                ],
+                "t": "Do you feel the <keyword>Pump Shotgun</> is (1) Too Weak, (3) Just Right, or (5) Too Strong?",
+                "_type": "Player Survey - Multiple Choice Question"
+              },
+              "_type": "Player Survey - Question Container"
+            },
+            {
+              "mc": {
+                "s": "rating",
+                "c": [
+                  {
+                    "t": "Too Low",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Too High",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  }
+                ],
+                "t": "In your games, is your chance of finding the <keyword>Pump Shotgun</> (1) Too Low, (3) Just Right, or (5) Too High?",
+                "_type": "Player Survey - Multiple Choice Question"
+              },
+              "_type": "Player Survey - Question Container"
+            },
+            {
+              "mc": {
+                "s": "rating",
+                "c": [
+                  {
+                    "t": "Very Negative",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Very Positive",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  }
+                ],
+                "t": "Overall, how do you feel about the <keyword>Pump Shotgun</> in Fortnite Battle Royale?",
+                "_type": "Player Survey - Multiple Choice Question"
+              },
+              "_type": "Player Survey - Question Container"
+            }
+          ],
+          "r": "rm",
+          "t": "We want your feedback!",
+          "sg": [
+            "a"
+          ],
+          "id": "200128_ITEMDC_Pump Shotgun_FNBR",
+          "po": {
+            "_type": "Player Survey - Message"
+          }
+        },
+        {
+          "rt": false,
+          "pr": {
+            "_type": "Player Survey - Message"
+          },
+          "c": [
+            {
+              "cg": {
+                "_type": "Player Survey - Condition - Condition Group",
                 "id": "FNBR_Heartbeats_30dCD_SplitAt20"
               },
               "_type": "Player Survey - Condition Container"
@@ -6515,6 +6824,119 @@
             "a"
           ],
           "id": "200128_ITEMDC_Bolt-Action Sniper Rifle_FNBR",
+          "po": {
+            "_type": "Player Survey - Message"
+          }
+        },
+        {
+          "rt": false,
+          "pr": {
+            "_type": "Player Survey - Message"
+          },
+          "c": [
+            {
+              "cg": {
+                "_type": "Player Survey - Condition - Condition Group",
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
+              },
+              "_type": "Player Survey - Condition Container"
+            }
+          ],
+          "hidden": false,
+          "e": false,
+          "_type": "Player Survey - Survey",
+          "cm": {
+            "_type": "Player Survey - Message"
+          },
+          "q": [
+            {
+              "mc": {
+                "s": "rating",
+                "c": [
+                  {
+                    "t": "Too Weak",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Too Strong",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  }
+                ],
+                "t": "Do you feel the <keyword>Bandage Bazooka</> is (1) Too Weak, (3) Just Right, or (5) Too Strong?",
+                "_type": "Player Survey - Multiple Choice Question"
+              },
+              "_type": "Player Survey - Question Container"
+            },
+            {
+              "mc": {
+                "s": "rating",
+                "c": [
+                  {
+                    "t": "Too Low",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Too High",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  }
+                ],
+                "t": "In your games, is your chance of finding the <keyword>Bandage Bazooka</> (1) Too Low, (3) Just Right, or (5) Too High?",
+                "_type": "Player Survey - Multiple Choice Question"
+              },
+              "_type": "Player Survey - Question Container"
+            },
+            {
+              "mc": {
+                "s": "rating",
+                "c": [
+                  {
+                    "t": "Very Negative",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Very Positive",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  }
+                ],
+                "t": "Overall, how do you feel about the <keyword>Bandage Bazooka</> in Fortnite Battle Royale?",
+                "_type": "Player Survey - Multiple Choice Question"
+              },
+              "_type": "Player Survey - Question Container"
+            }
+          ],
+          "r": "rm",
+          "t": "We want your feedback!",
+          "sg": [
+            "a"
+          ],
+          "id": "200128_ITEMDC_Bandage Bazooka_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -8416,6 +8838,44 @@
         {
           "c": [
             {
+              "cg": {
+                "_type": "Player Survey - Condition - Condition Group",
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+              },
+              "_type": "Player Survey - Condition Container"
+            },
+            {
+              "cg": {
+                "_type": "Player Survey - Condition - Condition Group",
+                "id": "FNBR_V_Switch"
+              },
+              "_type": "Player Survey - Condition Container"
+            }
+          ],
+          "_type": "Player Survey - Condition Group",
+          "id": "FNBR_Heartbeats_30dCD_SplitAt20_V_Switch"
+        },
+        {
+          "c": [
+            {
+              "_type": "Player Survey - Condition Container",
+              "pl": {
+                "p": [
+                  "Windows",
+                  "PS4",
+                  "XboxOne",
+                  "Switch"
+                ],
+                "_type": "Player Survey - Condition - Platform"
+              }
+            }
+          ],
+          "_type": "Player Survey - Condition Group",
+          "id": "FNBR_V_Switch"
+        },
+        {
+          "c": [
+            {
               "_type": "Player Survey - Condition Container",
               "pl": {
                 "p": [
@@ -9684,9 +10144,9 @@
     "jcr:isCheckedOut": true,
     "_title": "playersurvey",
     "_noIndex": false,
-    "jcr:baseVersion": "a7ca237317f1e7bbce5b99-b0ba-467c-adcc-02dc53fc1444",
+    "jcr:baseVersion": "a7ca237317f1e77b62e375-f7ef-45dc-8dde-838b1147a49a",
     "_activeDate": "2019-10-15T07:50:00.000Z",
-    "lastModified": "2020-08-27T18:56:26.802Z",
+    "lastModified": "2020-08-28T17:15:24.226Z",
     "_locale": "en-US"
   },
   "battlepassaboutmessages": {
@@ -9729,6 +10189,7 @@
   },
   "emergencynotice": {
     "news": {
+      "platform_messages": [],
       "_type": "Battle Royale News",
       "messages": [],
       "region_messages": [
@@ -9763,9 +10224,9 @@
     "_title": "emergencynotice",
     "_noIndex": false,
     "alwaysShow": false,
-    "jcr:baseVersion": "a7ca237317f1e7e7e8b781-e251-4335-8a4e-e59cb26c8f8c",
+    "jcr:baseVersion": "a7ca237317f1e71c41ef5a-6486-4716-82be-ce7bff1f7cff",
     "_activeDate": "2018-08-06T19:00:26.217Z",
-    "lastModified": "2020-08-27T16:59:12.718Z",
+    "lastModified": "2020-08-27T21:56:04.852Z",
     "_locale": "en-US"
   },
   "koreancafe": {
@@ -9901,6 +10362,20 @@
           "violator": "",
           "_type": "FortPlaylistInfo",
           "description": "Welcome to Party Royale, a new experimental and evolving space. Leave your weapons and mats behind and hang out with friends, play games and enjoy live entertainment. Catch live shows. Race around obstacle courses by land or sea. Go fishing with friends, perfect your skydive, and get up close and connect with some of your favorite artists. Hop on the party bus and enjoy the ride."
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/14br-tiltedtaxi-motd-1024x512-1024x512-890727217.jpg",
+          "playlist_name": "Playlist_Nitrogen12_Trios",
+          "hidden": false,
+          "violator": "NEW",
+          "_type": "FortPlaylistInfo"
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/14br-tiltedtaxi-motd-1024x512-1024x512-890727217.jpg",
+          "playlist_name": "Playlist_Nitrogen12_Duos",
+          "hidden": false,
+          "violator": "NEW",
+          "_type": "FortPlaylistInfo"
         },
         {
           "image": "https://cdn2.unrealengine.com/13br-summersplash-ltm-knockoutairraid-motd-1024x512-1024x512-674280089.jpg",
@@ -11120,9 +11595,9 @@
       ]
     },
     "_noIndex": false,
-    "jcr:baseVersion": "a7ca237317f1e79f83db7e-a01a-4822-b0fc-b0646f3e1e32",
+    "jcr:baseVersion": "a7ca237317f1e76cac0f08-764d-42ae-9e60-1549acef9805",
     "_activeDate": "2018-04-25T15:05:39.956Z",
-    "lastModified": "2020-08-27T04:17:02.205Z",
+    "lastModified": "2020-09-01T13:09:27.477Z",
     "_locale": "en-US"
   },
   "creativeFeatures": {
@@ -11140,6 +11615,240 @@
     "jcr:isCheckedOut": true,
     "tournament_info": {
       "tournaments": [
+        {
+          "title_color": "FFFFFF",
+          "loading_screen_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-2-1024x512-319765874.jpg",
+          "background_text_color": "000000",
+          "background_right_color": "FF4B0A",
+          "poster_back_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-back-750x1080-319770605.jpg",
+          "_type": "Tournament Display Info",
+          "pin_earned_text": "Winner!",
+          "tournament_display_id": "s14_dreamhack_eu_finals",
+          "highlight_color": "FFED27",
+          "schedule_info": "September 19th",
+          "primary_color": "FFFFFF",
+          "flavor_description": "This community focused tournament features a $250,000 prize pool up for grabs. Best of luck!",
+          "poster_front_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-front-2-750x1080-319776257.jpg",
+          "short_format_title": "SOLO TOURNAMENT",
+          "title_line_2": "Finals",
+          "title_line_1": "DreamHack Online Open",
+          "shadow_color": "000000",
+          "details_description": "This is a tournament for registered players only. The top players from Stage 2 will battle it out in this finale! For assistance and contact with the tournament admins, please use this discord link: discord.gg/dreamhack. You can also check out the event details here: https://dreamhack.com/fortnite/#format - Best of luck!",
+          "background_left_color": "F50249",
+          "long_format_title": "DreamHack Online Open Featuring Fortnite",
+          "poster_fade_color": "FF4B0A",
+          "secondary_color": "000000",
+          "playlist_tile_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-2-1024x512-319765874.jpg",
+          "base_color": "FFFFFF"
+        },
+        {
+          "title_color": "FFFFFF",
+          "loading_screen_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-2-1024x512-319765874.jpg",
+          "background_text_color": "000000",
+          "background_right_color": "FF4B0A",
+          "poster_back_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-back-750x1080-319770605.jpg",
+          "_type": "Tournament Display Info",
+          "pin_earned_text": "Winner!",
+          "tournament_display_id": "s14_dreamhack_naw_finals",
+          "highlight_color": "FFED27",
+          "schedule_info": "September 13th",
+          "primary_color": "FFFFFF",
+          "flavor_description": "This community focused tournament features a $250,000 prize pool up for grabs. Best of luck!",
+          "poster_front_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-front-2-750x1080-319776257.jpg",
+          "short_format_title": "SOLO TOURNAMENT",
+          "title_line_2": "Finals",
+          "title_line_1": "DreamHack Online Open",
+          "shadow_color": "000000",
+          "details_description": "This is a tournament for registered players only. The top players from Stage 2 will battle it out in this finale! For assistance and contact with the tournament admins, please use this discord link: discord.gg/dreamhack. You can also check out the event details here: https://dreamhack.com/fortnite/#format - Best of luck!",
+          "background_left_color": "F50249",
+          "long_format_title": "DreamHack Online Open Featuring Fortnite",
+          "poster_fade_color": "FF4B0A",
+          "secondary_color": "000000",
+          "playlist_tile_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-2-1024x512-319765874.jpg",
+          "base_color": "FFFFFF"
+        },
+        {
+          "title_color": "FFFFFF",
+          "loading_screen_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-2-1024x512-319765874.jpg",
+          "background_text_color": "000000",
+          "background_right_color": "FF4B0A",
+          "poster_back_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-back-750x1080-319770605.jpg",
+          "_type": "Tournament Display Info",
+          "pin_earned_text": "Winner!",
+          "tournament_display_id": "s14_dreamhack_nae_finals",
+          "highlight_color": "FFED27",
+          "schedule_info": "September 18th",
+          "primary_color": "FFFFFF",
+          "flavor_description": "This community focused tournament features a $250,000 prize pool up for grabs. Best of luck!",
+          "poster_front_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-front-2-750x1080-319776257.jpg",
+          "short_format_title": "SOLO TOURNAMENT",
+          "title_line_2": "Finals",
+          "title_line_1": "DreamHack Online Open",
+          "shadow_color": "000000",
+          "details_description": "This is a tournament for registered players only. The top players from Stage 2 will battle it out in this finale! For assistance and contact with the tournament admins, please use this discord link: discord.gg/dreamhack. You can also check out the event details here: https://dreamhack.com/fortnite/#format - Best of luck!",
+          "background_left_color": "F50249",
+          "long_format_title": "DreamHack Online Open Featuring Fortnite",
+          "poster_fade_color": "FF4B0A",
+          "secondary_color": "000000",
+          "playlist_tile_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-2-1024x512-319765874.jpg",
+          "base_color": "FFFFFF"
+        },
+        {
+          "title_color": "FFFFFF",
+          "loading_screen_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-1-1024x512-319768275.jpg",
+          "background_text_color": "000000",
+          "background_right_color": "FF4B0A",
+          "poster_back_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-back-750x1080-319770605.jpg",
+          "_type": "Tournament Display Info",
+          "pin_earned_text": "Winner!",
+          "tournament_display_id": "s14_dreamhack_eu_semifinals",
+          "highlight_color": "FFED27",
+          "schedule_info": "September 19th",
+          "primary_color": "FFFFFF",
+          "flavor_description": "This community focused tournament features a $250,000 prize pool up for grabs. Best of luck!",
+          "poster_front_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-front-1-750x1080-319779191.jpg",
+          "short_format_title": "SOLO TOURNAMENT",
+          "title_line_2": "Semi Finals",
+          "title_line_1": "DreamHack Online Open",
+          "shadow_color": "000000",
+          "details_description": "This is a tournament for registered players only. The top 100 players will advance to Stage 3. For assistance and contact with the tournament admins, please use this discord link: discord.gg/dreamhack. You can also check out the event details here: https://dreamhack.com/fortnite/#format - Best of luck!",
+          "background_left_color": "F50249",
+          "long_format_title": "DreamHack Online Open Featuring Fortnite",
+          "poster_fade_color": "FF4B0A",
+          "secondary_color": "000000",
+          "playlist_tile_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-1-1024x512-319768275.jpg",
+          "base_color": "FFFFFF"
+        },
+        {
+          "title_color": "FFFFFF",
+          "loading_screen_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-1-1024x512-319768275.jpg",
+          "background_text_color": "000000",
+          "background_right_color": "FF4B0A",
+          "poster_back_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-back-750x1080-319770605.jpg",
+          "_type": "Tournament Display Info",
+          "pin_earned_text": "Winner!",
+          "tournament_display_id": "s14_dreamhack_naw_semifinals",
+          "highlight_color": "FFED27",
+          "schedule_info": "September 13th",
+          "primary_color": "FFFFFF",
+          "flavor_description": "This community focused tournament features a $250,000 prize pool up for grabs. Best of luck!",
+          "poster_front_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-front-1-750x1080-319779191.jpg",
+          "short_format_title": "SOLO TOURNAMENT",
+          "title_line_2": "Semi Finals",
+          "title_line_1": "DreamHack Online Open",
+          "shadow_color": "000000",
+          "details_description": "This is a tournament for registered players only. The top 100 players will advance to Stage 3. For assistance and contact with the tournament admins, please use this discord link: discord.gg/dreamhack. You can also check out the event details here: https://dreamhack.com/fortnite/#format - Best of luck!",
+          "background_left_color": "F50249",
+          "long_format_title": "DreamHack Online Open Featuring Fortnite",
+          "poster_fade_color": "FF4B0A",
+          "secondary_color": "000000",
+          "playlist_tile_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-1-1024x512-319768275.jpg",
+          "base_color": "FFFFFF"
+        },
+        {
+          "title_color": "FFFFFF",
+          "loading_screen_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-1-1024x512-319768275.jpg",
+          "background_text_color": "000000",
+          "background_right_color": "FF4B0A",
+          "poster_back_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-back-750x1080-319770605.jpg",
+          "_type": "Tournament Display Info",
+          "pin_earned_text": "Winner!",
+          "tournament_display_id": "s14_dreamhack_nae_semifinals",
+          "highlight_color": "FFED27",
+          "schedule_info": "September 18th",
+          "primary_color": "FFFFFF",
+          "flavor_description": "This community focused tournament features a $250,000 prize pool up for grabs. Best of luck!",
+          "poster_front_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-front-1-750x1080-319779191.jpg",
+          "short_format_title": "SOLO TOURNAMENT",
+          "title_line_2": "Semi Finals",
+          "title_line_1": "DreamHack Online Open",
+          "shadow_color": "000000",
+          "details_description": "This is a tournament for registered players only. The top 100 players will advance to Stage 3. For assistance and contact with the tournament admins, please use this discord link: discord.gg/dreamhack. You can also check out the event details here: https://dreamhack.com/fortnite/#format - Best of luck!",
+          "background_left_color": "F50249",
+          "long_format_title": "DreamHack Online Open Featuring Fortnite",
+          "poster_fade_color": "FF4B0A",
+          "secondary_color": "000000",
+          "playlist_tile_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-1-1024x512-319768275.jpg",
+          "base_color": "FFFFFF"
+        },
+        {
+          "title_color": "FFFFFF",
+          "loading_screen_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-3-1024x512-319763319.jpg",
+          "background_text_color": "000000",
+          "background_right_color": "FF4B0A",
+          "poster_back_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-back-750x1080-319770605.jpg",
+          "_type": "Tournament Display Info",
+          "pin_earned_text": "Winner!",
+          "tournament_display_id": "s14_dreamhack_eu_heats",
+          "highlight_color": "FFED27",
+          "schedule_info": "September 19th",
+          "primary_color": "FFFFFF",
+          "flavor_description": "This community focused tournament features a $250,000 prize pool up for grabs. Best of luck!",
+          "poster_front_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-front-3-750x1080-319773361.jpg",
+          "short_format_title": "SOLO TOURNAMENT",
+          "title_line_2": "Heats",
+          "title_line_1": "DreamHack Online Open",
+          "shadow_color": "000000",
+          "details_description": "This is a tournament for registered players only. The top 750 players will advance to Stage 2. For assistance and contact with the tournament admins, please use this discord link: discord.gg/dreamhack. You can also check out the event details here: https://dreamhack.com/fortnite/#format - Best of luck!",
+          "background_left_color": "F50249",
+          "long_format_title": "DreamHack Online Open Featuring Fortnite",
+          "poster_fade_color": "FF4B0A",
+          "secondary_color": "000000",
+          "playlist_tile_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-3-1024x512-319763319.jpg",
+          "base_color": "FFFFFF"
+        },
+        {
+          "title_color": "FFFFFF",
+          "loading_screen_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-3-1024x512-319763319.jpg",
+          "background_text_color": "000000",
+          "background_right_color": "FF4B0A",
+          "poster_back_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-back-750x1080-319770605.jpg",
+          "_type": "Tournament Display Info",
+          "pin_earned_text": "Winner!",
+          "tournament_display_id": "s14_dreamhack_naw_heats",
+          "highlight_color": "FFED27",
+          "schedule_info": "September 12th",
+          "primary_color": "FFFFFF",
+          "flavor_description": "This community focused tournament features a $250,000 prize pool up for grabs. Best of luck!",
+          "poster_front_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-front-3-750x1080-319773361.jpg",
+          "short_format_title": "SOLO TOURNAMENT",
+          "title_line_2": "Heats",
+          "title_line_1": "DreamHack Online Open",
+          "shadow_color": "000000",
+          "details_description": "This is a tournament for registered players only. The top 750 players will advance to Stage 2. For assistance and contact with the tournament admins, please use this discord link: discord.gg/dreamhack. You can also check out the event details here: https://dreamhack.com/fortnite/#format - Best of luck!",
+          "background_left_color": "F50249",
+          "long_format_title": "DreamHack Online Open Featuring Fortnite",
+          "poster_fade_color": "FF4B0A",
+          "secondary_color": "000000",
+          "playlist_tile_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-3-1024x512-319763319.jpg",
+          "base_color": "FFFFFF"
+        },
+        {
+          "title_color": "FFFFFF",
+          "loading_screen_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-3-1024x512-319763319.jpg",
+          "background_text_color": "000000",
+          "background_right_color": "FF4B0A",
+          "poster_back_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-back-750x1080-319770605.jpg",
+          "_type": "Tournament Display Info",
+          "pin_earned_text": "Winner!",
+          "tournament_display_id": "s14_dreamhack_nae_heats",
+          "highlight_color": "FFED27",
+          "schedule_info": "September 17th",
+          "primary_color": "FFFFFF",
+          "flavor_description": "This community focused tournament features a $250,000 prize pool up for grabs. Best of luck!",
+          "poster_front_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-poster-front-3-750x1080-319773361.jpg",
+          "short_format_title": "SOLO TOURNAMENT",
+          "title_line_2": "Heats",
+          "title_line_1": "DreamHack Online Open",
+          "shadow_color": "000000",
+          "details_description": "This is a tournament for registered players only. The top 750 players will advance to Stage 2. For assistance and contact with the tournament admins, please use this discord link: discord.gg/dreamhack. You can also check out the event details here: https://dreamhack.com/fortnite/#format - Best of luck!",
+          "background_left_color": "F50249",
+          "long_format_title": "DreamHack Online Open Featuring Fortnite",
+          "poster_fade_color": "FF4B0A",
+          "secondary_color": "000000",
+          "playlist_tile_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-3-1024x512-319763319.jpg",
+          "base_color": "FFFFFF"
+        },
         {
           "loading_screen_image": "https://cdn2.unrealengine.com/13br-ingamefreefortnitecup-modetile-1024x512-797572800.jpg",
           "title_color": "FFFFFF",
@@ -11226,15 +11935,15 @@
           "_type": "Tournament Display Info",
           "tournament_display_id": "s13_stage0_qualifier",
           "highlight_color": "25fff4",
-          "schedule_info": "8/22 - 8/23",
+          "schedule_info": "Sept 6",
           "primary_color": "00ff8b",
-          "flavor_description": "\u9ad8\u6821\u6700\u5f37\u3092\u76ee\u6307\u305b\uff0145\u30c1\u30fc\u30e090\u540d\u304c\u6c7a\u52dd\u3078\uff01",
+          "flavor_description": "\u9ad8\u6821\u6700\u5f37\u3092\u76ee\u6307\u305b\uff01\u6c7a\u52dd\u5927\u4f1a\u3078\u9032\u3080\u306e\u306f\u8ab0\u3060\uff01\uff1f",
           "poster_front_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-stage0-poster-front-750x1080-716461714.jpg",
           "short_format_title": "\u30aa\u30f3\u30e9\u30a4\u30f3\u4e88\u9078",
           "title_line_2": "\u30aa\u30f3\u30e9\u30a4\u30f3\u4e88\u9078",
           "title_line_1": "STAGE:0",
           "shadow_color": "00736D",
-          "details_description": "\u9ad8\u6821e\u30b9\u30dd\u30fc\u30c4\u306e\u796d\u5178\u300eSTAGE:0\u300f\u30d5\u30a9\u30fc\u30c8\u30ca\u30a4\u30c8\u90e8\u9580\u306f\u3001 8\u670822\u65e5\uff08\u571f\uff0923\uff08\u65e5\uff09\u4e88\u9078\u5927\u4f1a\u21929\u670819\u65e5\uff08\u571f\uff09\u6c7a\u52dd\u5927\u4f1a\uff01 \u4e88\u9078\u306e\u901a\u904e\u800545\u30c1\u30fc\u30e090\u540d\u306f\u3001\u6c7a\u52dd\u306e\u30b9\u30c6\u30fc\u30b8\u3078\uff01 1400\u4ee5\u4e0a\u306e\u30c1\u30fc\u30e0\u306e\u4e2d\u304b\u3089\u3001STAGE:0\u30d5\u30a9\u30fc\u30c8\u30ca\u30a4\u30c8\u9ad8\u6821\u751f\u6700\u5f37\u306e\u5ea7\u3092\u63b4\u3080\u306e\u306f\u8ab0\u3060\uff01\uff1f \u8a73\u7d30\u60c5\u5831\u3084\u30dd\u30a4\u30f3\u30c8\u5236\u306a\u3069\u30eb\u30fc\u30eb\u306f\u300c\u30b9\u30c6\u30fc\u30b8\u30bc\u30ed\u300d\u3067\u691c\u7d22\u3057\u3066\u516c\u5f0f\u30b5\u30a4\u30c8\u3078\uff01 ",
+          "details_description": "\"\u9ad8\u6821e\u30b9\u30dd\u30fc\u30c4\u306e\u796d\u5178\u300eSTAGE:0\u300f\u30d5\u30a9\u30fc\u30c8\u30ca\u30a4\u30c8\u90e8\u9580\u306f\u3001 9\u670819\u65e5\uff08\u571f\uff09\u306b\u6c7a\u52dd\u5927\u4f1a\u3092\u958b\u50ac\uff01 \u6c7a\u52dd\u5927\u4f1a\u3078\u306e\u5207\u7b26\u3092\u304b\u3051\u3066\u30019\u67086\u65e5\u306b\u4e88\u9078\u5927\u4f1a\u3092\u8ffd\u52a0\u958b\u50ac\u3057\u307e\u3059\u3002  1400\u4ee5\u4e0a\u306e\u30c1\u30fc\u30e0\u306e\u4e2d\u304b\u3089\u3001STAGE:0\u30d5\u30a9\u30fc\u30c8\u30ca\u30a4\u30c8\u9ad8\u6821\u751f\u6700\u5f37\u306e\u5ea7\u3092\u63b4\u3080\u306e\u306f\u8ab0\u3060\uff01\uff1f \u8a73\u7d30\u60c5\u5831\u3084\u30dd\u30a4\u30f3\u30c8\u5236\u306a\u3069\u30eb\u30fc\u30eb\u306f\u300c\u30b9\u30c6\u30fc\u30b8\u30bc\u30ed\u300d\u3067\u691c\u7d22\u3057\u3066\u516c\u5f0f\u30b5\u30a4\u30c8\u3078\uff01\"",
           "background_left_color": "00b7a4",
           "long_format_title": "STAGE:0 \u30aa\u30f3\u30e9\u30a4\u30f3\u4e88\u9078",
           "poster_fade_color": "00a3a9",
@@ -18320,9 +19029,9 @@
     },
     "_title": "tournamentinformation",
     "_noIndex": false,
-    "jcr:baseVersion": "a7ca237317f1e741947ed8-34a2-433c-b1d8-772ec895efc8",
+    "jcr:baseVersion": "a7ca237317f1e7ca73df6b-d11f-43af-b54b-37d52d5270cd",
     "_activeDate": "2018-11-13T22:32:47.734Z",
-    "lastModified": "2020-08-27T19:42:38.757Z",
+    "lastModified": "2020-09-01T16:32:15.799Z",
     "_locale": "en-US"
   },
   "creativeAds": {
@@ -18367,6 +19076,309 @@
     "jcr:baseVersion": "a7ca237317f1e7e74d8224-27b1-40c5-899a-87ad04c04fbb",
     "_activeDate": "2020-06-25T00:33:01.635Z",
     "lastModified": "2020-08-27T12:38:23.953Z",
+    "_locale": "en-US"
+  },
+  "shopSections": {
+    "jcr:isCheckedOut": true,
+    "_title": "shop-sections",
+    "sectionList": {
+      "_type": "ShopSectionList",
+      "sections": [
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 200,
+          "sectionId": "LimitedTime",
+          "bShowTimer": false,
+          "sectionDisplayName": "Limited Time",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 190,
+          "sectionId": "Featured",
+          "bShowTimer": true,
+          "sectionDisplayName": "Featured",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "sectionId": "Daily",
+          "bShowTimer": true,
+          "sectionDisplayName": "Daily",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "sectionId": "Special",
+          "bShowTimer": true,
+          "sectionDisplayName": "Special Offers",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "sectionId": "StarWars",
+          "bShowTimer": true,
+          "sectionDisplayName": "Star Wars",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "sectionId": "Marvel",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "sectionId": "CustomizeHero",
+          "bShowTimer": true,
+          "sectionDisplayName": "Customize Your Hero!",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "sectionId": "HeroGear",
+          "bShowTimer": true,
+          "sectionDisplayName": "Hero Gear",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "sectionId": "Fortnitemares",
+          "bShowTimer": true,
+          "sectionDisplayName": "Fortnitemares",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "sectionId": "BannerBrigade",
+          "bShowTimer": true,
+          "sectionDisplayName": "Banner Brigade",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "sectionId": "BannerGear",
+          "bShowTimer": true,
+          "sectionDisplayName": "Banner Gear",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "sectionId": "Bundles",
+          "bShowTimer": true,
+          "sectionDisplayName": "Bundles",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "sectionId": "Characters",
+          "bShowTimer": true,
+          "sectionDisplayName": "Outfits",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 180,
+          "sectionId": "Backpacks",
+          "bShowTimer": true,
+          "sectionDisplayName": "Back Blings",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "sectionId": "Pickaxes",
+          "bShowTimer": true,
+          "sectionDisplayName": "Harvesting Tools",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "sectionId": "Gliders",
+          "bShowTimer": true,
+          "sectionDisplayName": "Gliders",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "sectionId": "MusicPacks",
+          "bShowTimer": true,
+          "sectionDisplayName": "Music Packs",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "sectionId": "Wraps",
+          "bShowTimer": true,
+          "sectionDisplayName": "Wraps",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": false,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1000,
+          "sectionId": "Battlepass",
+          "bShowTimer": false,
+          "sectionDisplayName": "Battle Pass",
+          "bShowIneligibleOffers": true
+        }
+      ]
+    },
+    "_noIndex": false,
+    "jcr:baseVersion": "a7ca237317f1e7aa2dac3a-6f1d-4896-a7e4-dffea99c24d5",
+    "_activeDate": "2020-07-10T14:19:30.741Z",
+    "lastModified": "2020-08-31T17:48:24.741Z",
     "_locale": "en-US"
   },
   "_suggestedPrefetch": []

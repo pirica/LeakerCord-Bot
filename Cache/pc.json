@@ -3,22 +3,22 @@
     {
       "appName": "Fortnite",
       "labelName": "Live-Windows",
-      "buildVersion": "++Fortnite+Release-14.00-CL-14199892-Windows",
-      "hash": "aea900c8b94964baea6085f6ff08c4837a0d4726",
+      "buildVersion": "++Fortnite+Release-14.00-CL-14211474-Windows",
+      "hash": "7ed1567e8f2352fa32389c6fde8570367c0ed8cc",
       "manifests": [
         {
-          "uri": "https://epicgames-download1.akamaized.net/Builds/Fortnite/CloudDir/-IAv9taY4Yjn2jw5xU2l_BgrdMs8PQ.manifest"
+          "uri": "https://epicgames-download1.akamaized.net/Builds/Fortnite/CloudDir/eV3odPpOFO5KqwyQaUqN6BRpXUIV1Q.manifest"
         },
         {
-          "uri": "https://download.epicgames.com/Builds/Fortnite/CloudDir/-IAv9taY4Yjn2jw5xU2l_BgrdMs8PQ.manifest",
+          "uri": "https://download.epicgames.com/Builds/Fortnite/CloudDir/eV3odPpOFO5KqwyQaUqN6BRpXUIV1Q.manifest",
           "queryParams": [
             {
               "name": "Policy",
-              "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IipCdWlsZHMvRm9ydG5pdGUvQ2xvdWREaXIvLUlBdjl0YVk0WWpuMmp3NXhVMmxfQmdyZE1zOFBRLm1hbmlmZXN0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTk4NjE3ODY1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__"
+              "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IipCdWlsZHMvRm9ydG5pdGUvQ2xvdWREaXIvZVYzb2RQcE9GTzVLcXd5UWFVcU42QlJwWFVJVjFRLm1hbmlmZXN0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTk4OTYzNzY2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__"
             },
             {
               "name": "Signature",
-              "value": "jssR8QIFWU7VdlFH7Wy2Dd8ppIK8vh-TxjuOaSGylEYnk-HnZGMtHOgtxqhsoyY1W6FYt1zg1FLnCTBcr7wSUkYzaG6FFbu4LjVxlBb1A32srKzdJ4bc-PqDguPRf7yoeX27GeT6WaYIVxU5Gyu4zqdAPUuzE5l2SD~AdQduur9qj~00DvOR3VhIy0-4FqPdQtcB59XanY6JWn-xq6aq~WBywNNwnnNL3J-U~toj4a1-pFIYC6hrpY2g2bLdLTj2Z6Ivp~KD6xs1pr8bnGCimwMaCXDAf61u54-wk889f~AXLyLtfQIKX~Ah3vBpCzx5VlKoZfepY8uzsbL7bMBxbQ__"
+              "value": "z98IiSqIVUA6NHRwFTCi3JKyRreEbFDLqHqWrtbHmKUCkK9Rxo6jMFtO-4hCjfpGxxlQJeQtF5nT85JinvjVjzrAttNAR2grWDfCjmlp2sgDV2TIfMFsiTe8~2eSzreGmBFd7N9WFSfUDfUERYlITT9ZIw6aZ~g-NMFULkq0IT1W4vgfx~jQaYsalyQxHsBr0oAL0cPetwNDlCEYpiXDclfAtYSeV1E2O5wlY3iYAaStUV60Df0F-VlxhagO0lH2v5MCkcA6AD5lohUYQC8~uaYE884gFtHREJcNeFoDVQem~x2c4oS~YIZWC0GAUEkpEGOscGsGPyHT~u4gtZ3jlw__"
             },
             {
               "name": "Key-Pair-Id",
@@ -27,15 +27,15 @@
           ]
         },
         {
-          "uri": "https://download2.epicgames.com/Builds/Fortnite/CloudDir/-IAv9taY4Yjn2jw5xU2l_BgrdMs8PQ.manifest",
+          "uri": "https://download2.epicgames.com/Builds/Fortnite/CloudDir/eV3odPpOFO5KqwyQaUqN6BRpXUIV1Q.manifest",
           "queryParams": [
             {
               "name": "Policy",
-              "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IipCdWlsZHMvRm9ydG5pdGUvQ2xvdWREaXIvLUlBdjl0YVk0WWpuMmp3NXhVMmxfQmdyZE1zOFBRLm1hbmlmZXN0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTk4NjE3ODY1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__"
+              "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IipCdWlsZHMvRm9ydG5pdGUvQ2xvdWREaXIvZVYzb2RQcE9GTzVLcXd5UWFVcU42QlJwWFVJVjFRLm1hbmlmZXN0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTk4OTYzNzY2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__"
             },
             {
               "name": "Signature",
-              "value": "jssR8QIFWU7VdlFH7Wy2Dd8ppIK8vh-TxjuOaSGylEYnk-HnZGMtHOgtxqhsoyY1W6FYt1zg1FLnCTBcr7wSUkYzaG6FFbu4LjVxlBb1A32srKzdJ4bc-PqDguPRf7yoeX27GeT6WaYIVxU5Gyu4zqdAPUuzE5l2SD~AdQduur9qj~00DvOR3VhIy0-4FqPdQtcB59XanY6JWn-xq6aq~WBywNNwnnNL3J-U~toj4a1-pFIYC6hrpY2g2bLdLTj2Z6Ivp~KD6xs1pr8bnGCimwMaCXDAf61u54-wk889f~AXLyLtfQIKX~Ah3vBpCzx5VlKoZfepY8uzsbL7bMBxbQ__"
+              "value": "z98IiSqIVUA6NHRwFTCi3JKyRreEbFDLqHqWrtbHmKUCkK9Rxo6jMFtO-4hCjfpGxxlQJeQtF5nT85JinvjVjzrAttNAR2grWDfCjmlp2sgDV2TIfMFsiTe8~2eSzreGmBFd7N9WFSfUDfUERYlITT9ZIw6aZ~g-NMFULkq0IT1W4vgfx~jQaYsalyQxHsBr0oAL0cPetwNDlCEYpiXDclfAtYSeV1E2O5wlY3iYAaStUV60Df0F-VlxhagO0lH2v5MCkcA6AD5lohUYQC8~uaYE884gFtHREJcNeFoDVQem~x2c4oS~YIZWC0GAUEkpEGOscGsGPyHT~u4gtZ3jlw__"
             },
             {
               "name": "Key-Pair-Id",
@@ -44,15 +44,15 @@
           ]
         },
         {
-          "uri": "https://download3.epicgames.com/Builds/Fortnite/CloudDir/-IAv9taY4Yjn2jw5xU2l_BgrdMs8PQ.manifest",
+          "uri": "https://download3.epicgames.com/Builds/Fortnite/CloudDir/eV3odPpOFO5KqwyQaUqN6BRpXUIV1Q.manifest",
           "queryParams": [
             {
               "name": "Policy",
-              "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IipCdWlsZHMvRm9ydG5pdGUvQ2xvdWREaXIvLUlBdjl0YVk0WWpuMmp3NXhVMmxfQmdyZE1zOFBRLm1hbmlmZXN0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTk4NjE3ODY1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__"
+              "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IipCdWlsZHMvRm9ydG5pdGUvQ2xvdWREaXIvZVYzb2RQcE9GTzVLcXd5UWFVcU42QlJwWFVJVjFRLm1hbmlmZXN0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTk4OTYzNzY2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__"
             },
             {
               "name": "Signature",
-              "value": "jssR8QIFWU7VdlFH7Wy2Dd8ppIK8vh-TxjuOaSGylEYnk-HnZGMtHOgtxqhsoyY1W6FYt1zg1FLnCTBcr7wSUkYzaG6FFbu4LjVxlBb1A32srKzdJ4bc-PqDguPRf7yoeX27GeT6WaYIVxU5Gyu4zqdAPUuzE5l2SD~AdQduur9qj~00DvOR3VhIy0-4FqPdQtcB59XanY6JWn-xq6aq~WBywNNwnnNL3J-U~toj4a1-pFIYC6hrpY2g2bLdLTj2Z6Ivp~KD6xs1pr8bnGCimwMaCXDAf61u54-wk889f~AXLyLtfQIKX~Ah3vBpCzx5VlKoZfepY8uzsbL7bMBxbQ__"
+              "value": "z98IiSqIVUA6NHRwFTCi3JKyRreEbFDLqHqWrtbHmKUCkK9Rxo6jMFtO-4hCjfpGxxlQJeQtF5nT85JinvjVjzrAttNAR2grWDfCjmlp2sgDV2TIfMFsiTe8~2eSzreGmBFd7N9WFSfUDfUERYlITT9ZIw6aZ~g-NMFULkq0IT1W4vgfx~jQaYsalyQxHsBr0oAL0cPetwNDlCEYpiXDclfAtYSeV1E2O5wlY3iYAaStUV60Df0F-VlxhagO0lH2v5MCkcA6AD5lohUYQC8~uaYE884gFtHREJcNeFoDVQem~x2c4oS~YIZWC0GAUEkpEGOscGsGPyHT~u4gtZ3jlw__"
             },
             {
               "name": "Key-Pair-Id",
@@ -61,15 +61,15 @@
           ]
         },
         {
-          "uri": "https://download4.epicgames.com/Builds/Fortnite/CloudDir/-IAv9taY4Yjn2jw5xU2l_BgrdMs8PQ.manifest",
+          "uri": "https://download4.epicgames.com/Builds/Fortnite/CloudDir/eV3odPpOFO5KqwyQaUqN6BRpXUIV1Q.manifest",
           "queryParams": [
             {
               "name": "Policy",
-              "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IipCdWlsZHMvRm9ydG5pdGUvQ2xvdWREaXIvLUlBdjl0YVk0WWpuMmp3NXhVMmxfQmdyZE1zOFBRLm1hbmlmZXN0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTk4NjE3ODY1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__"
+              "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IipCdWlsZHMvRm9ydG5pdGUvQ2xvdWREaXIvZVYzb2RQcE9GTzVLcXd5UWFVcU42QlJwWFVJVjFRLm1hbmlmZXN0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTk4OTYzNzY2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__"
             },
             {
               "name": "Signature",
-              "value": "jssR8QIFWU7VdlFH7Wy2Dd8ppIK8vh-TxjuOaSGylEYnk-HnZGMtHOgtxqhsoyY1W6FYt1zg1FLnCTBcr7wSUkYzaG6FFbu4LjVxlBb1A32srKzdJ4bc-PqDguPRf7yoeX27GeT6WaYIVxU5Gyu4zqdAPUuzE5l2SD~AdQduur9qj~00DvOR3VhIy0-4FqPdQtcB59XanY6JWn-xq6aq~WBywNNwnnNL3J-U~toj4a1-pFIYC6hrpY2g2bLdLTj2Z6Ivp~KD6xs1pr8bnGCimwMaCXDAf61u54-wk889f~AXLyLtfQIKX~Ah3vBpCzx5VlKoZfepY8uzsbL7bMBxbQ__"
+              "value": "z98IiSqIVUA6NHRwFTCi3JKyRreEbFDLqHqWrtbHmKUCkK9Rxo6jMFtO-4hCjfpGxxlQJeQtF5nT85JinvjVjzrAttNAR2grWDfCjmlp2sgDV2TIfMFsiTe8~2eSzreGmBFd7N9WFSfUDfUERYlITT9ZIw6aZ~g-NMFULkq0IT1W4vgfx~jQaYsalyQxHsBr0oAL0cPetwNDlCEYpiXDclfAtYSeV1E2O5wlY3iYAaStUV60Df0F-VlxhagO0lH2v5MCkcA6AD5lohUYQC8~uaYE884gFtHREJcNeFoDVQem~x2c4oS~YIZWC0GAUEkpEGOscGsGPyHT~u4gtZ3jlw__"
             },
             {
               "name": "Key-Pair-Id",

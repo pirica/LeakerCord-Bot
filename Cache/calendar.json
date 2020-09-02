@@ -3,7 +3,7 @@
     "standalone-store": {
       "states": [
         {
-          "validFrom": "2020-08-27T20:42:04Z",
+          "validFrom": "2020-09-02T14:11:15Z",
           "activeEvents": [],
           "state": {
             "activePurchaseLimitingEventIds": [],
@@ -12,12 +12,44 @@
           }
         }
       ],
-      "cacheExpire": "2020-08-27T22:42:04Z"
+      "cacheExpire": "2020-09-02T16:11:15Z"
     },
     "client-matchmaking": {
       "states": [
         {
-          "validFrom": "2020-08-27T20:42:04Z",
+          "validFrom": "2020-09-02T14:11:15Z",
+          "activeEvents": [],
+          "state": {
+            "region": {
+              "OCE": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "validFrom": "2020-09-02T15:00:00Z",
+          "activeEvents": [],
+          "state": {
+            "region": {
+              "OCE": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
+                ]
+              },
+              "CN": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo",
+                  "Playlist_Bots_DefaultDuo"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "validFrom": "2020-09-02T16:00:00Z",
           "activeEvents": [],
           "state": {
             "region": {
@@ -37,48 +69,47 @@
                 "eventFlagsForcedOff": [
                   "Playlist_Deimos_Duo_WinterCN"
                 ]
-              },
-              "ASIA": {
-                "eventFlagsForcedOff": [
-                  "Playlist_DefaultDuo"
-                ]
               }
             }
           }
         }
       ],
-      "cacheExpire": "2020-08-27T22:42:04Z"
+      "cacheExpire": "2020-09-02T16:11:15Z"
     },
     "tk": {
       "states": [
         {
-          "validFrom": "2020-08-27T20:42:04Z",
+          "validFrom": "2020-09-02T14:11:15Z",
           "activeEvents": [],
           "state": {
-            "k": []
+            "k": [
+              "0CD312F730BA9C3FD6CD67420EDDACF7:nXBDxcWYx2VtjMeRCDfSak9+f9aSOgrcxp8GKeUiId4=",
+              "9B730D57F59135CF774023F0DC1A99E7:l2Jy2Q3X1MPar8qMDGSHWWhdsVsYQ7hsqEYFMA6D8fI=",
+              "276E65E4041C467319534B14EAEA338A:Ib7KJMP8Q9if+P6x2bYZ0dC538B4LL3J1TcIy3rBlHk="
+            ]
           }
         }
       ],
-      "cacheExpire": "2020-08-27T22:42:04Z"
+      "cacheExpire": "2020-09-02T16:11:15Z"
     },
     "featured-islands": {
       "states": [
         {
-          "validFrom": "2020-08-27T20:42:04Z",
+          "validFrom": "2020-09-02T14:11:15Z",
           "activeEvents": [],
           "state": {
             "islandCodes": [
-              "9161-7766-6934",
-              "8105-5214-8828",
-              "9832-1642-6109",
-              "0347-7611-1836",
-              "8036-3894-5932",
-              "8143-6071-8195?v=14"
+              "1734-1345-6465",
+              "1602-0715-7383",
+              "5660-7675-2978",
+              "6246-0397-0789",
+              null,
+              "5344-3264-7834?v=10"
             ],
             "playlistCuratedContent": {},
             "playlistCuratedHub": {
-              "Playlist_PlaygroundV2": "2612-5024-9746",
-              "Playlist_Creative_PlayOnly": "2612-5024-9746"
+              "Playlist_PlaygroundV2": "3405-7882-5344",
+              "Playlist_Creative_PlayOnly": "3405-7882-5344"
             },
             "islandTemplates": [
               "0000-0000-0106",
@@ -91,12 +122,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-08-27T22:42:04Z"
+      "cacheExpire": "2020-09-02T16:11:15Z"
     },
     "community-votes": {
       "states": [
         {
-          "validFrom": "2020-08-27T20:42:04Z",
+          "validFrom": "2020-09-02T14:11:15Z",
           "activeEvents": [],
           "state": {
             "electionId": "",
@@ -106,12 +137,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-08-27T22:42:04Z"
+      "cacheExpire": "2020-09-02T16:11:15Z"
     },
     "client-events": {
       "states": [
         {
-          "validFrom": "2020-08-27T20:42:04Z",
+          "validFrom": "2020-09-02T14:11:15Z",
           "activeEvents": [
             {
               "eventType": "EventFlag.BBPromo.Quests",
@@ -189,11 +220,6 @@
               "activeSince": "2020-08-01T07:00:00Z"
             },
             {
-              "eventType": "EventFlag.Mayday.Quests.Phase8",
-              "activeUntil": "2020-08-29T00:00:00Z",
-              "activeSince": "2020-08-22T00:00:00Z"
-            },
-            {
               "eventType": "heard0stone78hole65stick178feet",
               "activeUntil": "2020-10-31T18:00:00Z",
               "activeSince": "2020-08-22T17:00:00Z"
@@ -212,6 +238,26 @@
               "eventType": "EventFlag.LTE_CorBQuests_Epilogue",
               "activeUntil": "2020-09-09T08:00:00Z",
               "activeSince": "2020-08-27T08:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Mayday.Quests.Phase9",
+              "activeUntil": "2020-09-05T00:00:00Z",
+              "activeSince": "2020-08-29T00:00:00Z"
+            },
+            {
+              "eventType": "LS0",
+              "activeUntil": "2020-09-09T08:00:00Z",
+              "activeSince": "2020-08-29T06:00:00Z"
+            },
+            {
+              "eventType": "LS1",
+              "activeUntil": "2020-09-09T08:00:00Z",
+              "activeSince": "2020-08-31T06:00:00Z"
+            },
+            {
+              "eventType": "LS2",
+              "activeUntil": "2020-09-09T08:00:00Z",
+              "activeSince": "2020-09-01T06:00:00Z"
             }
           ],
           "state": {
@@ -234,17 +280,17 @@
             "seasonBegin": "2020-08-24T13:00:00Z",
             "seasonEnd": "2020-12-11T15:00:00Z",
             "seasonDisplayedEnd": "2020-07-23T04:00:00Z",
-            "weeklyStoreEnd": "2020-08-28T00:00:00Z",
+            "weeklyStoreEnd": "2020-09-03T00:00:00Z",
             "stwEventStoreEnd": "2020-09-05T00:00:00.000Z",
             "stwWeeklyStoreEnd": "2020-09-03T00:00:00.000Z",
-            "dailyStoreEnd": "2020-08-28T00:00:00Z"
+            "dailyStoreEnd": "2020-09-03T00:00:00Z"
           }
         }
       ],
-      "cacheExpire": "2020-08-27T22:42:04Z"
+      "cacheExpire": "2020-09-02T16:11:15Z"
     }
   },
   "eventsTimeOffsetHrs": 0.0,
   "cacheIntervalMins": 15.0,
-  "currentTime": "2020-08-27T21:05:53Z"
+  "currentTime": "2020-09-02T14:28:04Z"
 }

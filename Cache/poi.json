@@ -20,7 +20,12 @@
       "name": "CORAL CASTLE",
       "x": 84480,
       "y": -80384,
-      "images": []
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/40fabf72c844d90356a44858dd58a0d5.png"
+        }
+      ]
     },
     {
       "id": "Athena.Location.POI.CraggyCliffs",
@@ -54,7 +59,7 @@
       "images": [
         {
           "type": "overview",
-          "url": "https://media.fortniteapi.io/images/poi/ab370609fd0798f23f91c7c97819737a.png"
+          "url": "https://media.fortniteapi.io/images/poi/89a5e03b74e440a50f184a675c1431dd.png"
         }
       ]
     },
@@ -102,7 +107,7 @@
       "images": [
         {
           "type": "overview",
-          "url": "https://media.fortniteapi.io/images/poi/8840171d0d392d3ed2fb337f9f9f5430.png"
+          "url": "https://media.fortniteapi.io/images/poi/d3148db60adbdf179663a575e2fc0a59.png"
         }
       ]
     },
@@ -174,7 +179,19 @@
       "images": [
         {
           "type": "overview",
-          "url": "https://media.fortniteapi.io/images/poi/efd8512a403e1cdc31c15649749e2816.png"
+          "url": "https://media.fortniteapi.io/images/poi/d3aee74dcf86b6cc9ab97c290d7c6cff.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.TheFortilla",
+      "name": "THE FORTILLA",
+      "x": -89088,
+      "y": -79872,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/c65a53f48ca3efad15693419f151e10c.png"
         }
       ]
     },

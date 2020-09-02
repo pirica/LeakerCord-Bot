@@ -4,8 +4,42 @@
     "br": {
       "language": "en-US",
       "title": "battleroyalenews",
-      "lastModified": "2020-08-27T06:11:35.504Z",
-      "motds": null,
+      "lastModified": "2020-09-02T00:28:09.012Z",
+      "motds": [
+        {
+          "id": "Bullseye links to CID_242_Athena_Commando_F_Bullseye",
+          "title": "Bullseye",
+          "body": "A professional steady shot, it's dangerous to get in her way.",
+          "image": "https://cdn2.unrealengine.com/13br-bullseye-motd-1920x1080-1920x1080-891063995.jpg",
+          "tileImage": "https://cdn2.unrealengine.com/13br-bullseye-motd-1024x512-1024x512-891063988.jpg",
+          "hidden": true,
+          "spotlight": false,
+          "type": "CommonUI Simple Message MOTD",
+          "entryType": "NavigateToTab"
+        },
+        {
+          "id": "Tilted Taxi links to Playlist_Nitrogen12_Duos",
+          "title": "Tilted Taxis",
+          "body": "Drive your worst, er, best! Get behind the wheel to complete taxi fares and rule the roads. But stay alert, the streets will get crazy quick.",
+          "image": "https://cdn2.unrealengine.com/14br-tiltedtaxi-motd-1920x1080-1920x1080-891070584.jpg",
+          "tileImage": "https://cdn2.unrealengine.com/14br-tiltedtaxi-motd-1024x512-1024x512-891070581.jpg",
+          "hidden": true,
+          "spotlight": false,
+          "type": "CommonUI Simple Message MOTD",
+          "entryType": "Playlist"
+        },
+        {
+          "id": "Street Serpent Pack",
+          "title": "Street Serpent Pack",
+          "body": "Sweep the streets with an unavoidable gaze and get 600 Vbucks with this new pack!",
+          "image": "https://cdn2.unrealengine.com/14br-streetserpent-social-motd-1920x1080-1920x1080-890506822.jpg",
+          "tileImage": "https://cdn2.unrealengine.com/14br-streetserpent-social-motd-1024x512-1024x512-890505605.jpg",
+          "hidden": true,
+          "spotlight": false,
+          "type": "CommonUI Simple Message MOTD",
+          "entryType": "NavigateToTab"
+        }
+      ],
       "messages": [
         {
           "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",
@@ -22,37 +56,37 @@
     "stw": {
       "language": "en-US",
       "title": "SaveTheWorldNews",
-      "lastModified": "2020-08-27T23:47:07.714Z",
+      "lastModified": "2020-09-02T00:58:51.889Z",
       "motds": null,
       "messages": [
         {
-          "image": "https://cdn2.unrealengine.com/stw05-motd-1024x512-redline-1024x512-682778429.jpg",
+          "image": "https://cdn2.unrealengine.com/13stw-directorriggs-motd-1024x512-1024x512-682778399.jpg",
           "hidden": false,
           "messageType": null,
           "type": "CommonUI Simple Message Base",
           "adspace": "LEAVING SOON!",
-          "title": "REDLINE RAMIREZ",
-          "body": "Rev beyond the limit with Redline Ramirez!",
+          "title": "Yarr's Return",
+          "body": "Blakebeard\u2019s ghost is having trouble fitting in with the other ghost pirates. He has no legacy to draw from and Ray wants to help him out!",
           "spotlight": false
         },
         {
-          "image": "https://cdn2.unrealengine.com/10stw-boombox-hammer-motd-1024x512-682778334.jpg",
+          "image": "https://cdn2.unrealengine.com/10stw-hotmix-motd-1024x512-682778365.jpg",
           "hidden": false,
           "messageType": null,
           "type": "CommonUI Simple Message Base",
-          "adspace": "LEAVING SOON!",
-          "title": "Surround Pound",
-          "body": "Create a massive bass drop with the Surround Pound! Smash the ground, creating a series of sonic pulses that damage and knock back enemies.",
+          "adspace": "EVENT STORE",
+          "title": "HOT MIX!",
+          "body": "Drop the hottest of mixes with the Hot Mix Pistol! Fire a pair of Sonic Blasts that pierce enemies.",
           "spotlight": false
         },
         {
-          "image": "https://cdn2.unrealengine.com/dennis-jr-1024x512-682778428.jpg",
+          "image": "https://cdn2.unrealengine.com/13stw-dennis-motd-1024x512-1024x512-538021446.jpg",
           "hidden": false,
           "messageType": null,
           "type": "CommonUI Simple Message Base",
           "adspace": "LEAVING SOON!",
-          "title": "Dennis Jr",
-          "body": "Break out the axe and Introduce the Husks to the shredder himself, Dennis Jr! This Hero unlocks the \"\"Totally Rockin' Out\"\" Team Perk.",
+          "title": "Impostor",
+          "body": "Search the newly discovered Blasted Badlands for a true Hero! Train Dennis to become a warrior in the new Blasted Badlands Venture Zone to unlock Homebase\u2019s own burger boss!",
           "spotlight": false
         }
       ]
@@ -60,8 +94,42 @@
     "creative": {
       "language": "en-US",
       "title": "Creativenews",
-      "lastModified": "2020-08-27T14:29:43.543Z",
-      "motds": null,
+      "lastModified": "2020-09-02T00:43:59.272Z",
+      "motds": [
+        {
+          "id": "Bullseye links to CID_242_Athena_Commando_F_Bullseye",
+          "title": "Bullseye",
+          "body": "A professional steady shot, it's dangerous to get in her way.",
+          "image": "https://cdn2.unrealengine.com/13br-bullseye-motd-1920x1080-1920x1080-891063995.jpg",
+          "tileImage": "https://cdn2.unrealengine.com/13br-bullseye-motd-1024x512-1024x512-891063988.jpg",
+          "hidden": true,
+          "spotlight": false,
+          "type": "CommonUI Simple Message MOTD",
+          "entryType": "NavigateToTab"
+        },
+        {
+          "id": "Street Serpent Pack",
+          "title": "Street Serpent Pack",
+          "body": "Sweep the streets with an unavoidable gaze and get 600 Vbucks with this new pack!",
+          "image": "https://cdn2.unrealengine.com/14br-streetserpent-social-motd-1920x1080-1920x1080-890506822.jpg",
+          "tileImage": "https://cdn2.unrealengine.com/14br-streetserpent-social-motd-1024x512-1024x512-890505605.jpg",
+          "hidden": true,
+          "spotlight": false,
+          "type": "CommonUI Simple Message MOTD",
+          "entryType": "RMTItem"
+        },
+        {
+          "id": "Llama Master New Featured Island",
+          "title": "Llama Master",
+          "body": "PvP, Free For All, Action, Co-Op\nGo play the community made Featured Island by StrayKiteStudios",
+          "image": "https://cdn2.unrealengine.com/14-0-06-llamamaster-1920x1080-1920x1080-899070409.jpg",
+          "tileImage": "https://cdn2.unrealengine.com/14-0-06-llamamaster-1024x512-1024x512-899070404.jpg",
+          "hidden": false,
+          "spotlight": false,
+          "type": "CommonUI Simple Message MOTD",
+          "entryType": "Text"
+        }
+      ],
       "messages": [
         {
           "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",

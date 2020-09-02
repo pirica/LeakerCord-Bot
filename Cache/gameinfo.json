@@ -44,14 +44,14 @@
         "colorScheme": "dark"
       },
       "reviewOptOut": false,
-      "jcr:baseVersion": "a7ca237317f1e75cab04a8-a13e-4a45-aaf1-d443f97b9c75",
+      "jcr:baseVersion": "a7ca237317f1e7bfa34b43-a727-4ed8-b884-5ee50f058046",
       "externalNavLinks": {
         "_type": "Epic Store Links"
       },
       "_urlPattern": "/productv2/fortnite/home",
       "_slug": "home",
       "_activeDate": "2018-10-17T13:51:28.640Z",
-      "lastModified": "2020-08-27T08:17:07.625Z",
+      "lastModified": "2020-08-28T15:07:11.633Z",
       "_locale": "en-US",
       "_id": "af8e309a-019d-42dd-899c-a05908ba4be5",
       "offer": {
@@ -449,7 +449,7 @@
             {
               "src": "https://cdn2.unrealengine.com/14br-bplaunch-egs-g2-1280x720-1280x720-851247956.jpg",
               "_type": "Diesel Gallery Image",
-              "row": 2
+              "row": 5
             },
             {
               "src": "https://cdn2.unrealengine.com/14br-bplaunch-egs-g3-1280x720-1280x720-851248329.jpg",
@@ -458,6 +458,26 @@
             },
             {
               "src": "https://cdn2.unrealengine.com/14br-bplaunch-egs-g4-1280x720-1280x720-851248440.jpg",
+              "_type": "Diesel Gallery Image",
+              "row": 6
+            },
+            {
+              "src": "https://cdn2.unrealengine.com/14br-bplaunch-egs-g5-1280x720-1280x720-862676715.jpg",
+              "_type": "Diesel Gallery Image",
+              "row": 2
+            },
+            {
+              "src": "https://cdn2.unrealengine.com/14br-bplaunch-egs-g6-1280x720-1280x720-862676872.jpg",
+              "_type": "Diesel Gallery Image",
+              "row": 4
+            },
+            {
+              "src": "https://cdn2.unrealengine.com/14br-bplaunch-egs-g7-1280x720-1280x720-862676872.jpg",
+              "_type": "Diesel Gallery Image",
+              "row": 2
+            },
+            {
+              "src": "https://cdn2.unrealengine.com/14br-bplaunch-egs-g8-1280x720-1280x720-862676804.jpg",
               "_type": "Diesel Gallery Image",
               "row": 4
             }
@@ -473,12 +493,15 @@
       "_images_": [
         "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FESRB-369x217-3386d50bb6a48893e81914fb8e44834ef4458c63.png",
         "https://cdn2.unrealengine.com/14br-bplaunch-egs-ft1-1920x1080-1920x1080-851248346.jpg",
+        "https://cdn2.unrealengine.com/14br-bplaunch-egs-g5-1280x720-1280x720-862676715.jpg",
         "https://cdn2.unrealengine.com/14br-bplaunch-egs-g1-1280x720-1280x720-851248117.jpg",
         "https://cdn2.unrealengine.com/14br-bplaunch-egs-g3-1280x720-1280x720-851248329.jpg",
         "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FSeasonx%2F10BR_EGS_Launcher_G2-1000x840-de1b9f27e581238c9781b23ede586b6163151ef8.png",
+        "https://cdn2.unrealengine.com/14br-bplaunch-egs-g6-1280x720-1280x720-862676872.jpg",
         "https://cdn2.unrealengine.com/14br-bplaunch-egs-g2-1280x720-1280x720-851247956.jpg",
         "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite_CERO_C-400x337-84d54e9834bc91bda9623c7f395954246a6b7e28.png",
         "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FBR-12-80x80-03e9c6d23b9685b741e3381439740bc70ed35b66.png",
+        "https://cdn2.unrealengine.com/14br-bplaunch-egs-g7-1280x720-1280x720-862676872.jpg",
         "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FPEGI_fn-116x142-e87be4367ec679bcf710975567f973a7ba766a81.png",
         "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite_ACB_M-2179x833-d266f3b9a5678a5521aa5fb94d77bda7011abc67.png",
         "https://cdn2.unrealengine.com/14br-bplaunch-egs-s1-2560x1440-2560x1440-851249168.jpg",
@@ -489,7 +512,8 @@
         "https://cdn2.unrealengine.com/14br-bplaunch-egs-g4-1280x720-1280x720-851248440.jpg",
         "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_12-350x350-eb06b723e538efe4928dcde499cd8a6cc6a697cb.png",
         "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite-Logo_w-Shadow-1778x811-ed23fe8dea13f030db120b226f9d2a101560bde2.png",
-        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FKR-12-139x80-91bb81ee144c80e9e1b01456a1f35aee79905d57.png"
+        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FKR-12-139x80-91bb81ee144c80e9e1b01456a1f35aee79905d57.png",
+        "https://cdn2.unrealengine.com/14br-bplaunch-egs-g8-1280x720-1280x720-862676804.jpg"
       ]
     }
   ]
