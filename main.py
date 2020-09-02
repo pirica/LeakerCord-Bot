@@ -26,7 +26,8 @@ async def check(ctx):
 
 @client.event
 async def on_ready():
-    await client.get_channel(748885612777701386).send("Leaker Bot is now ready")
+    channel = client.get_channel(748885612777701386)
+    await channel.send("Leaker Bot is now ready")
 
 
 @client.event
