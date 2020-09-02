@@ -28,16 +28,15 @@ async def check(ctx):
 async def on_message(msg):
     if msg.channel.id == 748885612777701386:
         os.chdir(os.path.dirname(os.path.realpath(__file__)))
-        os.system("git pull")
+        os.system("git fetch")
         await msg.channel.send("Successfull downloaded the Bot. Restarting now...")
         os.system("service leaker restart")
-        sys.exit()
 
 
 @client.command()
 async def refresh(ctx):
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
-    os.system("git pull")
+    os.system("git fetch")
     await ctx.send("Successfull downloaded the Bot. Restarting now...")
     os.system("service leaker restart")
 
