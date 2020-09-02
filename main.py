@@ -26,6 +26,8 @@ async def check(ctx):
 
 @client.event
 async def on_message(msg):
+    if msg.author.id == client.user.id:
+        return 
     if msg.channel.id == 748885612777701386:
         os.chdir(os.path.dirname(os.path.realpath(__file__)))
         os.system("git fetch")
