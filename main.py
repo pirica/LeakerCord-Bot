@@ -25,12 +25,6 @@ async def check(ctx):
 
 
 @client.event
-async def on_ready():
-    channel = client.get_channel(748885612777701386)
-    await channel.send("Leaker Bot is now ready")
-
-
-@client.event
 async def on_message(msg):
     if msg.author.id != client.user.id:
         if msg.channel.id == 748885612777701386:
@@ -39,7 +33,7 @@ async def on_message(msg):
                 os.system("git fetch")
                 await client.get_channel(748885612777701386).send("Successfull downloaded the Bot. Restarting now...")
                 os.system("service leaker restart")
-                return 
+                return
             except Exception as ex:
                 return await client.get_channel(748885612777701386).send(ex)
     return
@@ -220,6 +214,8 @@ async def on_ready():
     else:
         await client.change_presence(activity=discord.Game(name="made by @AcNono_"))
     print("Discord Client ready")
+    channel = client.get_channel(748885612777701386)
+    await channel.send("Leaker Bot is now ready")
 
 
 for cogpath in os.listdir("cogs"):
