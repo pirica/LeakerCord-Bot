@@ -26,23 +26,23 @@ async def check(ctx):
 
 @client.event
 async def on_ready():
-    await client.wait_until_ready()
     channel = client.get_channel(748885612777701386)
     await channel.send("Leaker Bot is now ready")
 
 
 @client.event
 async def on_message(msg):
-    if msg.author.id == client.user.id:
-        return
-    if msg.channel.id == 748885612777701386:
-        try:
-            os.chdir(os.path.dirname(os.path.realpath(__file__)))
-            os.system("git fetch")
-            await client.get_channel(748885612777701386).send("Successfull downloaded the Bot. Restarting now...")
-            os.system("service leaker restart")
-        except Exception as ex:
-            await client.get_channel(748885612777701386).send(ex)
+    if msg.author.id != client.user.id:
+        if msg.channel.id == 748885612777701386:
+            try:
+                os.chdir(os.path.dirname(os.path.realpath(__file__)))
+                os.system("git fetch")
+                await client.get_channel(748885612777701386).send("Successfull downloaded the Bot. Restarting now...")
+                os.system("service leaker restart")
+                return 
+            except Exception as ex:
+                return await client.get_channel(748885612777701386).send(ex)
+    return
 
 
 @client.command()
