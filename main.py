@@ -24,21 +24,6 @@ async def check(ctx):
         return False
 
 
-@client.event
-async def on_message(msg):
-    if msg.author.id != client.user.id:
-        if msg.channel.id == 748885612777701386:
-            try:
-                os.chdir(os.path.dirname(os.path.realpath(__file__)))
-                os.system("git fetch")
-                await client.get_channel(748885612777701386).send("Successfull downloaded the Bot. Restarting now...")
-                os.system("service leaker restart")
-                return
-            except Exception as ex:
-                return await client.get_channel(748885612777701386).send(ex)
-    return
-
-
 @client.command()
 async def refresh(ctx):
     if ctx.author.roles in [741331981857587341]:
@@ -49,6 +34,7 @@ async def refresh(ctx):
             os.system("service leaker restart")
         except Exception as ex:
             await ctx.send(ex)
+
 
 @client.command()
 async def export(ctx, path: str):
