@@ -25,15 +25,15 @@ async def check(ctx):
 
 
 @client.command()
+@commands.has_role(741331981857587341)
 async def refresh(ctx):
-    if ctx.author.roles in [741331981857587341]:
-        try:
-            os.chdir(os.path.dirname(os.path.realpath(__file__)))
-            os.system("git fetch")
-            await ctx.send("Successfull downloaded the Bot. Restarting now...")
-            os.system("service leaker restart")
-        except Exception as ex:
-            await ctx.send(ex)
+    try:
+        os.chdir(os.path.dirname(os.path.realpath(__file__)))
+        os.system("git fetch")
+        await ctx.send("Successfull downloaded the Bot. Restarting now...")
+        os.system("service leaker restart")
+    except Exception as ex:
+        await ctx.send(ex)
 
 
 @client.command()
@@ -83,100 +83,6 @@ async def searchpath(ctx, path: str):
                     string += i + "\n"
                 pages = book.TextPages(ctx, string)
                 await pages.paginate()
-
-
-@client.command()
-async def battlepass(ctx):
-    msg = await ctx.send("This can take a while")
-    async with aiohttp.ClientSession() as cs:
-        parameter = {"Authorization": "2fce9bf4-dcb28a26-d7e48ccf-a12cccee"}
-        async with cs.get(
-                'https://fortniteapi.io/battlepass?lang=en&season=current', headers=parameter) as data:
-            if data.status != 200:
-                return await ctx.send(f"ERROR, {data.status}")
-            try:
-                new = await data.json()
-            except:
-                return await ctx.send("ERROR")
-    dict = {}
-    for i in new["paid"]["rewards"]:
-        if i["type"] == "emoji":
-            continue
-        try:
-            dict[i["tier"]] = i["images"]["full_background"]
-        except:
-            try:
-                dict[i["tier"]] = i["images"]["background"]
-            except:
-                try:
-                    dict[i["tier"]] = i["images"]["icon"]
-                except:
-                    try:
-                        dict[i["tier"]] = i["images"]["full_size"]
-                    except:
-                        continue
-    for i in new["free"]["rewards"]:
-        if i["type"] == "emoji":
-            continue
-        try:
-            dict[i["tier"]] = i["images"]["full_background"]
-        except:
-            try:
-                dict[i["tier"]] = i["images"]["background"]
-            except:
-                try:
-                    dict[i["tier"]] = i["images"]["icon"]
-                except:
-                    try:
-                        dict[i["tier"]] = i["images"]["full_size"]
-                    except:
-                        continue
-    files = []
-    for i in sorted(dict):
-        async with aiohttp.ClientSession() as session:
-            async with session.get(dict[i]) as resp:
-                if resp.status == 200:
-                    zahl = random.randint(00000000000000000000, 9999999999999999999999999999999999)
-                    f = await aiofiles.open(f'Cache/Images/{zahl}.png', mode='wb')
-                    await f.write(await resp.read())
-                    await f.close()
-                    files.append(f"Cache/Images/{zahl}.png")
-                else:
-                    continue
-    try:
-        gerundet = round(math.sqrt(len(files)) + 0.45)
-        result = Image.new("RGB", (gerundet * 255 + 5, gerundet * 255 + 5))
-
-        x = -255
-        y = 0
-        count = 0
-        for file in files:
-            try:
-                path = os.path.expanduser(file)
-                img = Image.open(path)
-                img.thumbnail((250, 250, Image.ANTIALIAS))
-
-                w, h = img.size
-
-                if count >= gerundet:
-                    y += 255
-                    x = -255
-                    count = 0
-                x += 255
-                count += 1
-
-                result.paste(img, (x, y, x + w, y + h))
-            except Exception as ex:
-                print(ex)
-                traceback.print_exc()
-
-        result.save("battlepass.png")
-        print("FINISH WITH GENERATED")
-        file = discord.File(f"battlepass.png")
-        await msg.delete()
-        await ctx.send(file=file)
-    except Exception as ex:
-        print(ex)
 
 
 @client.command()

@@ -1,4 +1,6 @@
-Cache/
+
 *.pyc
 *.xml
 *.iml
+Cache/
+*.json

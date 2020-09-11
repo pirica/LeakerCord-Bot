@@ -30,7 +30,7 @@ class news(commands.Cog):
             old = json.loads(await (await aiofiles.open('Cache/news.json', mode='r', errors='ignore')).read())
             async with aiohttp.ClientSession() as cs:
                 async with cs.get(
-                        'https://fortnite-api.com/v1/news') as data:
+                        'https://api.peely.de/v1/news') as data:
                     if data.status != 200:
                         return
                     new = await data.json()

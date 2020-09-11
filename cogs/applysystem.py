@@ -33,25 +33,25 @@ Please send me your Social Media Account Links.
                                     description=f"{user.name}#{user.discriminator} | {user.mention}\n\n{ans.content}"))
 
     @commands.command()
+    @commands.has_role(741331981857587341)
     async def accept(self, ctx, member: discord.Member = None):
-        if ctx.author.roles in [741331981857587341]:
-            if member is None:
-                return await ctx.send("Please tag a Member")
-            await member.send(embed=discord.Embed(color=Settings.SETTINGS.embedsuccess, title="Leaker Application",
-                                                  description=f"You are now Leaker on the {ctx.guild.name} Discord"))
-            await member.add_roles(ctx.guild.get_role(741335249778114681))
-            await ctx.send(embed=discord.Embed(color=Settings.SETTINGS.embedsuccess,
-                                               description=f"Sucessfull added {member.name} the Role(s)"))
+        if member is None:
+            return await ctx.send("Please tag a Member")
+        await member.send(embed=discord.Embed(color=Settings.SETTINGS.embedsuccess, title="Leaker Application",
+                                              description=f"You are now Leaker on the {ctx.guild.name} Discord"))
+        await member.add_roles(ctx.guild.get_role(741335249778114681))
+        await ctx.send(embed=discord.Embed(color=Settings.SETTINGS.embedsuccess,
+                                           description=f"Sucessfull added {member.name} the Role(s)"))
 
     @commands.command(aliases=["reject"])
+    @commands.has_role(741331981857587341)
     async def decline(self, ctx, member: discord.Member = None, *, reason: str = None):
-        if ctx.author.roles in [741331981857587341]:
-            if member is None:
-                return await ctx.send("Please tag a Member")
-            await member.send(embed=discord.Embed(color=Settings.SETTINGS.embederror, title="Leaker Application",
-                                                  description=f"You don't meet our requirements\n\n{reason}"))
-            await ctx.send(
-                embed=discord.Embed(color=Settings.SETTINGS.embedsuccess, description=f"Sucessfull rejected {member.name}"))
+        if member is None:
+            return await ctx.send("Please tag a Member")
+        await member.send(embed=discord.Embed(color=Settings.SETTINGS.embederror, title="Leaker Application",
+                                              description=f"You don't meet our requirements\n\n{reason}"))
+        await ctx.send(
+            embed=discord.Embed(color=Settings.SETTINGS.embedsuccess, description=f"Sucessfull rejected {member.name}"))
 
 
 def setup(client):

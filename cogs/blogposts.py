@@ -27,21 +27,20 @@ class blogpost(commands.Cog):
         await self.client.wait_until_ready()
         try:
             Cached = json.loads(
-                await (await aiofiles.open('Cache/blog.json', mode='r')).read())
+                await (await aiofiles.open('Cache/blog.json', mode='r', encoding="utf8")).read())
             async with aiohttp.ClientSession() as session:
                 async with session.get(
-                        "https://www.epicgames.com/fortnite/api/blog/"
-                        "getPosts?category=&postsPerPage=6&offset=0&locale=en-US") as req:
+                        "https://api.peely.de/v1/blogposts/normal") as req:
                     if req.status != 200:
                         return
                     new = await req.json()
-            if Cached["blogList"] != new["blogList"]:
-                await (await aiofiles.open(f"Cache/blog.json", mode='w+')).write(
+            if Cached != new:
+                await (await aiofiles.open(f"Cache/blog.json", mode='w+', encoding="utf8")).write(
                     json.dumps(new, indent=2))
                 print("Blog Update")
-                for i in new["blogList"]:
+                for i in new['data']["blogposts"]:
                     old = False
-                    for i2 in Cached["blogList"]:
+                    for i2 in Cached["data"]['blogposts']:
                         if i["title"] == i2["title"]:
                             old = True
                     if old is True:
@@ -49,22 +48,52 @@ class blogpost(commands.Cog):
                     else:
                         channel = self.client.get_channel(741334556015067188)
                         embed = discord.Embed(color=Settings.SETTINGS.embedcolor, title=i["title"],
-                                              description=i["shareDescription"] +
-                                                          f'\n\n[Link](https://www.epicgames.com/'
-                                                          f'fortnite/{i["urlPattern"]})')
+                                              description=i["description"] +
+                                                          f'\n\n[Link]({i["url"]})')
+                        embed.set_author(name=f'By {i["author"]}',
+                                         url=f'{i["url"]}')
                         try:
-                            embed.set_image(url=i["trendingImage"])
-                        except KeyError:
+                            embed.set_image(url=i['url'])
+                        except:
                             pass
+                        await channel.send(embed=embed)
+        except Exception as ex:
+            print(ex)
+            traceback.print_exc()
+            return
+        await self.client.wait_until_ready()
+
+        try:
+            Cached = json.loads(
+                await (await aiofiles.open('Cache/compblog.json', mode='r', encoding="utf8")).read())
+            async with aiohttp.ClientSession() as session:
+                async with session.get(
+                        "https://api.peely.de/v1/blogposts/competitive") as req:
+                    if req.status != 200:
+                        return
+                    new = await req.json()
+            if Cached != new:
+                await (await aiofiles.open(f"Cache/compblog.json", mode='w+', encoding="utf8")).write(
+                    json.dumps(new, indent=2))
+                print("Comp Blog Update")
+                for i in new["data"]["blogposts"]:
+                    old = False
+                    for i2 in Cached["data"]['blogposts']:
+                        if i["title"] == i2["title"]:
+                            old = True
+                    if old is True:
+                        continue
+                    else:
+                        channel = self.client.get_channel(741334556015067188)
+                        embed = discord.Embed(color=Settings.SETTINGS.embedcolor, title=i["title"],
+                                              description=i["description"] +
+                                                          f'\n\n[Link]({i["url"]})')
                         try:
-                            embed.set_author(name=f'By {i["author"]}',
-                                             url=f'https://www.epicgames.com/'
-                                                 f'fortnite/{i["urlPattern"]}',
-                                             icon_url=i["image"])
-                        except KeyError:
-                            embed.set_author(name=f'By {i["author"]}',
-                                             url=f'https://www.epicgames.com/'
-                                                 f'fortnite/{i["urlPattern"]}')
+                            embed.set_image(url=i['url'])
+                        except:
+                            pass
+                        embed.set_author(name=f'By {i["author"]}',
+                                         url=f'{i["url"]}')
                         await channel.send(embed=embed)
         except Exception as ex:
             print(ex)
