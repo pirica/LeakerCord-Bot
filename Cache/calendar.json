@@ -3,7 +3,7 @@
     "standalone-store": {
       "states": [
         {
-          "validFrom": "2020-09-02T14:11:15Z",
+          "validFrom": "2020-09-08T14:15:47Z",
           "activeEvents": [],
           "state": {
             "activePurchaseLimitingEventIds": [],
@@ -12,12 +12,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-09-02T16:11:15Z"
+      "cacheExpire": "2020-09-08T16:15:47Z"
     },
     "client-matchmaking": {
       "states": [
         {
-          "validFrom": "2020-09-02T14:11:15Z",
+          "validFrom": "2020-09-08T14:15:47Z",
           "activeEvents": [],
           "state": {
             "region": {
@@ -30,7 +30,7 @@
           }
         },
         {
-          "validFrom": "2020-09-02T15:00:00Z",
+          "validFrom": "2020-09-08T15:00:00Z",
           "activeEvents": [],
           "state": {
             "region": {
@@ -49,7 +49,7 @@
           }
         },
         {
-          "validFrom": "2020-09-02T16:00:00Z",
+          "validFrom": "2020-09-08T16:00:00Z",
           "activeEvents": [],
           "state": {
             "region": {
@@ -74,42 +74,43 @@
           }
         }
       ],
-      "cacheExpire": "2020-09-02T16:11:15Z"
+      "cacheExpire": "2020-09-08T16:15:47Z"
     },
     "tk": {
       "states": [
         {
-          "validFrom": "2020-09-02T14:11:15Z",
+          "validFrom": "2020-09-08T14:15:47Z",
           "activeEvents": [],
           "state": {
             "k": [
               "0CD312F730BA9C3FD6CD67420EDDACF7:nXBDxcWYx2VtjMeRCDfSak9+f9aSOgrcxp8GKeUiId4=",
               "9B730D57F59135CF774023F0DC1A99E7:l2Jy2Q3X1MPar8qMDGSHWWhdsVsYQ7hsqEYFMA6D8fI=",
-              "276E65E4041C467319534B14EAEA338A:Ib7KJMP8Q9if+P6x2bYZ0dC538B4LL3J1TcIy3rBlHk="
+              "276E65E4041C467319534B14EAEA338A:Ib7KJMP8Q9if+P6x2bYZ0dC538B4LL3J1TcIy3rBlHk=",
+              "97D5F3D0A78B050F427B5B300FC03EB5:Be+eZS6KqUc5Lc2iF4YAcLEe+S78nuLCK45HF/dDGDU="
             ]
           }
         }
       ],
-      "cacheExpire": "2020-09-02T16:11:15Z"
+      "cacheExpire": "2020-09-08T16:15:47Z"
     },
     "featured-islands": {
       "states": [
         {
-          "validFrom": "2020-09-02T14:11:15Z",
+          "validFrom": "2020-09-08T14:15:47Z",
           "activeEvents": [],
           "state": {
             "islandCodes": [
-              "1734-1345-6465",
-              "1602-0715-7383",
-              "5660-7675-2978",
-              "6246-0397-0789",
+              "6708-4909-2131",
+              "5838-3244-6439",
+              "9223-0773-2089",
+              "8929-4593-5089",
               null,
-              "5344-3264-7834?v=10"
+              "4293-6394-9381?v=18"
             ],
             "playlistCuratedContent": {},
             "playlistCuratedHub": {
-              "Playlist_PlaygroundV2": "3405-7882-5344",
-              "Playlist_Creative_PlayOnly": "3405-7882-5344"
+              "Playlist_PlaygroundV2": "6033-2994-4388",
+              "Playlist_Creative_PlayOnly": "6033-2994-4388"
             },
             "islandTemplates": [
               "0000-0000-0106",
@@ -122,12 +123,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-09-02T16:11:15Z"
+      "cacheExpire": "2020-09-08T16:15:47Z"
     },
     "community-votes": {
       "states": [
         {
-          "validFrom": "2020-09-02T14:11:15Z",
+          "validFrom": "2020-09-08T14:15:47Z",
           "activeEvents": [],
           "state": {
             "electionId": "",
@@ -137,12 +138,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-09-02T16:11:15Z"
+      "cacheExpire": "2020-09-08T16:15:47Z"
     },
     "client-events": {
       "states": [
         {
-          "validFrom": "2020-09-02T14:11:15Z",
+          "validFrom": "2020-09-08T14:15:47Z",
           "activeEvents": [
             {
               "eventType": "EventFlag.BBPromo.Quests",
@@ -153,66 +154,6 @@
               "eventType": "EventFlag.LobbySeason13",
               "activeUntil": "2020-09-29T14:00:00Z",
               "activeSince": "2020-06-14T13:00:00Z"
-            },
-            {
-              "eventType": "EventFlag.PassiveIceStorms",
-              "activeUntil": "2020-09-05T00:00:00Z",
-              "activeSince": "2020-06-20T00:00:00Z"
-            },
-            {
-              "eventType": "EventFlag.ActiveFireStorms",
-              "activeUntil": "2020-09-05T00:00:00Z",
-              "activeSince": "2020-06-20T00:00:00Z"
-            },
-            {
-              "eventType": "EventFlag.PassiveLightningStorms",
-              "activeUntil": "2020-09-05T00:00:00Z",
-              "activeSince": "2020-06-20T00:00:00Z"
-            },
-            {
-              "eventType": "EventFlag.PassiveMiniBosses",
-              "activeUntil": "2020-09-05T00:00:00Z",
-              "activeSince": "2020-06-20T00:00:00Z"
-            },
-            {
-              "eventType": "EventFlag.MissionAlert.MegaAlert",
-              "activeUntil": "2020-09-05T00:00:00Z",
-              "activeSince": "2020-06-20T00:00:00Z"
-            },
-            {
-              "eventType": "EventFlag.Mayday",
-              "activeUntil": "2020-09-05T00:00:00Z",
-              "activeSince": "2020-06-29T00:00:00Z"
-            },
-            {
-              "eventType": "EventFlag.Mayday.Quests",
-              "activeUntil": "2020-09-05T00:00:00Z",
-              "activeSince": "2020-06-29T00:00:00Z"
-            },
-            {
-              "eventType": "EventFlag.YarrrTwo",
-              "activeUntil": "2020-09-05T00:00:00Z",
-              "activeSince": "2020-06-29T00:00:00Z"
-            },
-            {
-              "eventType": "EventFlag.Mayday.Quests.1020",
-              "activeUntil": "2020-09-05T00:00:00Z",
-              "activeSince": "2020-07-25T00:00:00Z"
-            },
-            {
-              "eventType": "EventFlag.LobbyStW.RoadTrip",
-              "activeUntil": "2020-09-05T00:00:00Z",
-              "activeSince": "2020-07-25T00:00:00Z"
-            },
-            {
-              "eventType": "EventFlag.Phoenix.RoadTrip",
-              "activeUntil": "2020-09-05T00:00:00Z",
-              "activeSince": "2020-07-28T00:00:00Z"
-            },
-            {
-              "eventType": "EventFlag.Phoenix.RoadTrip.Quests",
-              "activeUntil": "2020-09-05T00:00:00Z",
-              "activeSince": "2020-07-28T00:00:00Z"
             },
             {
               "eventType": "WL0",
@@ -240,11 +181,6 @@
               "activeSince": "2020-08-27T08:00:00Z"
             },
             {
-              "eventType": "EventFlag.Mayday.Quests.Phase9",
-              "activeUntil": "2020-09-05T00:00:00Z",
-              "activeSince": "2020-08-29T00:00:00Z"
-            },
-            {
               "eventType": "LS0",
               "activeUntil": "2020-09-09T08:00:00Z",
               "activeSince": "2020-08-29T06:00:00Z"
@@ -258,6 +194,81 @@
               "eventType": "LS2",
               "activeUntil": "2020-09-09T08:00:00Z",
               "activeSince": "2020-09-01T06:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Starlight",
+              "activeUntil": "2020-11-21T00:00:00Z",
+              "activeSince": "2020-09-05T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Starlight.Quests.Phase1",
+              "activeUntil": "2020-11-21T00:00:00Z",
+              "activeSince": "2020-09-05T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Starlight.Quests.Phase2",
+              "activeUntil": "2020-11-21T00:00:00Z",
+              "activeSince": "2020-09-05T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Starlight.Quests.Phase3",
+              "activeUntil": "2020-11-21T00:00:00Z",
+              "activeSince": "2020-09-05T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Starlight.Quests.Phase4",
+              "activeUntil": "2020-11-21T00:00:00Z",
+              "activeSince": "2020-09-05T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Starlight.Quests.Phase5",
+              "activeUntil": "2020-11-21T00:00:00Z",
+              "activeSince": "2020-09-05T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.LobbyStW.Fortnitemares",
+              "activeUntil": "2020-11-21T00:00:00Z",
+              "activeSince": "2020-09-05T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.PassiveIceStorms",
+              "activeUntil": "2020-10-31T00:00:00Z",
+              "activeSince": "2020-09-05T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.PassiveFireStorms",
+              "activeUntil": "2020-10-31T00:00:00Z",
+              "activeSince": "2020-09-05T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.PassiveLightningStorms",
+              "activeUntil": "2020-10-31T00:00:00Z",
+              "activeSince": "2020-09-05T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.ActiveMiniBosses",
+              "activeUntil": "2020-10-31T00:00:00Z",
+              "activeSince": "2020-09-05T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.MissionAlert.MegaAlert",
+              "activeUntil": "2020-10-31T00:00:00Z",
+              "activeSince": "2020-09-05T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.MissionAlert.MegaAlertMiniboss",
+              "activeUntil": "2020-10-31T00:00:00Z",
+              "activeSince": "2020-09-05T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Fortnitemares.EnableEnemyVariants",
+              "activeUntil": "2020-11-21T00:00:00Z",
+              "activeSince": "2020-09-05T00:00:00Z"
+            },
+            {
+              "eventType": "LS3",
+              "activeUntil": "2020-09-09T08:00:00Z",
+              "activeSince": "2020-09-06T06:00:00Z"
             }
           ],
           "state": {
@@ -280,17 +291,17 @@
             "seasonBegin": "2020-08-24T13:00:00Z",
             "seasonEnd": "2020-12-11T15:00:00Z",
             "seasonDisplayedEnd": "2020-07-23T04:00:00Z",
-            "weeklyStoreEnd": "2020-09-03T00:00:00Z",
-            "stwEventStoreEnd": "2020-09-05T00:00:00.000Z",
-            "stwWeeklyStoreEnd": "2020-09-03T00:00:00.000Z",
-            "dailyStoreEnd": "2020-09-03T00:00:00Z"
+            "weeklyStoreEnd": "2020-09-09T00:00:00Z",
+            "stwEventStoreEnd": "2020-11-21T00:00:00.000Z",
+            "stwWeeklyStoreEnd": "2020-09-10T00:00:00.000Z",
+            "dailyStoreEnd": "2020-09-09T00:00:00Z"
           }
         }
       ],
-      "cacheExpire": "2020-09-02T16:11:15Z"
+      "cacheExpire": "2020-09-08T16:15:47Z"
     }
   },
   "eventsTimeOffsetHrs": 0.0,
   "cacheIntervalMins": 15.0,
-  "currentTime": "2020-09-02T14:28:04Z"
+  "currentTime": "2020-09-08T14:38:02Z"
 }

@@ -5,7 +5,7 @@
       "game_content_type": [
         {
           "name": "Extras",
-          "count": 6,
+          "count": 7,
           "key": "addons"
         },
         {
@@ -22,7 +22,7 @@
         },
         {
           "name": "In den letzten 30 Tagen",
-          "count": 1,
+          "count": 2,
           "key": "last_30_days"
         }
       ],
@@ -49,7 +49,7 @@
         },
         {
           "name": "\u20ac10,00 - \u20ac19,99",
-          "count": 1,
+          "count": 2,
           "key": "1000-1999"
         },
         {
@@ -70,6 +70,11 @@
           "key": "characters_costumes_skins"
         },
         {
+          "name": "Objekt",
+          "count": 1,
+          "key": "items"
+        },
+        {
           "name": "Virtuelle W\u00e4hrung",
           "count": 4,
           "key": "virtual_currency"
@@ -78,24 +83,24 @@
       "genre": [
         {
           "name": "Action",
-          "count": 19,
+          "count": 20,
           "key": "action"
         },
         {
           "name": "Abenteuer",
-          "count": 19,
+          "count": 20,
           "key": "adventure"
         },
         {
           "name": "Einmalig",
-          "count": 2,
+          "count": 3,
           "key": "unique"
         }
       ],
       "top_category": [
         {
           "name": "Add-On",
-          "count": 6,
+          "count": 7,
           "key": "add_on"
         },
         {
@@ -112,7 +117,7 @@
       "relationship": [
         {
           "name": "Extras",
-          "count": 6,
+          "count": 7,
           "key": "addons"
         },
         {
@@ -239,6 +244,107 @@
         "charge_type_id": 0,
         "credit_card_required_flag": 0,
         "defaultSku": true,
+        "display_price": "\u20ac15,99",
+        "eligibilities": [
+          {
+            "id": "EP1464-CUSA07669_00-STWSAM",
+            "operand": "EXISTS",
+            "operator": "FALSE",
+            "rightOperand": null,
+            "name": "Fortnite - StW Junk Samurai",
+            "description": null,
+            "entitlement_type": null,
+            "drms": []
+          },
+          {
+            "id": "EP1464-CUSA07669_00-STWSAM",
+            "operand": "IS_ACTIVE",
+            "operator": "FALSE",
+            "rightOperand": null,
+            "name": "Fortnite - StW Junk Samurai",
+            "description": null,
+            "entitlement_type": null,
+            "drms": []
+          }
+        ],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP1464-CUSA07669_00-STWSAM",
+            "license_type": 0,
+            "metadata": null,
+            "name": "Fortnite - StW Junk Samurai",
+            "packageType": null,
+            "packages": [],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 1,
+            "use_count": 1,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP1464-CUSA07669_00-STWSAM0000000000-E001",
+        "is_original": false,
+        "name": "Add-On",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 1599,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Add-On",
+          "key": "ADD-ON"
+        }
+      ],
+      "game_contentType": "Add-On",
+      "id": "EP1464-CUSA07669_00-STWSAM0000000000",
+      "images": [
+        {
+          "type": 10,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202008/1116/S67I772gtTgonOzhbv3bKrYK.png"
+        }
+      ],
+      "name": "Fortnite \u2013 Pl\u00fcndersamurai-Paket",
+      "parent_name": "Fortnite",
+      "playable_platform": [
+        "PS4\u2122"
+      ],
+      "provider_name": "EPIC GAMES",
+      "release_date": "2020-09-08T16:00:00Z",
+      "restricted": false,
+      "revision": 0,
+      "short_name": "Pl\u00fcndersamurai-Paket",
+      "timestamp": 1599574234000,
+      "top_category": "add_on",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-STWSAM0000000000/1599574234"
+    },
+    {
+      "bucket": "games",
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
         "display_price": "\u20ac3,99",
         "eligibilities": [
           {
@@ -326,9 +432,9 @@
       "restricted": false,
       "revision": 0,
       "short_name": "Stra\u00dfenschlange-Paket",
-      "timestamp": 1599055907000,
+      "timestamp": 1599526601000,
       "top_category": "add_on",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-RMPA120000000000/1599055907"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-RMPA120000000000/1599526601"
     },
     {
       "bucket": "games",
@@ -443,9 +549,9 @@
       "restricted": false,
       "revision": 0,
       "short_name": "PlayStation\u00aePlus-Sonderpaket",
-      "timestamp": 1599004359000,
+      "timestamp": 1599487291000,
       "top_category": "add_on",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-PSCP100000000000/1599004359"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-PSCP100000000000/1599487291"
     },
     {
       "bucket": "games",
@@ -548,9 +654,9 @@
       "restricted": false,
       "revision": 2,
       "short_name": "Beefboss-Avatar",
-      "timestamp": 1598641820000,
+      "timestamp": 1599487291000,
       "top_category": "avatar",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000014/1598641820"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000014/1599487291"
     },
     {
       "bucket": "games",
@@ -653,9 +759,9 @@
       "restricted": false,
       "revision": 2,
       "short_name": "Farbenbomber-Avatar",
-      "timestamp": 1598641820000,
+      "timestamp": 1599487290000,
       "top_category": "avatar",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000013/1598641820"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000013/1599487290"
     },
     {
       "bucket": "games",
@@ -758,9 +864,9 @@
       "restricted": false,
       "revision": 2,
       "short_name": "Lightshow-Avatar",
-      "timestamp": 1598641820000,
+      "timestamp": 1599487291000,
       "top_category": "avatar",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000015/1598641820"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000015/1599487291"
     },
     {
       "bucket": "games",
@@ -863,9 +969,9 @@
       "restricted": false,
       "revision": 2,
       "short_name": "Verw\u00fcstung-Avatar",
-      "timestamp": 1598641820000,
+      "timestamp": 1599487289000,
       "top_category": "avatar",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000016/1598641820"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000016/1599487289"
     },
     {
       "bucket": "games",
@@ -943,9 +1049,9 @@
       "restricted": false,
       "revision": 18,
       "short_name": "5.000 V-Bucks",
-      "timestamp": 1599008011000,
+      "timestamp": 1599526601000,
       "top_category": "add_on",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-MTX05K0000000000/1599008011"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-MTX05K0000000000/1599526601"
     },
     {
       "bucket": "games",
@@ -1048,9 +1154,9 @@
       "restricted": false,
       "revision": 2,
       "short_name": "Jonesy-Avatar",
-      "timestamp": 1598641821000,
+      "timestamp": 1599487298000,
       "top_category": "avatar",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000006/1598641821"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000006/1599487298"
     },
     {
       "bucket": "games",
@@ -1153,9 +1259,9 @@
       "restricted": false,
       "revision": 3,
       "short_name": "Leviathan-Avatar",
-      "timestamp": 1598641820000,
+      "timestamp": 1599487291000,
       "top_category": "avatar",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000010/1598641820"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000010/1599487291"
     },
     {
       "bucket": "games",
@@ -1258,9 +1364,9 @@
       "restricted": false,
       "revision": 3,
       "short_name": "Rex-Avatar",
-      "timestamp": 1598641820000,
+      "timestamp": 1599487290000,
       "top_category": "avatar",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000011/1598641820"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000011/1599487290"
     },
     {
       "bucket": "games",
@@ -1363,9 +1469,9 @@
       "restricted": false,
       "revision": 3,
       "short_name": "Dinokommando-Avatar",
-      "timestamp": 1598641820000,
+      "timestamp": 1599487291000,
       "top_category": "avatar",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000012/1598641820"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000012/1599487291"
     },
     {
       "bucket": "games",
@@ -1468,9 +1574,9 @@
       "restricted": false,
       "revision": 3,
       "short_name": "Kuschelbeauftragte-Avatar",
-      "timestamp": 1598641820000,
+      "timestamp": 1599487298000,
       "top_category": "avatar",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000008/1598641820"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000008/1599487298"
     },
     {
       "bucket": "games",
@@ -1573,9 +1679,9 @@
       "restricted": false,
       "revision": 3,
       "short_name": "Raben-Avatar",
-      "timestamp": 1598641820000,
+      "timestamp": 1599487298000,
       "top_category": "avatar",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000007/1598641820"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000007/1599487298"
     },
     {
       "bucket": "games",
@@ -1678,9 +1784,9 @@
       "restricted": false,
       "revision": 3,
       "short_name": "Tomatenkopf-Avatar",
-      "timestamp": 1598641820000,
+      "timestamp": 1599487298000,
       "top_category": "avatar",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000009/1598641820"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000009/1599487298"
     },
     {
       "bucket": "games",
@@ -1783,9 +1889,9 @@
       "restricted": false,
       "revision": 3,
       "short_name": "Lama-Avatar",
-      "timestamp": 1598641820000,
+      "timestamp": 1599487298000,
       "top_category": "avatar",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000005/1598641820"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-AV00000000000005/1599487298"
     },
     {
       "bucket": "games",
@@ -1888,9 +1994,9 @@
       "restricted": false,
       "revision": 1,
       "short_name": "SHAREfactory\u2122-Design",
-      "timestamp": 1599007841000,
+      "timestamp": 1599526441000,
       "top_category": "game_content",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-SFTHEME000000001/1599007841"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-SFTHEME000000001/1599526441"
     },
     {
       "bucket": "games",
@@ -1968,9 +2074,9 @@
       "restricted": false,
       "revision": 21,
       "short_name": "13.500 V-Bucks",
-      "timestamp": 1599008022000,
+      "timestamp": 1599526435000,
       "top_category": "add_on",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-MTX14K0000000000/1599008022"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-MTX14K0000000000/1599526435"
     },
     {
       "bucket": "games",
@@ -2048,9 +2154,9 @@
       "restricted": false,
       "revision": 21,
       "short_name": "2.800 V-Bucks",
-      "timestamp": 1599008019000,
+      "timestamp": 1599526432000,
       "top_category": "add_on",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-MTX03K0000000000/1599008019"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-MTX03K0000000000/1599526432"
     },
     {
       "bucket": "games",
@@ -2128,9 +2234,9 @@
       "restricted": false,
       "revision": 16,
       "short_name": "1.000 V-Bucks",
-      "timestamp": 1599007830000,
+      "timestamp": 1599526435000,
       "top_category": "add_on",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-MTX01K0000000000/1599007830"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-MTX01K0000000000/1599526435"
     }
   ],
   "long_desc": "Sei dabei in Fortnite Kapitel 2 \u2013 Saison 4: Nexus War und schlie\u00dfe dich den Helden und B\u00f6sewichten von Marvel an. Spiele als Iron Man, Thor, Storm und weitere Charaktere, w\u00e4hrend du dich auf den Kampf gegen Galactus den Weltenverschlinger vorbereitest. Setze neue Superkr\u00e4fte ein, r\u00fcste dich mit dem Stark Industries-Sturmgewehr aus und erkunde bekannte Orte aus dem Marvel-Universum.<br/><br/>Im komplett kostenlosen Mehrspielertitel Fortnite kannst du zusammen mit deinen Freunden eine Fortnite-Welt nach deinen W\u00fcnschen gestalten oder dir eine Schlacht bis auf den letzten \u00dcberlebenden liefern. Spiele jetzt KOSTENLOS Battle Royale sowie den Fortnite-Kreativmodus. Lade es jetzt herunter und st\u00fcrz dich in die Action.<br/><br/>Der Download ist au\u00dferdem ein guter Anreiz, dir die kooperative PvE-Kampagne \u201eRette die Welt\u201c zu kaufen, die Teil von Fortnites Early Access ist.<br/><br/>Dieses Produkt verf\u00fcgt \u00fcber folgende Sprachunterst\u00fctzung: Englisch<br/><br/><br/><br/>In-Game-K\u00e4ufe optional<br/><br/><br/><br/>Offline-Einzelspieler<br/>Online-Multiplayer (2\u201399\u00a0Spieler). Die Online-Funktionen erfordern ein Konto und unterliegen unseren Nutzungsbedingungen (playstationnetwork.com/terms-of-service), unseren Datenschutzrichtlinien (playstationnetwork.com/privacy-policy) und den Datenschutzrichtlinien des Spielherausgebers.<br/>Verwendet die DUALSHOCK\u00a04-Vibrationsfunktion<br/>Optionale In-Game-Eink\u00e4ufe<br/>Onlinespiel erforderlich<br/><br><br>Der Download dieses Produkts unterliegt den Nutzungsbedingungen von PlayStation Network und unseren Software-Nutzungsbedingungen sowie allen f\u00fcr dieses Produkt geltenden Zusatzbedingungen. Der Download erfordert die Zustimmung zu diesen Bedingungen. Weitere wichtige Informationen finden sich in den Nutzungsbedingungen.<br><br>Einmalige Lizenzgeb\u00fchr f\u00fcr den Download auf mehrere PS4-Systeme. F\u00fcr eine Verwendung auf Ihrem prim\u00e4ren PS4-System ist keine Anmeldung im PlayStation Network erforderlich, f\u00fcr die Verwendung auf anderen PS4-Systemen m\u00fcssen Sie sich jedoch anmelden.<br><br>Bitte lesen Sie sich die Informationen in den Gesundheitswarnungen durch, bevor Sie dieses Produkt verwenden.<br><br>Bibliotheksprogramme \u00a9 Sony Interactive Entertainment Inc., unter exklusiver Lizenz f\u00fcr Sony Interactive Entertainment Europe. Es gelten die Software-Nutzungsbedingungen. Vollst\u00e4ndige Nutzungsrechte unter eu.playstation.com/legal.<br>",
@@ -2384,32 +2490,32 @@
   "provider_name": "EPIC GAMES",
   "relationships": [
     {
-      "count": 6,
+      "count": 7,
       "id": "ADD-ONS",
       "key_name": "add-ons",
       "name": "Extras",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-FORTNITETESTING1/1599008188?relationship=ADD-ONS"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-FORTNITETESTING1/1599526250?relationship=ADD-ONS"
     },
     {
       "count": 12,
       "id": "AVATARS",
       "key_name": "avatars",
       "name": "Avatare",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-FORTNITETESTING1/1599008188?relationship=AVATARS"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-FORTNITETESTING1/1599526250?relationship=AVATARS"
     },
     {
       "count": 1,
       "id": "EXTRAS",
       "key_name": "extras",
       "name": "Weitere Extras",
-      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-FORTNITETESTING1/1599008188?relationship=EXTRAS"
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DE/de/999/EP1464-CUSA07669_00-FORTNITETESTING1/1599526250?relationship=EXTRAS"
     }
   ],
   "release_date": "2017-07-21T00:00:00Z",
   "restricted": false,
   "revision": 75,
   "short_name": "Fortnite",
-  "size": 19,
+  "size": 20,
   "sku_links": [],
   "skus": [
     {
@@ -2480,34 +2586,34 @@
   ],
   "sort": "static",
   "star_rating": {
-    "total": "2617790",
+    "total": "2629768",
     "score": "4.37",
     "count": [
       {
         "star": 1,
-        "count": 237751
+        "count": 238996
       },
       {
         "star": 2,
-        "count": 27209
+        "count": 27345
       },
       {
         "star": 3,
-        "count": 186587
+        "count": 187978
       },
       {
         "star": 4,
-        "count": 238506
+        "count": 239795
       },
       {
         "star": 5,
-        "count": 1927737
+        "count": 1935654
       }
     ]
   },
   "start": 0,
-  "timestamp": 1599008188000,
+  "timestamp": 1599526250000,
   "title_name": "FORTNITE",
   "top_category": "downloadable_game",
-  "total_results": 19
+  "total_results": 20
 }

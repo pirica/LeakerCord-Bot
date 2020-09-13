@@ -94,37 +94,44 @@
                 "id": "1083"
               },
               {
-                "id": "1115"
+                "id": "9547"
               },
               {
-                "id": "9547"
+                "id": "1115"
               }
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 1499,
+                "discountPrice": 0,
                 "originalPrice": 1499,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 1499,
                 "currencyCode": "USD",
                 "currencyInfo": {
                   "decimals": 2
                 },
                 "fmtPrice": {
                   "originalPrice": "$14.99",
-                  "discountPrice": "$14.99",
-                  "intermediatePrice": "$14.99"
+                  "discountPrice": "0",
+                  "intermediatePrice": "0"
                 }
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "b4cd33a45fab49e0894d2a2be3da50eb",
+                      "endDate": "2020-09-10T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -134,7 +141,13 @@
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 0
                       }
-                    },
+                    }
+                  ]
+                }
+              ],
+              "upcomingPromotionalOffers": [
+                {
+                  "promotionalOffers": [
                     {
                       "startDate": "2020-09-10T15:00:00.000Z",
                       "endDate": "2020-09-24T15:00:00.000Z",
@@ -149,56 +162,178 @@
             }
           },
           {
-            "title": "Shadowrun Collection",
-            "id": "c5cb60ecc6554c6a8d9a682b87ab04bb",
-            "namespace": "bd8a7e894699493fb21503837f7b66c5",
-            "description": "Shadowrun Collection",
-            "effectiveDate": "2020-08-27T15:00:00.000Z",
+            "title": "Where The Water Tastes Like Wine",
+            "id": "72cbf73f83ea4437b142e143a1c78562",
+            "namespace": "27d2f156f77b4202b9bc78e40a408b03",
+            "description": "Where The Water Tastes Like Wine",
+            "effectiveDate": "2020-09-10T15:00:00.000Z",
             "keyImages": [
               {
                 "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/undefined/offer/Landscape Image_Shadowcoll-2560x1440-6418de83cb9ac99fc8eeb574ea65aac3.jpg"
+                "url": "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/offer/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S1-2560x1440-75b8bde822ddf61974fe34cc0fb6f26c.jpg"
               },
               {
                 "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/undefined/offer/Portrait image1200x1600-1200x1600-791ecaaee8dcdfc1c796c5dd21783e06.jpg"
-              },
-              {
-                "type": "CodeRedemption_340x440",
-                "url": "https://cdn1.epicgames.com/undefined/offer/Portrait image1200x1600-1200x1600-791ecaaee8dcdfc1c796c5dd21783e06.jpg"
-              },
-              {
-                "type": "DieselStoreFrontTall",
-                "url": "https://cdn1.epicgames.com/undefined/offer/Portrait image1200x1600-1200x1600-791ecaaee8dcdfc1c796c5dd21783e06.jpg"
-              },
-              {
-                "type": "DieselStoreFrontWide",
-                "url": "https://cdn1.epicgames.com/undefined/offer/Landscape Image_Shadowcoll-2560x1440-6418de83cb9ac99fc8eeb574ea65aac3.jpg"
+                "url": "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/offer/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S2-1200x1600-b14d1a4d99a370f387e5e63e53d53a30.jpg"
               },
               {
                 "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/bd8a7e894699493fb21503837f7b66c5/offer/EGS_ShadowrunCollection_HarebrainedSchemes_G1A_00-1920x1080-17feba164bafaad2306b5afc98e55783.jpg"
+                "url": "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/offer/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S2-1200x1600-b14d1a4d99a370f387e5e63e53d53a30.jpg"
+              },
+              {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/offer/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S2-1200x1600-b14d1a4d99a370f387e5e63e53d53a30.jpg"
+              },
+              {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/offer/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S1-2560x1440-75b8bde822ddf61974fe34cc0fb6f26c.jpg"
+              },
+              {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/offer/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S2-1200x1600-b14d1a4d99a370f387e5e63e53d53a30.jpg"
               }
             ],
             "seller": {
-              "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
-              "name": "Paradox Interactive"
+              "id": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+              "name": "Good Shepherd Entertainment"
             },
-            "productSlug": "shadowrun-collection",
-            "urlSlug": "shadowrun-collection",
+            "productSlug": "where-the-water-tastes-like-wine/home",
+            "urlSlug": "capelingeneralaudience",
             "url": null,
             "items": [
               {
-                "id": "794469cd9a0441b58330e74458640d03",
-                "namespace": "0d66818e2304485f8dc3ae90c8b622b4"
+                "id": "c81ddaaf4fa74614aff3291d8d19f4ba",
+                "namespace": "27d2f156f77b4202b9bc78e40a408b03"
+              }
+            ],
+            "customAttributes": [
+              {
+                "key": "publisherName",
+                "value": "Good Shepherd Entertainment"
               },
               {
-                "id": "1f469cce8b4945ca87411bbc36880080",
-                "namespace": "805a1b31b65f4c3db221ab242f894482"
+                "key": "developerName",
+                "value": "Dim Bulb Games"
               },
               {
-                "id": "be5db329712c4b4f8b4094a4c0003408",
-                "namespace": "a8400ce7530e4479b32dcaf0e92fce57"
+                "key": "com.epicgames.app.productSlug",
+                "value": "where-the-water-tastes-like-wine/home"
+              }
+            ],
+            "categories": [
+              {
+                "path": "freegames"
+              },
+              {
+                "path": "games"
+              },
+              {
+                "path": "games/edition/base"
+              },
+              {
+                "path": "games/edition"
+              },
+              {
+                "path": "applications"
+              }
+            ],
+            "tags": [
+              {
+                "id": "1395"
+              },
+              {
+                "id": "1370"
+              },
+              {
+                "id": "9547"
+              },
+              {
+                "id": "1117"
+              }
+            ],
+            "price": {
+              "totalPrice": {
+                "discountPrice": 1999,
+                "originalPrice": 1999,
+                "voucherDiscount": 0,
+                "discount": 0,
+                "currencyCode": "USD",
+                "currencyInfo": {
+                  "decimals": 2
+                },
+                "fmtPrice": {
+                  "originalPrice": "$19.99",
+                  "discountPrice": "$19.99",
+                  "intermediatePrice": "$19.99"
+                }
+              },
+              "lineOffers": [
+                {
+                  "appliedRules": []
+                }
+              ]
+            },
+            "promotions": {
+              "promotionalOffers": [],
+              "upcomingPromotionalOffers": [
+                {
+                  "promotionalOffers": [
+                    {
+                      "startDate": "2020-09-10T15:00:00.000Z",
+                      "endDate": "2020-09-17T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE",
+                        "discountPercentage": 0
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "title": "Railway Empire",
+            "id": "f5f7971517134ed488fd51974563f5f5",
+            "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+            "description": "Railway Empire",
+            "effectiveDate": "2020-09-10T15:00:00.000Z",
+            "keyImages": [
+              {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_RailwayEmpire_GamingMindsStudios_S1-2560x1440-917cc700b5437febee4981a1d40ebefc.jpg"
+              },
+              {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_RailwayEmpire_GamingMindsStudios_S2-1200x1600-aa3f6d77c91bd7801de2f530ca7faca6.jpg"
+              },
+              {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_RailwayEmpire_GamingMindsStudios_S1-2560x1440-917cc700b5437febee4981a1d40ebefc.jpg"
+              },
+              {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_RailwayEmpire_GamingMindsStudios_S2-1200x1600-aa3f6d77c91bd7801de2f530ca7faca6.jpg"
+              },
+              {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_RailwayEmpire_GamingMindsStudios_S2-1200x1600-aa3f6d77c91bd7801de2f530ca7faca6.jpg"
+              },
+              {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_RailwayEmpire_GamingMindsStudios_S2-1200x1600-aa3f6d77c91bd7801de2f530ca7faca6.jpg"
+              }
+            ],
+            "seller": {
+              "id": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+              "name": "Kalypso Media Group GmbH"
+            },
+            "productSlug": "railway-empire/home",
+            "urlSlug": "persiangeneralaudience",
+            "url": null,
+            "items": [
+              {
+                "id": "58344bb4a06549c099c2175c8bff283c",
+                "namespace": "93b333eb973b45b582f3bdf68dfc1dc9"
               }
             ],
             "customAttributes": [
@@ -208,153 +343,15 @@
               },
               {
                 "key": "publisherName",
-                "value": "Paradox Interactive"
+                "value": "Kalypso Media"
               },
               {
                 "key": "developerName",
-                "value": "Harebrained Schemes"
+                "value": "Gaming Minds Studios"
               },
               {
                 "key": "com.epicgames.app.productSlug",
-                "value": "shadowrun-collection"
-              }
-            ],
-            "categories": [
-              {
-                "path": "bundles"
-              },
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "games"
-              },
-              {
-                "path": "bundles/games"
-              },
-              {
-                "path": "applications"
-              }
-            ],
-            "tags": [
-              {
-                "id": "1216"
-              },
-              {
-                "id": "1367"
-              },
-              {
-                "id": "1336"
-              },
-              {
-                "id": "9547"
-              }
-            ],
-            "price": {
-              "totalPrice": {
-                "discountPrice": 0,
-                "originalPrice": 4999,
-                "voucherDiscount": 0,
-                "discount": 4999,
-                "currencyCode": "USD",
-                "currencyInfo": {
-                  "decimals": 2
-                },
-                "fmtPrice": {
-                  "originalPrice": "$49.99",
-                  "discountPrice": "0",
-                  "intermediatePrice": "0"
-                }
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": [
-                    {
-                      "id": "2a5cee52f133463c8f6cb94b32893cc8",
-                      "endDate": "2020-09-03T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            "promotions": {
-              "promotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2020-08-27T15:00:00.000Z",
-                      "endDate": "2020-09-03T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 0
-                      }
-                    }
-                  ]
-                }
-              ],
-              "upcomingPromotionalOffers": []
-            }
-          },
-          {
-            "title": "3 out of 10, EP 4: \"Thank You For Being An Asset\"",
-            "id": "00ae234a8e4a4a80b6b3c124ae738372",
-            "namespace": "d6a3cae34c5d4562832610b5b8664576",
-            "description": "3 out of 10, EP 4: \"Thank You For Being An Asset\"",
-            "effectiveDate": "2020-08-27T15:00:00.000Z",
-            "keyImages": [
-              {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S1-2560x1440-fcaf73701007096c6abc01415788d4c3.jpg"
-              },
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S2-1200x1600-1a465a21d91318bd7d0f6a7b968d4797.jpg"
-              },
-              {
-                "type": "DieselStoreFrontTall",
-                "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S2-1200x1600-1a465a21d91318bd7d0f6a7b968d4797.jpg"
-              },
-              {
-                "type": "DieselStoreFrontWide",
-                "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S1-2560x1440-fcaf73701007096c6abc01415788d4c3.jpg"
-              },
-              {
-                "type": "CodeRedemption_340x440",
-                "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S2-1200x1600-1a465a21d91318bd7d0f6a7b968d4797.jpg"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S2-1200x1600-1a465a21d91318bd7d0f6a7b968d4797.jpg"
-              }
-            ],
-            "seller": {
-              "id": "o-2yllrrr7vufkhal9nk3cswwgug977c",
-              "name": "Terrible Posture Games, Inc."
-            },
-            "productSlug": "3-out-of-10-ep-4",
-            "urlSlug": "3-out-of-10-ep",
-            "url": null,
-            "items": [
-              {
-                "id": "821516f0ed8448b89b7fe0e1e4628e03",
-                "namespace": "d6a3cae34c5d4562832610b5b8664576"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "com.epicgames.app.blacklist",
-                "value": "KR"
-              },
-              {
-                "key": "developerName",
-                "value": "Terrible Posture Games, Inc."
-              },
-              {
-                "key": "com.epicgames.app.productSlug",
-                "value": "3-out-of-10-ep-4"
+                "value": "railway-empire/home"
               }
             ],
             "categories": [
@@ -376,25 +373,22 @@
             ],
             "tags": [
               {
-                "id": "1381"
+                "id": "1393"
               },
               {
-                "id": "9547"
+                "id": "1370"
               },
               {
-                "id": "1116"
+                "id": "1115"
               },
               {
                 "id": "9549"
-              },
-              {
-                "id": "1117"
               }
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 0,
-                "originalPrice": 0,
+                "discountPrice": 2999,
+                "originalPrice": 2999,
                 "voucherDiscount": 0,
                 "discount": 0,
                 "currencyCode": "USD",
@@ -402,9 +396,9 @@
                   "decimals": 2
                 },
                 "fmtPrice": {
-                  "originalPrice": "0",
-                  "discountPrice": "0",
-                  "intermediatePrice": "0"
+                  "originalPrice": "$29.99",
+                  "discountPrice": "$29.99",
+                  "intermediatePrice": "$29.99"
                 }
               },
               "lineOffers": [
@@ -413,144 +407,14 @@
                 }
               ]
             },
-            "promotions": null
-          },
-          {
-            "title": "HITMAN",
-            "id": "e8efad3d47a14284867fef2c347c321d",
-            "namespace": "3c06b15a8a2845c0b725d4f952fe00aa",
-            "description": "HITMAN",
-            "effectiveDate": "2020-08-27T15:00:00.000Z",
-            "keyImages": [
-              {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/3c06b15a8a2845c0b725d4f952fe00aa/offer/EGS_IOInteractiveAS_HITMANTheCompleteFirstSeason_S3-1360x766-6becb0825ddf48b1511a6f8e9be02f9f.jpg"
-              },
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/3c06b15a8a2845c0b725d4f952fe00aa/offer/EGS_IOInteractiveAS_HITMANTheCompleteFirstSeason_S2-860x1148-cb3bc2b2ef92dd133e1baa2edde5e232.jpg"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/3c06b15a8a2845c0b725d4f952fe00aa/offer/EGS_IOInteractiveAS_HITMANTheCompleteFirstSeason_S2-860x1148-cb3bc2b2ef92dd133e1baa2edde5e232.jpg"
-              },
-              {
-                "type": "CodeRedemption_340x440",
-                "url": "https://cdn1.epicgames.com/3c06b15a8a2845c0b725d4f952fe00aa/offer/EGS_IOInteractiveAS_HITMANTheCompleteFirstSeason_S2-860x1148-cb3bc2b2ef92dd133e1baa2edde5e232.jpg"
-              },
-              {
-                "type": "DieselStoreFrontTall",
-                "url": "https://cdn1.epicgames.com/3c06b15a8a2845c0b725d4f952fe00aa/offer/EGS_IOInteractiveAS_HITMANTheCompleteFirstSeason_S2-860x1148-cb3bc2b2ef92dd133e1baa2edde5e232.jpg"
-              },
-              {
-                "type": "DieselStoreFrontWide",
-                "url": "https://cdn1.epicgames.com/3c06b15a8a2845c0b725d4f952fe00aa/offer/EGS_IOInteractiveAS_HITMANTheCompleteFirstSeason_S3-1360x766-6becb0825ddf48b1511a6f8e9be02f9f.jpg"
-              }
-            ],
-            "seller": {
-              "id": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
-              "name": "IO Interactive"
-            },
-            "productSlug": "hitman/standard-edition",
-            "urlSlug": "hitman-standard",
-            "url": null,
-            "items": [
-              {
-                "id": "0a73eaedcac84bd28b567dbec764c5cb",
-                "namespace": "3c06b15a8a2845c0b725d4f952fe00aa"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "com.epicgames.app.blacklist",
-                "value": "[]"
-              },
-              {
-                "key": "developerName",
-                "value": "IO Interactive"
-              },
-              {
-                "key": "com.epicgames.app.productSlug",
-                "value": "hitman/standard-edition"
-              }
-            ],
-            "categories": [
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "games"
-              },
-              {
-                "path": "games/edition"
-              },
-              {
-                "path": "games/edition/base"
-              },
-              {
-                "path": "applications"
-              }
-            ],
-            "tags": [
-              {
-                "id": "1216"
-              },
-              {
-                "id": "1336"
-              },
-              {
-                "id": "1210"
-              },
-              {
-                "id": "1370"
-              },
-              {
-                "id": "9547"
-              },
-              {
-                "id": "1084"
-              },
-              {
-                "id": "1342"
-              }
-            ],
-            "price": {
-              "totalPrice": {
-                "discountPrice": 0,
-                "originalPrice": 5999,
-                "voucherDiscount": 0,
-                "discount": 5999,
-                "currencyCode": "USD",
-                "currencyInfo": {
-                  "decimals": 2
-                },
-                "fmtPrice": {
-                  "originalPrice": "$59.99",
-                  "discountPrice": "0",
-                  "intermediatePrice": "0"
-                }
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": [
-                    {
-                      "id": "2d600b05f5d64833aa24faee7406da58",
-                      "endDate": "2020-09-03T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
             "promotions": {
-              "promotionalOffers": [
+              "promotionalOffers": [],
+              "upcomingPromotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
-                      "startDate": "2020-08-27T15:00:00.000Z",
-                      "endDate": "2020-09-03T15:00:00.000Z",
+                      "startDate": "2020-09-10T15:00:00.000Z",
+                      "endDate": "2020-09-17T15:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 0
@@ -558,14 +422,13 @@
                     }
                   ]
                 }
-              ],
-              "upcomingPromotionalOffers": []
+              ]
             }
           }
         ],
         "paging": {
           "count": 1000,
-          "total": 4
+          "total": 3
         }
       }
     }
@@ -839,86 +702,6 @@
           "path": [
             "Catalog",
             "searchStore",
-            "elements",
-            3,
-            "keyImages"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            3,
-            "seller"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            3,
-            "items"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            3,
-            "customAttributes"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            3,
-            "categories"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            3,
-            "tags"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            3,
-            "price"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            3,
-            "promotions"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
             "paging"
           ],
           "maxAge": 0
@@ -928,116 +711,9 @@
             "Catalog",
             "searchStore",
             "elements",
-            2,
-            "price",
-            "totalPrice"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            2,
-            "price",
-            "totalPrice",
-            "currencyInfo"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            2,
-            "price",
-            "totalPrice",
-            "fmtPrice"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            2,
-            "price",
-            "lineOffers"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            2,
-            "price",
-            "lineOffers",
-            0,
-            "appliedRules"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            0,
-            "price",
-            "totalPrice"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            0,
-            "price",
-            "totalPrice",
-            "currencyInfo"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            0,
-            "price",
-            "totalPrice",
-            "fmtPrice"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            0,
-            "price",
-            "lineOffers"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            0,
-            "price",
-            "lineOffers",
-            0,
-            "appliedRules"
+            1,
+            "promotions",
+            "promotionalOffers"
           ],
           "maxAge": 0
         },
@@ -1047,8 +723,8 @@
             "searchStore",
             "elements",
             1,
-            "price",
-            "totalPrice"
+            "promotions",
+            "upcomingPromotionalOffers"
           ],
           "maxAge": 0
         },
@@ -1058,45 +734,10 @@
             "searchStore",
             "elements",
             1,
-            "price",
-            "totalPrice",
-            "currencyInfo"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            1,
-            "price",
-            "totalPrice",
-            "fmtPrice"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            1,
-            "price",
-            "lineOffers"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            1,
-            "price",
-            "lineOffers",
+            "promotions",
+            "upcomingPromotionalOffers",
             0,
-            "appliedRules"
+            "promotionalOffers"
           ],
           "maxAge": 0
         },
@@ -1106,10 +747,10 @@
             "searchStore",
             "elements",
             1,
-            "price",
-            "lineOffers",
+            "promotions",
+            "upcomingPromotionalOffers",
             0,
-            "appliedRules",
+            "promotionalOffers",
             0,
             "discountSetting"
           ],
@@ -1120,7 +761,7 @@
             "Catalog",
             "searchStore",
             "elements",
-            3,
+            2,
             "price",
             "totalPrice"
           ],
@@ -1131,7 +772,7 @@
             "Catalog",
             "searchStore",
             "elements",
-            3,
+            2,
             "price",
             "totalPrice",
             "currencyInfo"
@@ -1143,7 +784,7 @@
             "Catalog",
             "searchStore",
             "elements",
-            3,
+            2,
             "price",
             "totalPrice",
             "fmtPrice"
@@ -1155,7 +796,7 @@
             "Catalog",
             "searchStore",
             "elements",
-            3,
+            2,
             "price",
             "lineOffers"
           ],
@@ -1166,7 +807,7 @@
             "Catalog",
             "searchStore",
             "elements",
-            3,
+            2,
             "price",
             "lineOffers",
             0,
@@ -1179,7 +820,66 @@
             "Catalog",
             "searchStore",
             "elements",
-            3,
+            0,
+            "price",
+            "totalPrice"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            0,
+            "price",
+            "totalPrice",
+            "currencyInfo"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            0,
+            "price",
+            "totalPrice",
+            "fmtPrice"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            0,
+            "price",
+            "lineOffers"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            0,
+            "price",
+            "lineOffers",
+            0,
+            "appliedRules"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            0,
             "price",
             "lineOffers",
             0,
@@ -1195,6 +895,65 @@
             "searchStore",
             "elements",
             1,
+            "price",
+            "totalPrice"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            1,
+            "price",
+            "totalPrice",
+            "currencyInfo"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            1,
+            "price",
+            "totalPrice",
+            "fmtPrice"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            1,
+            "price",
+            "lineOffers"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            1,
+            "price",
+            "lineOffers",
+            0,
+            "appliedRules"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            0,
             "promotions",
             "promotionalOffers"
           ],
@@ -1205,7 +964,7 @@
             "Catalog",
             "searchStore",
             "elements",
-            1,
+            0,
             "promotions",
             "promotionalOffers",
             0,
@@ -1218,35 +977,13 @@
             "Catalog",
             "searchStore",
             "elements",
-            1,
+            0,
             "promotions",
             "promotionalOffers",
             0,
             "promotionalOffers",
             0,
             "discountSetting"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            1,
-            "promotions",
-            "upcomingPromotionalOffers"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            0,
-            "promotions",
-            "promotionalOffers"
           ],
           "maxAge": 0
         },
@@ -1294,63 +1031,48 @@
             "Catalog",
             "searchStore",
             "elements",
+            2,
+            "promotions",
+            "promotionalOffers"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            2,
+            "promotions",
+            "upcomingPromotionalOffers"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            2,
+            "promotions",
+            "upcomingPromotionalOffers",
             0,
+            "promotionalOffers"
+          ],
+          "maxAge": 0
+        },
+        {
+          "path": [
+            "Catalog",
+            "searchStore",
+            "elements",
+            2,
             "promotions",
             "upcomingPromotionalOffers",
             0,
             "promotionalOffers",
-            1,
-            "discountSetting"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            3,
-            "promotions",
-            "promotionalOffers"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            3,
-            "promotions",
-            "promotionalOffers",
-            0,
-            "promotionalOffers"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            3,
-            "promotions",
-            "promotionalOffers",
-            0,
-            "promotionalOffers",
             0,
             "discountSetting"
-          ],
-          "maxAge": 0
-        },
-        {
-          "path": [
-            "Catalog",
-            "searchStore",
-            "elements",
-            3,
-            "promotions",
-            "upcomingPromotionalOffers"
           ],
           "maxAge": 0
         }

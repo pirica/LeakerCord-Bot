@@ -3,7 +3,7 @@
   "_title": "Fortnite Game",
   "jcr:baseVersion": "a7ca237317f1e7883b3279-c38f-4aa7-a325-e099e4bf71e5",
   "_activeDate": "2017-08-30T03:20:48.050Z",
-  "lastModified": "2020-09-01T16:32:15.799Z",
+  "lastModified": "2020-09-02T23:07:56.788Z",
   "_locale": "en-US",
   "subgameinfo": {
     "battleroyale": {
@@ -75,22 +75,480 @@
   },
   "battleroyalenews": {
     "news": {
+      "motds": [],
+      "_type": "Battle Royale News",
+      "messages": [
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",
+          "hidden": false,
+          "messagetype": "normal",
+          "_type": "CommonUI Simple Message Base",
+          "title": "Keep Your Account Secure",
+          "body": "Avoid scam sites offering free V-Bucks. Epic will never ask for your password. Enable Two-Factor Authentication to help stay secure!",
+          "spotlight": false
+        }
+      ],
+      "platform_motds": [
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "NavigateToTab",
+            "image": "https://cdn2.unrealengine.com/13br-flytrap-motd-1920x1080-1920x1080-908496909.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-flytrap-motd-1024x512-1024x512-908496891.jpg",
+            "navigateToTabValue": "ShowAthenaItemShop",
+            "hidden": true,
+            "videoMute": false,
+            "tabTitleOverride": "New Back Bling",
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Flytrap",
+            "body": "An ally of the rain-forest and a master of entangling foes in wiry vines, this is one dangerous plant to cross.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 80,
+            "buttonTextOverride": "Check it Out",
+            "offerId": "v2:/701338835f2ad8b4ac646dd78ef3564da92562ef1df0ce8c1326489579507dfe",
+            "id": "Flytrap links to Item Shop",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "switch"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "NavigateToTab",
+            "image": "https://cdn2.unrealengine.com/13br-flytrap-motd-1920x1080-1920x1080-908496909.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-flytrap-motd-1024x512-1024x512-908496891.jpg",
+            "navigateToTabValue": "ShowAthenaItemShop",
+            "hidden": true,
+            "videoMute": false,
+            "tabTitleOverride": "New Back Bling",
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Flytrap",
+            "body": "An ally of the rain-forest and a master of entangling foes in wiry vines, this is one dangerous plant to cross.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 80,
+            "buttonTextOverride": "Check it Out",
+            "offerId": "v2:/701338835f2ad8b4ac646dd78ef3564da92562ef1df0ce8c1326489579507dfe",
+            "id": "Flytrap links to Item Shop",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "windows"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "NavigateToTab",
+            "image": "https://cdn2.unrealengine.com/13br-flytrap-motd-1920x1080-1920x1080-908496909.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-flytrap-motd-1024x512-1024x512-908496891.jpg",
+            "navigateToTabValue": "ShowAthenaItemShop",
+            "hidden": true,
+            "videoMute": false,
+            "tabTitleOverride": "New Back Bling",
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Flytrap",
+            "body": "An ally of the rain-forest and a master of entangling foes in wiry vines, this is one dangerous plant to cross.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 80,
+            "buttonTextOverride": "Check it Out",
+            "offerId": "v2:/701338835f2ad8b4ac646dd78ef3564da92562ef1df0ce8c1326489579507dfe",
+            "id": "Flytrap links to Item Shop",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "android"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "NavigateToTab",
+            "image": "https://cdn2.unrealengine.com/13br-flytrap-motd-1920x1080-1920x1080-908496909.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-flytrap-motd-1024x512-1024x512-908496891.jpg",
+            "navigateToTabValue": "ShowAthenaItemShop",
+            "hidden": true,
+            "videoMute": false,
+            "tabTitleOverride": "New Back Bling",
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Flytrap",
+            "body": "An ally of the rain-forest and a master of entangling foes in wiry vines, this is one dangerous plant to cross.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 80,
+            "buttonTextOverride": "Check it Out",
+            "offerId": "v2:/701338835f2ad8b4ac646dd78ef3564da92562ef1df0ce8c1326489579507dfe",
+            "id": "Flytrap links to Item Shop",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "XBoxOne"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "NavigateToTab",
+            "image": "https://cdn2.unrealengine.com/13br-flytrap-motd-1920x1080-1920x1080-908496909.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-flytrap-motd-1024x512-1024x512-908496891.jpg",
+            "navigateToTabValue": "ShowAthenaItemShop",
+            "hidden": true,
+            "videoMute": false,
+            "tabTitleOverride": "New Back Bling",
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Flytrap",
+            "body": "An ally of the rain-forest and a master of entangling foes in wiry vines, this is one dangerous plant to cross.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 80,
+            "buttonTextOverride": "Check it Out",
+            "offerId": "v2:/701338835f2ad8b4ac646dd78ef3564da92562ef1df0ce8c1326489579507dfe",
+            "id": "Flytrap links to Item Shop",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "PS4"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "NavigateToTab",
+            "image": "https://cdn2.unrealengine.com/14br-streetserpent-social-motd-1920x1080-1920x1080-890506822.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-streetserpent-social-motd-1024x512-1024x512-890505605.jpg",
+            "navigateToTabValue": "ShowAthenaItemShop",
+            "hidden": true,
+            "videoMute": false,
+            "tabTitleOverride": "New Pack ",
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Street Serpent Pack",
+            "body": "Sweep the streets with an unavoidable gaze and get 600 Vbucks with this new pack!",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 55,
+            "buttonTextOverride": "Check it Out",
+            "offerId": "3861E37541DC53BC9A0C848DDB2F87FF",
+            "id": "Street Serpent Pack",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "windows"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "NavigateToTab",
+            "image": "https://cdn2.unrealengine.com/14br-streetserpent-social-motd-1920x1080-1920x1080-890506822.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-streetserpent-social-motd-1024x512-1024x512-890505605.jpg",
+            "navigateToTabValue": "ShowAthenaItemShop",
+            "hidden": true,
+            "videoMute": false,
+            "tabTitleOverride": "New Pack ",
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Street Serpent Pack",
+            "body": "Sweep the streets with an unavoidable gaze and get 600 Vbucks with this new pack!",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 55,
+            "buttonTextOverride": "Check it Out",
+            "offerId": "3861E37541DC53BC9A0C848DDB2F87FF",
+            "id": "Street Serpent Pack",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "android"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "NavigateToTab",
+            "image": "https://cdn2.unrealengine.com/14br-streetserpent-social-motd-1920x1080-1920x1080-890506822.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-streetserpent-social-motd-1024x512-1024x512-890505605.jpg",
+            "navigateToTabValue": "ShowAthenaItemShop",
+            "hidden": true,
+            "videoMute": false,
+            "tabTitleOverride": "New Pack ",
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Street Serpent Pack",
+            "body": "Sweep the streets with an unavoidable gaze and get 600 Vbucks with this new pack!",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 55,
+            "buttonTextOverride": "Check it Out",
+            "offerId": "3861E37541DC53BC9A0C848DDB2F87FF",
+            "id": "Street Serpent Pack",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "XBoxOne"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "NavigateToTab",
+            "image": "https://cdn2.unrealengine.com/14br-streetserpent-social-motd-1920x1080-1920x1080-890506822.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-streetserpent-social-motd-1024x512-1024x512-890505605.jpg",
+            "navigateToTabValue": "ShowAthenaItemShop",
+            "hidden": true,
+            "videoMute": false,
+            "tabTitleOverride": "New Pack ",
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Street Serpent Pack",
+            "body": "Sweep the streets with an unavoidable gaze and get 600 Vbucks with this new pack!",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 55,
+            "buttonTextOverride": "Check it Out",
+            "offerId": "3861E37541DC53BC9A0C848DDB2F87FF",
+            "id": "Street Serpent Pack",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "PS4"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "playlistId": "Playlist_Nitrogen12_Duos",
+            "entryType": "Playlist",
+            "image": "https://cdn2.unrealengine.com/14br-tiltedtaxi-motd-1920x1080-1920x1080-891070584.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-tiltedtaxi-motd-1024x512-1024x512-891070581.jpg",
+            "videoMute": false,
+            "hidden": true,
+            "tabTitleOverride": "New LTM ",
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Tilted Taxis",
+            "body": "Drive your worst, er, best! Get behind the wheel to complete taxi fares and rule the roads. But stay alert, the streets will get crazy quick.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 60,
+            "buttonTextOverride": "Play Now ",
+            "id": "Tilted Taxi Taxi links to Playlist_Nitrogen12_Duos",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "switch"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "playlistId": "Playlist_Nitrogen12_Duos",
+            "entryType": "Playlist",
+            "image": "https://cdn2.unrealengine.com/14br-tiltedtaxi-motd-1920x1080-1920x1080-891070584.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-tiltedtaxi-motd-1024x512-1024x512-891070581.jpg",
+            "videoMute": false,
+            "hidden": true,
+            "tabTitleOverride": "New LTM ",
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Tilted Taxis",
+            "body": "Drive your worst, er, best! Get behind the wheel to complete taxi fares and rule the roads. But stay alert, the streets will get crazy quick.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 60,
+            "buttonTextOverride": "Play Now ",
+            "id": "Tilted Taxi links to Playlist_Nitrogen12_Duos",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "windows"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "playlistId": "Playlist_Nitrogen12_Duos",
+            "entryType": "Playlist",
+            "image": "https://cdn2.unrealengine.com/14br-tiltedtaxi-motd-1920x1080-1920x1080-891070584.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-tiltedtaxi-motd-1024x512-1024x512-891070581.jpg",
+            "videoMute": false,
+            "hidden": true,
+            "tabTitleOverride": "New LTM ",
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Tilted Taxis",
+            "body": "Drive your worst, er, best! Get behind the wheel to complete taxi fares and rule the roads. But stay alert, the streets will get crazy quick.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 60,
+            "buttonTextOverride": "Play Now ",
+            "id": "Tilted Taxi links to Playlist_Nitrogen12_Duos",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "android"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "playlistId": "Playlist_Nitrogen12_Duos",
+            "entryType": "Playlist",
+            "image": "https://cdn2.unrealengine.com/14br-tiltedtaxi-motd-1920x1080-1920x1080-891070584.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-tiltedtaxi-motd-1024x512-1024x512-891070581.jpg",
+            "videoMute": false,
+            "hidden": true,
+            "tabTitleOverride": "New LTM ",
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Tilted Taxis",
+            "body": "Drive your worst, er, best! Get behind the wheel to complete taxi fares and rule the roads. But stay alert, the streets will get crazy quick.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 60,
+            "buttonTextOverride": "Play Now ",
+            "id": "Tilted Taxi links to Playlist_Nitrogen12_Duos",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "XBoxOne"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "playlistId": "Playlist_Nitrogen12_Duos",
+            "entryType": "Playlist",
+            "image": "https://cdn2.unrealengine.com/14br-tiltedtaxi-motd-1920x1080-1920x1080-891070584.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-tiltedtaxi-motd-1024x512-1024x512-891070581.jpg",
+            "videoMute": false,
+            "hidden": true,
+            "tabTitleOverride": "New LTM ",
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Tilted Taxis",
+            "body": "Drive your worst, er, best! Get behind the wheel to complete taxi fares and rule the roads. But stay alert, the streets will get crazy quick.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 60,
+            "buttonTextOverride": "Play Now ",
+            "id": "Tilted Taxi links to Playlist_Nitrogen12_Duos",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "PS4"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "Text",
+            "image": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1920x1080-1920x1080-735237418.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1024x512-1024x512-735237414.jpg",
+            "hidden": true,
+            "videoMute": false,
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Chapter 2 - Season 4 Notice",
+            "body": "Apple has blocked your ability to update Fortnite on the App Store, and has said they will terminate our ability to develop Fortnite for Apple devices. As a result, Chapter 2 - Season 4 (v14.00) is unavailable on your device.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "id": "Apple Sustained Release",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "mac"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "Text",
+            "image": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1920x1080-1920x1080-735237418.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1024x512-1024x512-735237414.jpg",
+            "hidden": true,
+            "videoMute": false,
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Chapter 2 - Season 4 Notice",
+            "body": "With the launch of Season 4, players on Google Play will be unable to play the new Season. On this platform, players can still play version v13.40.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "id": "Google Sustained Release",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "androidGP"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "Text",
+            "image": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1920x1080-1920x1080-735237418.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1024x512-1024x512-735237414.jpg",
+            "hidden": true,
+            "videoMute": false,
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Chapter 2 - Season 4 Notice",
+            "body": "Apple has blocked your ability to update Fortnite on the App Store, and has said they will terminate our ability to develop Fortnite for Apple devices. As a result, Chapter 2 - Season 4 (v14.00) is unavailable on your device.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "id": "Apple Sustained Release",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "ios"
+        }
+      ]
+    },
+    "jcr:isCheckedOut": true,
+    "_title": "battleroyalenews",
+    "header": "",
+    "style": "None",
+    "_noIndex": false,
+    "alwaysShow": false,
+    "jcr:baseVersion": "a7ca237317f1e74ceede9c-f7d0-4ba9-a0d4-0db436828366",
+    "_activeDate": "2020-01-21T14:00:00.000Z",
+    "lastModified": "2020-09-02T23:06:24.333Z",
+    "_locale": "en-US"
+  },
+  "lobby": {
+    "backgroundimage": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/lobby/T_Lobby_SeasonX-2048x1024-24e02780ed533da8001016f4e6fb14dd15e2f860.png",
+    "stage": "seasonx",
+    "_title": "lobby",
+    "_activeDate": "2019-05-31T21:24:39.892Z",
+    "lastModified": "2019-07-31T21:24:17.119Z",
+    "_locale": "en-US"
+  },
+  "creativenews": {
+    "news": {
       "motds": [
         {
-          "entryType": "NavigateToTab",
-          "image": "https://cdn2.unrealengine.com/br07-motd-lilwhip-1920x1080-1920x1080-891090978.jpg",
-          "tileImage": "https://cdn2.unrealengine.com/br14-motd-lilwhip-1024x512-1024x512-890281631.jpg",
-          "navigateToTabValue": "ShowAthenaItemShop",
+          "entryType": "Text",
+          "image": "https://cdn2.unrealengine.com/14-0-07-musicrun-1920x1080-1920x1080-865882937.jpg",
+          "tileImage": "https://cdn2.unrealengine.com/14-0-07-musicrun-1024x512-1024x512-865882926.jpg",
+          "tabTitleOverride": "New Featured Island",
           "hidden": false,
           "videoMute": false,
           "_type": "CommonUI Simple Message MOTD",
-          "title": "Lil Whip",
-          "body": "Take on the heat with a sweet summer treat.",
+          "title": "Musicrun",
+          "body": "Co-Op, Difficulty Medium, Music, Puzzle\nGo play the community made Featured Island by TroxWe",
           "videoLoop": false,
           "videoStreamingEnabled": false,
-          "sortingPriority": 80,
-          "buttonTextOverride": "Grab It ",
-          "id": "Lil Whip links to Item Shop",
+          "sortingPriority": 50,
+          "id": "Musicrun New Featured Island",
           "videoAutoplay": false,
           "videoFullscreen": false,
           "spotlight": false
@@ -113,24 +571,23 @@
           "hidden": false,
           "_type": "CommonUI Simple Message MOTD Platform",
           "message": {
-            "entryType": "Text",
-            "image": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1920x1080-1920x1080-891082253.jpg",
-            "tileImage": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1024x512-1024x512-891082247.jpg",
+            "entryType": "NavigateToTab",
+            "image": "https://cdn2.unrealengine.com/13br-flytrap-motd-1920x1080-1920x1080-908496909.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-flytrap-motd-1024x512-1024x512-908496891.jpg",
+            "navigateToTabValue": "ShowAthenaItemShop",
             "hidden": true,
             "videoMute": false,
-            "tabTitleOverride": "New Location",
-            "experiment_id": 0,
+            "tabTitleOverride": "New Back Bling",
             "_type": "CommonUI Simple Message MOTD",
-            "cameraTag": "",
-            "title": "Doom's Domain",
-            "body": "Infiltrate Doom\u2019s Domain and take down Doctor Doom to harness the power of chaos and wield powerful abilities.",
+            "title": "Flytrap",
+            "body": "An ally of the rain-forest and a master of entangling foes in wiry vines, this is one dangerous plant to cross.",
             "videoLoop": false,
             "videoStreamingEnabled": false,
-            "sortingPriority": 40,
-            "buttonTextOverride": "View the Battle Pass",
-            "id": "Dooms Domain",
+            "sortingPriority": 80,
+            "buttonTextOverride": "Check it Out",
+            "offerId": "v2:/701338835f2ad8b4ac646dd78ef3564da92562ef1df0ce8c1326489579507dfe",
+            "id": "Flytrap links to Item Shop",
             "videoAutoplay": false,
-            "experiment_percent": 0,
             "videoFullscreen": false,
             "spotlight": false
           },
@@ -140,24 +597,23 @@
           "hidden": false,
           "_type": "CommonUI Simple Message MOTD Platform",
           "message": {
-            "entryType": "Text",
-            "image": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1920x1080-1920x1080-891082253.jpg",
-            "tileImage": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1024x512-1024x512-891082247.jpg",
+            "entryType": "NavigateToTab",
+            "image": "https://cdn2.unrealengine.com/13br-flytrap-motd-1920x1080-1920x1080-908496909.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-flytrap-motd-1024x512-1024x512-908496891.jpg",
+            "navigateToTabValue": "ShowAthenaItemShop",
             "hidden": true,
             "videoMute": false,
-            "tabTitleOverride": "New Location",
-            "experiment_id": 0,
+            "tabTitleOverride": "New Back Bling",
             "_type": "CommonUI Simple Message MOTD",
-            "cameraTag": "",
-            "title": "Doom's Domain",
-            "body": "Infiltrate Doom\u2019s Domain and take down Doctor Doom to harness the power of chaos and wield powerful abilities.",
+            "title": "Flytrap",
+            "body": "An ally of the rain-forest and a master of entangling foes in wiry vines, this is one dangerous plant to cross.",
             "videoLoop": false,
             "videoStreamingEnabled": false,
-            "sortingPriority": 40,
-            "buttonTextOverride": "View the Battle Pass",
-            "id": "Dooms Domain",
+            "sortingPriority": 80,
+            "buttonTextOverride": "Check it Out",
+            "offerId": "v2:/701338835f2ad8b4ac646dd78ef3564da92562ef1df0ce8c1326489579507dfe",
+            "id": "Flytrap links to Item Shop",
             "videoAutoplay": false,
-            "experiment_percent": 0,
             "videoFullscreen": false,
             "spotlight": false
           },
@@ -167,24 +623,23 @@
           "hidden": false,
           "_type": "CommonUI Simple Message MOTD Platform",
           "message": {
-            "entryType": "Text",
-            "image": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1920x1080-1920x1080-891082253.jpg",
-            "tileImage": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1024x512-1024x512-891082247.jpg",
+            "entryType": "NavigateToTab",
+            "image": "https://cdn2.unrealengine.com/13br-flytrap-motd-1920x1080-1920x1080-908496909.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-flytrap-motd-1024x512-1024x512-908496891.jpg",
+            "navigateToTabValue": "ShowAthenaItemShop",
             "hidden": true,
             "videoMute": false,
-            "tabTitleOverride": "New Location",
-            "experiment_id": 0,
+            "tabTitleOverride": "New Back Bling",
             "_type": "CommonUI Simple Message MOTD",
-            "cameraTag": "",
-            "title": "Doom's Domain",
-            "body": "Infiltrate Doom\u2019s Domain and take down Doctor Doom to harness the power of chaos and wield powerful abilities.",
+            "title": "Flytrap",
+            "body": "An ally of the rain-forest and a master of entangling foes in wiry vines, this is one dangerous plant to cross.",
             "videoLoop": false,
             "videoStreamingEnabled": false,
-            "sortingPriority": 40,
-            "buttonTextOverride": "View the Battle Pass",
-            "id": "Dooms Domain",
+            "sortingPriority": 80,
+            "buttonTextOverride": "Check it Out",
+            "offerId": "v2:/701338835f2ad8b4ac646dd78ef3564da92562ef1df0ce8c1326489579507dfe",
+            "id": "Flytrap links to Item Shop",
             "videoAutoplay": false,
-            "experiment_percent": 0,
             "videoFullscreen": false,
             "spotlight": false
           },
@@ -194,24 +649,23 @@
           "hidden": false,
           "_type": "CommonUI Simple Message MOTD Platform",
           "message": {
-            "entryType": "Text",
-            "image": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1920x1080-1920x1080-891082253.jpg",
-            "tileImage": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1024x512-1024x512-891082247.jpg",
+            "entryType": "NavigateToTab",
+            "image": "https://cdn2.unrealengine.com/13br-flytrap-motd-1920x1080-1920x1080-908496909.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-flytrap-motd-1024x512-1024x512-908496891.jpg",
+            "navigateToTabValue": "ShowAthenaItemShop",
             "hidden": true,
             "videoMute": false,
-            "tabTitleOverride": "New Location",
-            "experiment_id": 0,
+            "tabTitleOverride": "New Back Bling",
             "_type": "CommonUI Simple Message MOTD",
-            "cameraTag": "",
-            "title": "Doom's Domain",
-            "body": "Infiltrate Doom\u2019s Domain and take down Doctor Doom to harness the power of chaos and wield powerful abilities.",
+            "title": "Flytrap",
+            "body": "An ally of the rain-forest and a master of entangling foes in wiry vines, this is one dangerous plant to cross.",
             "videoLoop": false,
             "videoStreamingEnabled": false,
-            "sortingPriority": 40,
-            "buttonTextOverride": "View the Battle Pass",
-            "id": "Dooms Domain",
+            "sortingPriority": 80,
+            "buttonTextOverride": "Check it Out",
+            "offerId": "v2:/701338835f2ad8b4ac646dd78ef3564da92562ef1df0ce8c1326489579507dfe",
+            "id": "Flytrap links to Item Shop",
             "videoAutoplay": false,
-            "experiment_percent": 0,
             "videoFullscreen": false,
             "spotlight": false
           },
@@ -221,106 +675,95 @@
           "hidden": false,
           "_type": "CommonUI Simple Message MOTD Platform",
           "message": {
-            "entryType": "Text",
-            "image": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1920x1080-1920x1080-891082253.jpg",
-            "tileImage": "https://cdn2.unrealengine.com/14br-bplaunch-poi-doomsdomain-motd-1024x512-1024x512-891082247.jpg",
-            "videoMute": false,
+            "entryType": "NavigateToTab",
+            "image": "https://cdn2.unrealengine.com/13br-flytrap-motd-1920x1080-1920x1080-908496909.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-flytrap-motd-1024x512-1024x512-908496891.jpg",
+            "navigateToTabValue": "ShowAthenaItemShop",
             "hidden": true,
-            "tabTitleOverride": "New Location",
-            "experiment_id": 0,
+            "videoMute": false,
+            "tabTitleOverride": "New Back Bling",
             "_type": "CommonUI Simple Message MOTD",
-            "cameraTag": "",
-            "title": "Doom's Domain",
-            "body": "Infiltrate Doom\u2019s Domain and take down Doctor Doom to harness the power of chaos and wield powerful abilities.",
+            "title": "Flytrap",
+            "body": "An ally of the rain-forest and a master of entangling foes in wiry vines, this is one dangerous plant to cross.",
             "videoLoop": false,
-            "websiteButtonText": "",
             "videoStreamingEnabled": false,
-            "sortingPriority": 40,
-            "websiteURL": "",
-            "buttonTextOverride": "View the Battle Pass",
-            "id": "Dooms Domain",
+            "sortingPriority": 80,
+            "buttonTextOverride": "Check it Out",
+            "offerId": "v2:/701338835f2ad8b4ac646dd78ef3564da92562ef1df0ce8c1326489579507dfe",
+            "id": "Flytrap links to Item Shop",
             "videoAutoplay": false,
-            "experiment_percent": 0,
             "videoFullscreen": false,
             "spotlight": false
           },
           "platform": "PS4"
-        }
-      ]
-    },
-    "jcr:isCheckedOut": true,
-    "_title": "battleroyalenews",
-    "header": "",
-    "style": "None",
-    "_noIndex": false,
-    "alwaysShow": false,
-    "jcr:baseVersion": "a7ca237317f1e7f967cd06-73fa-40ee-b6e4-da035f6732f0",
-    "_activeDate": "2020-01-21T14:00:00.000Z",
-    "lastModified": "2020-08-31T23:59:15.945Z",
-    "_locale": "en-US"
-  },
-  "lobby": {
-    "backgroundimage": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/lobby/T_Lobby_SeasonX-2048x1024-24e02780ed533da8001016f4e6fb14dd15e2f860.png",
-    "stage": "seasonx",
-    "_title": "lobby",
-    "_activeDate": "2019-05-31T21:24:39.892Z",
-    "lastModified": "2019-07-31T21:24:17.119Z",
-    "_locale": "en-US"
-  },
-  "creativenews": {
-    "news": {
-      "motds": [
-        {
-          "entryType": "Text",
-          "image": "https://cdn2.unrealengine.com/14-0-05-completedestructionroyale-1920x1080-1920x1080-865882909.jpg",
-          "tileImage": "https://cdn2.unrealengine.com/14-0-05-completedestructionroyale-1024x512-1024x512-865882904.jpg",
-          "tabTitleOverride": "New Featured Island",
-          "hidden": false,
-          "videoMute": false,
-          "_type": "CommonUI Simple Message MOTD",
-          "title": "Complete Destruction Royale",
-          "body": "Battle Royale, Artistic, Free For All, One Life\nGo play the community made Featured Island by prudiz",
-          "videoLoop": false,
-          "videoStreamingEnabled": false,
-          "sortingPriority": 70,
-          "id": "Complete Destruction Royale New Featured Island",
-          "videoAutoplay": false,
-          "videoFullscreen": false,
-          "spotlight": false
         },
         {
-          "entryType": "NavigateToTab",
-          "image": "https://cdn2.unrealengine.com/br07-motd-lilwhip-1920x1080-1920x1080-891090978.jpg",
-          "tileImage": "https://cdn2.unrealengine.com/br14-motd-lilwhip-1024x512-1024x512-890281631.jpg",
-          "navigateToTabValue": "ShowAthenaItemShop",
           "hidden": false,
-          "videoMute": false,
-          "_type": "CommonUI Simple Message MOTD",
-          "title": "Lil Whip",
-          "body": "Take on the heat with a sweet summer treat.",
-          "videoLoop": false,
-          "videoStreamingEnabled": false,
-          "sortingPriority": 80,
-          "buttonTextOverride": "Grab It ",
-          "id": "Lil Whip links to Item Shop",
-          "videoAutoplay": false,
-          "videoFullscreen": false,
-          "spotlight": false
-        }
-      ],
-      "_type": "Battle Royale News",
-      "messages": [
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "Text",
+            "image": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1920x1080-1920x1080-735237418.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1024x512-1024x512-735237414.jpg",
+            "hidden": true,
+            "videoMute": false,
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Chapter 2 - Season 4 Notice",
+            "body": "Apple has blocked your ability to update Fortnite on the App Store, and has said they will terminate our ability to develop Fortnite for Apple devices. As a result, Chapter 2 - Season 4 (v14.00) is unavailable on your device.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 99,
+            "id": "Apple Sustained Release",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "mac"
+        },
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",
           "hidden": false,
-          "messagetype": "normal",
-          "_type": "CommonUI Simple Message Base",
-          "title": "Keep Your Account Secure",
-          "body": "Avoid scam sites offering free V-Bucks. Epic will never ask for your password. Enable Two-Factor Authentication to help stay secure!",
-          "spotlight": false
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "Text",
+            "image": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1920x1080-1920x1080-735237418.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1024x512-1024x512-735237414.jpg",
+            "hidden": true,
+            "videoMute": false,
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Chapter 2 - Season 4 Notice",
+            "body": "With the launch of Season 4, players on Google Play will be unable to play the new Season. On this platform, players can still play version v13.40.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 99,
+            "id": "Google Sustained Release",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "androidGP"
+        },
+        {
+          "hidden": false,
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "message": {
+            "entryType": "Text",
+            "image": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1920x1080-1920x1080-735237418.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1024x512-1024x512-735237414.jpg",
+            "hidden": true,
+            "videoMute": false,
+            "_type": "CommonUI Simple Message MOTD",
+            "title": "Chapter 2 - Season 4 Notice",
+            "body": "Apple has blocked your ability to update Fortnite on the App Store, and has said they will terminate our ability to develop Fortnite for Apple devices. As a result, Chapter 2 - Season 4 (v14.00) is unavailable on your device.",
+            "videoLoop": false,
+            "videoStreamingEnabled": false,
+            "sortingPriority": 99,
+            "id": "Apple Sustained Release",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "spotlight": false
+          },
+          "platform": "ios"
         }
-      ],
-      "platform_motds": []
+      ]
     },
     "jcr:isCheckedOut": true,
     "_title": "Creativenews",
@@ -328,15 +771,24 @@
     "style": "None",
     "_noIndex": false,
     "alwaysShow": false,
-    "jcr:baseVersion": "a7ca237317f1e7920394ab-f546-4306-b0ca-09a2eaa55dfb",
+    "jcr:baseVersion": "a7ca237317f1e77fb347c6-4dd0-4a63-86ea-9eeef1fa1680",
     "_activeDate": "2020-01-22T00:00:00.000Z",
-    "lastModified": "2020-08-31T23:35:40.813Z",
+    "lastModified": "2020-09-02T23:07:56.788Z",
     "_locale": "en-US"
   },
   "savetheworldnews": {
     "news": {
       "_type": "Battle Royale News",
       "messages": [
+        {
+          "image": "https://cdn2.unrealengine.com/13stw-directorriggs-motd-1024x512-1024x512-682778399.jpg",
+          "hidden": false,
+          "_type": "CommonUI Simple Message Base",
+          "adspace": "LEAVING SOON!",
+          "title": "Yarr's Return",
+          "body": "Blakebeard\u2019s ghost is having trouble fitting in with the other ghost pirates. He has no legacy to draw from and Ray wants to help him out!",
+          "spotlight": false
+        },
         {
           "image": "https://cdn2.unrealengine.com/10stw-hotmix-motd-1024x512-682778365.jpg",
           "hidden": false,
@@ -347,21 +799,12 @@
           "spotlight": false
         },
         {
-          "image": "https://cdn2.unrealengine.com/10stw-boombox-hammer-motd-1024x512-682778334.jpg",
+          "image": "https://cdn2.unrealengine.com/13stw-dennis-motd-1024x512-1024x512-538021446.jpg",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "LEAVING SOON!",
-          "title": "Surround Pound",
-          "body": "Create a massive bass drop with the Surround Pound! Smash the ground, creating a series of sonic pulses that damage and knock back enemies.",
-          "spotlight": false
-        },
-        {
-          "image": "https://cdn2.unrealengine.com/dennis-jr-1024x512-682778428.jpg",
-          "hidden": false,
-          "_type": "CommonUI Simple Message Base",
-          "adspace": "LEAVING SOON!",
-          "title": "Dennis Jr",
-          "body": "Break out the axe and Introduce the Husks to the shredder himself, Dennis Jr! This Hero unlocks the \"\"Totally Rockin' Out\"\" Team Perk.",
+          "title": "Impostor",
+          "body": "Search the newly discovered Blasted Badlands for a true Hero! Train Dennis to become a warrior in the new Blasted Badlands Venture Zone to unlock Homebase\u2019s own burger boss!",
           "spotlight": false
         }
       ]
@@ -370,14 +813,59 @@
     "_title": "SaveTheWorldNews",
     "_noIndex": false,
     "alwaysShow": false,
-    "jcr:baseVersion": "a7ca237317f1e77db3789a-8318-418b-9200-64e8f73fda1d",
+    "jcr:baseVersion": "a7ca237317f1e72dc8a632-798a-48f6-85c0-b5f0f7bf1005",
     "_activeDate": "2020-01-22T00:00:00.000Z",
-    "lastModified": "2020-09-01T00:06:49.800Z",
+    "lastModified": "2020-09-02T00:58:51.889Z",
     "_locale": "en-US"
   },
   "playersurvey": {
     "s": {
       "s": [
+        {
+          "q": [
+            {
+              "mc": {
+                "s": "standard",
+                "c": [
+                  {
+                    "t": "Test1",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Test2",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Test3",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  }
+                ],
+                "t": "Test",
+                "_type": "Player Survey - Multiple Choice Question"
+              },
+              "_type": "Player Survey - Question Container"
+            }
+          ],
+          "rt": true,
+          "r": "rm",
+          "pr": {
+            "_type": "Player Survey - Message"
+          },
+          "hidden": false,
+          "t": "Test",
+          "sg": [
+            "a"
+          ],
+          "e": false,
+          "_type": "Player Survey - Survey",
+          "cm": {
+            "_type": "Player Survey - Message"
+          },
+          "id": "200901_testsurvey_1",
+          "po": {
+            "_type": "Player Survey - Message"
+          }
+        },
         {
           "rt": false,
           "pr": {
@@ -10144,9 +10632,9 @@
     "jcr:isCheckedOut": true,
     "_title": "playersurvey",
     "_noIndex": false,
-    "jcr:baseVersion": "a7ca237317f1e77b62e375-f7ef-45dc-8dde-838b1147a49a",
+    "jcr:baseVersion": "a7ca237317f1e71350fb8c-8886-4de5-aaf2-0f9b08e58ffa",
     "_activeDate": "2019-10-15T07:50:00.000Z",
-    "lastModified": "2020-08-28T17:15:24.226Z",
+    "lastModified": "2020-09-01T19:33:07.586Z",
     "_locale": "en-US"
   },
   "battlepassaboutmessages": {
@@ -10189,7 +10677,6 @@
   },
   "emergencynotice": {
     "news": {
-      "platform_messages": [],
       "_type": "Battle Royale News",
       "messages": [],
       "region_messages": [
@@ -10224,9 +10711,9 @@
     "_title": "emergencynotice",
     "_noIndex": false,
     "alwaysShow": false,
-    "jcr:baseVersion": "a7ca237317f1e71c41ef5a-6486-4716-82be-ce7bff1f7cff",
+    "jcr:baseVersion": "a7ca237317f1e799fe3c05-bab1-4b3d-b95f-ee873757eb1d",
     "_activeDate": "2018-08-06T19:00:26.217Z",
-    "lastModified": "2020-08-27T21:56:04.852Z",
+    "lastModified": "2020-09-02T16:58:45.705Z",
     "_locale": "en-US"
   },
   "koreancafe": {
@@ -10347,6 +10834,12 @@
   "playlistinformation": {
     "is_tile_hidden": true,
     "frontend_matchmaking_header_style": "None",
+    "conversion_config": {
+      "containerName": "playlist_info",
+      "_type": "Conversion Config",
+      "enableReferences": false,
+      "contentName": "playlists"
+    },
     "jcr:isCheckedOut": true,
     "show_ad_violator": false,
     "_title": "playlistinformation",
@@ -11595,9 +12088,9 @@
       ]
     },
     "_noIndex": false,
-    "jcr:baseVersion": "a7ca237317f1e76cac0f08-764d-42ae-9e60-1549acef9805",
+    "jcr:baseVersion": "a7ca237317f1e7e36ddec7-d981-4b2d-a017-a559d8a897f0",
     "_activeDate": "2018-04-25T15:05:39.956Z",
-    "lastModified": "2020-09-01T13:09:27.477Z",
+    "lastModified": "2020-09-02T05:46:49.026Z",
     "_locale": "en-US"
   },
   "creativeFeatures": {
@@ -11615,6 +12108,32 @@
     "jcr:isCheckedOut": true,
     "tournament_info": {
       "tournaments": [
+        {
+          "title_color": "FFFFFF",
+          "loading_screen_image": "https://cdn2.unrealengine.com/14br-competitive-in-game-hypecup-modetile-1024x512-905622443.jpg",
+          "background_text_color": "3A1598",
+          "background_right_color": "9933FF",
+          "poster_back_image": "https://cdn2.unrealengine.com/14br-competitive-in-game-hypecup-poster-back-750x1080-905622310.jpg",
+          "_type": "Tournament Display Info",
+          "pin_earned_text": "Winner!",
+          "tournament_display_id": "s14_season4hype",
+          "highlight_color": "06E4FF",
+          "schedule_info": "September 6th",
+          "primary_color": "06E4FF",
+          "flavor_description": "Gather your Trio and hop in the first tournament of the new Season!",
+          "poster_front_image": "https://cdn2.unrealengine.com/14br-competitive-in-game-hypecup-poster-front-750x1080-905622235.jpg",
+          "short_format_title": "Trios Tournament",
+          "title_line_2": "Hype Cup",
+          "title_line_1": "Season 4",
+          "shadow_color": "37038F",
+          "details_description": "Welcome to Chapter 2 - Season 4! This tournament is open to everyone and awards Hype to the top players. Full Details at https://www.epicgames.com/fortnite/competitive/",
+          "background_left_color": "3A1598",
+          "long_format_title": "New Season Hype Cup",
+          "poster_fade_color": "9933FF",
+          "secondary_color": "37178D",
+          "playlist_tile_image": "https://cdn2.unrealengine.com/14br-competitive-in-game-hypecup-modetile-1024x512-905622443.jpg",
+          "base_color": "FFFFFF"
+        },
         {
           "title_color": "FFFFFF",
           "loading_screen_image": "https://cdn2.unrealengine.com/13br-competitive-in-game-dreamhackopen-modetile-2-1024x512-319765874.jpg",
@@ -19029,9 +19548,9 @@
     },
     "_title": "tournamentinformation",
     "_noIndex": false,
-    "jcr:baseVersion": "a7ca237317f1e7ca73df6b-d11f-43af-b54b-37d52d5270cd",
+    "jcr:baseVersion": "a7ca237317f1e7c1593116-fb9c-4535-9de6-48d7bb6e4795",
     "_activeDate": "2018-11-13T22:32:47.734Z",
-    "lastModified": "2020-09-01T16:32:15.799Z",
+    "lastModified": "2020-09-02T14:43:11.130Z",
     "_locale": "en-US"
   },
   "creativeAds": {
