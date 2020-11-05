@@ -4,3 +4,4 @@
 *.iml
 Cache/
 *.json
+/Settings/SECRET.py

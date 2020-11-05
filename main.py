@@ -11,7 +11,7 @@ import discord
 from PIL import Image
 from discord.ext import commands
 
-from Settings import SETTINGS, book
+from Settings import SETTINGS, book, SECRET
 
 client = commands.Bot(command_prefix=[".", "-", ">"])  # , shard_count=3)
 client.remove_command("help")
@@ -176,7 +176,7 @@ async def cogs(ctx):
 
 
 loop = asyncio.get_event_loop()
-loop.create_task(client.start(SETTINGS.TOKEN, bot=True))
+loop.create_task(client.start(SECRET.TOKEN, bot=True))
 try:
     loop.run_forever()
 finally:
