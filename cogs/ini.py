@@ -58,7 +58,7 @@ class ini(commands.Cog):
                     for i2 in templist:
                         if i2 == "":
                             continue
-                        if len(i2) > 2500:
+                        if len(i2) > 1500:
                             async with aiofiles.open("Cache/temp.txt", mode="w+", encoding="utf8") as file:
                                 await file.write(str(i2))
                             file = discord.File("Cache/temp.txt")
