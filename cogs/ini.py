@@ -36,21 +36,21 @@ class ini(commands.Cog):
                     if data.status != 200:
                         continue
                     try:
-                        oldd = await (
+                        old = await (
                             await aiofiles.open(f'Cache/ini/{i}', mode='r', encoding="utf8")).read()
                     except:
-                        oldd = ""
+                        old = ""
                     text = str(await data.text())
                     templist = []
                     changes = ""
-                    for oldline in oldd.splitlines():
+                    for oldline in old.splitlines():
                         if oldline not in text.splitlines():
                             if oldline == "":
                                 continue
                             changes += f"- {oldline}\n"
 
                     for line in text.splitlines():
-                        if line in oldd.splitlines():
+                        if line in old.splitlines():
                             continue
                         else:
                             changes += f"+ {line}\n"
@@ -63,10 +63,10 @@ class ini(commands.Cog):
                                 await file.write(str(i2))
                             file = discord.File("Cache/temp.txt")
                             await self.client.get_channel(743191744161775758).send(
-                                f"Detected Changes for **{i}**", file=file)
+                                f"Detected Changes in **{i}**", file=file)
                         else:
                             await self.client.get_channel(743191744161775758).send(
-                                f"Detected Changes for **{i}**\n```ini\n{i2}\n```")
+                                f"Detected changes in **{i}**\n```diff\n{i2}\n```")
                     async with aiofiles.open(f"Cache/ini/{i}", mode="w+", encoding="utf8") as file:
                         await file.write(text)
         print("Fertig")
