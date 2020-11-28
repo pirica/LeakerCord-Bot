@@ -62,10 +62,10 @@ class ini(commands.Cog):
                             async with aiofiles.open("Cache/temp.txt", mode="w+", encoding="utf8") as file:
                                 await file.write(str(i2))
                             file = discord.File("Cache/temp.txt")
-                            await self.client.get_channel(773914053181046846).send(
+                            await self.client.get_channel(743191744161775758).send(
                                 f"Detected Changes in **{i}**", file=file)
                         else:
-                            await self.client.get_channel(773914053181046846).send(
+                            await self.client.get_channel(743191744161775758).send(
                                 f"Detected changes in **{i}**\n```diff\n{i2}\n```")
                     async with aiofiles.open(f"Cache/ini/{i}", mode="w+", encoding="utf8") as file:
                         await file.write(text)
