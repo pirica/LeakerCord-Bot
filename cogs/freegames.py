@@ -42,23 +42,23 @@ class free(commands.Cog):
                 embed = discord.Embed(color=SETTINGS.embedcolor, title=i["title"])
                 try:
                     embed.add_field(name="Start:", value=f"{i['promotions']['promotionalOffers'][0]['promotionalOffers'][0]['startDate'].split('T')[0]}\n")
-                except:
+                except KeyError:
                     pass
                 try:
                     embed.add_field(name="End:", value=f"{i['promotions']['promotionalOffers'][0]['promotionalOffers'][0]['endDate'].split('T')[0]}\n\n")
-                except:
+                except KeyError:
                     pass
                 try:
                     embed.add_field(name="Start:", value=f"{i['promotions']['upcomingPromotionalOffers'][0]['promotionalOffers'][0]['startDate'].split('T')[0]}\n")
-                except:
+                except KeyError:
                     pass
                 try:
                     embed.add_field(name="End:", value=f"{i['promotions']['upcomingPromotionalOffers'][0]['promotionalOffers'][0]['endDate'].split('T')[0]}\n\n")
-                except:
+                except KeyError:
                     pass
                 try:
                     embed.add_field(name="Original Price:", value=f"{i['price']['totalPrice']['fmtPrice']['originalPrice']}")
-                except:
+                except KeyError:
                     pass
                 embed.set_image(url=i['keyImages'][0]['url'].replace(" ", ""))
                 await self.client.get_channel(747731560945549414).send(embed=embed)
