@@ -1,0 +1,4935 @@
+{
+  "id": "5a8ae9c6b95d537ef2173cd1",
+  "name": "Fortnite | Community Issues",
+  "closed": false,
+  "dateLastActivity": "2021-01-05T23:27:17.837Z",
+  "datePluginDisable": null,
+  "idOrganization": "5a8edb8f4b19fcf171454b70",
+  "shortLink": "Bs7hgkma",
+  "creationMethod": null,
+  "desc": "",
+  "descData": null,
+  "idTags": [],
+  "powerUps": [],
+  "dateLastView": null,
+  "shortUrl": "https://trello.com/b/Bs7hgkma",
+  "url": "https://trello.com/b/Bs7hgkma/fortnite-community-issues",
+  "subscribed": null,
+  "limits": {
+    "attachments": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 36000,
+        "warnAt": 32400
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 900
+      }
+    },
+    "boards": {
+      "totalMembersPerBoard": {
+        "status": "ok",
+        "disableAt": 1600,
+        "warnAt": 1440
+      }
+    },
+    "cards": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4500
+      },
+      "openPerList": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4500
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 2000000,
+        "warnAt": 1800000
+      },
+      "totalPerList": {
+        "status": "ok",
+        "disableAt": 1000000,
+        "warnAt": 900000
+      }
+    },
+    "checklists": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 2000000,
+        "warnAt": 1800000
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 450
+      }
+    },
+    "checkItems": {
+      "perChecklist": {
+        "status": "ok",
+        "disableAt": 200,
+        "warnAt": 180
+      }
+    },
+    "customFields": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 45
+      }
+    },
+    "customFieldOptions": {
+      "perField": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 45
+      }
+    },
+    "labels": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 900
+      }
+    },
+    "lists": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 450
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 3000,
+        "warnAt": 2700
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 63
+      }
+    },
+    "reactions": {
+      "perAction": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 900
+      },
+      "uniquePerAction": {
+        "status": "ok",
+        "disableAt": 17,
+        "warnAt": 16
+      }
+    }
+  },
+  "enterpriseOwned": true,
+  "premiumFeatures": [
+    "activity",
+    "advancedChecklists",
+    "boardExport",
+    "butlerBC",
+    "butlerEnterprise",
+    "csvExport",
+    "deactivated",
+    "enterpriseUI",
+    "export",
+    "goldMembers",
+    "googleApps",
+    "inviteBoard",
+    "inviteOrg",
+    "observers",
+    "plugins",
+    "privateTemplates",
+    "readSecrets",
+    "removal",
+    "restrictVis",
+    "shortExportHistory",
+    "starCounts",
+    "stats",
+    "superAdmins",
+    "tags",
+    "views"
+  ],
+  "idEnterprise": "5ce4b2aaabe4e411eb0093fd",
+  "templateGallery": null,
+  "prefs": {
+    "permissionLevel": "public",
+    "hideVotes": false,
+    "voting": "disabled",
+    "comments": "disabled",
+    "invitations": "admins",
+    "selfJoin": false,
+    "cardCovers": true,
+    "isTemplate": false,
+    "cardAging": "regular",
+    "calendarFeedEnabled": false,
+    "background": "5fc72a3bcf939f3f15e79f0c",
+    "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/5a0c46aae039910e125e51aa/original/414c61c6ad50536934f70b78068afe7b/15BPL_Trello_Background.jpg",
+    "backgroundImageScaled": [
+      {
+        "width": 140,
+        "height": 79,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/5a0c46aae039910e125e51aa/140x79/934910b48c3f4c8aa9a85658c1943eb6/15BPL_Trello_Background.jpg"
+      },
+      {
+        "width": 256,
+        "height": 144,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/5a0c46aae039910e125e51aa/256x144/934910b48c3f4c8aa9a85658c1943eb6/15BPL_Trello_Background.jpg"
+      },
+      {
+        "width": 480,
+        "height": 270,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/5a0c46aae039910e125e51aa/480x270/934910b48c3f4c8aa9a85658c1943eb6/15BPL_Trello_Background.jpg"
+      },
+      {
+        "width": 960,
+        "height": 540,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/5a0c46aae039910e125e51aa/960x540/934910b48c3f4c8aa9a85658c1943eb6/15BPL_Trello_Background.jpg"
+      },
+      {
+        "width": 1024,
+        "height": 576,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/5a0c46aae039910e125e51aa/1024x576/934910b48c3f4c8aa9a85658c1943eb6/15BPL_Trello_Background.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 720,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/5a0c46aae039910e125e51aa/1280x720/934910b48c3f4c8aa9a85658c1943eb6/15BPL_Trello_Background.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 1080,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/5a0c46aae039910e125e51aa/original/414c61c6ad50536934f70b78068afe7b/15BPL_Trello_Background.jpg"
+      }
+    ],
+    "backgroundTile": false,
+    "backgroundBrightness": "light",
+    "backgroundBottomColor": "#40362f",
+    "backgroundTopColor": "#c45434",
+    "canBePublic": false,
+    "canBeEnterprise": false,
+    "canBeOrg": false,
+    "canBePrivate": false,
+    "canInvite": true
+  },
+  "labelNames": {
+    "green": "Fixed in Live",
+    "yellow": "Fixed in Next Game Update",
+    "orange": "Investigating",
+    "red": "Major",
+    "purple": "Make Good",
+    "blue": "Please Read Update",
+    "sky": "Workaround Included",
+    "lime": "Completed",
+    "pink": "Make Good Complete",
+    "black": "Important"
+  },
+  "cards": [
+    {
+      "id": "5a8ed41995bf238ce016bc55",
+      "closed": false,
+      "dateLastActivity": "2021-01-01T23:37:39.808Z",
+      "desc": "\n**In-Game Bug Reporting**\nFound a bug? Report it within Fortnite using the in-game reporting. Follow these steps:\n\n1. Open the Menu in the top corner\n2. Select \u2018Reporting/Feedback\u2019\n3. Check the \u2018Report A Bug\u2019 option\n4. Select the appropriate categories to describe the bug you're experiencing.\n\n----------------\n**Bug Reporting on Reddit**\nGot a video or screenshot of your issue? Let us know on Reddit and make sure to include the \"Bug\" tag!\n\n- [Battle Royale subreddit](https://www.reddit.com/r/FortNiteBR/)\n- [Creative subreddit](https://www.reddit.com/r/FortniteCreative/)\n- [Save The World subreddit](https://www.reddit.com/r/FORTnITE/)\n- [Mobile subreddit](https://www.reddit.com/r/FortNiteMobile/)\n\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": "",
+      "idList": "5a8af516be70fabe10706245",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 44,
+      "idLabels": [
+        "5a8ba5f003e0f949dbc40bef"
+      ],
+      "name": "Found a Bug? Report it!",
+      "pos": 4095.9375,
+      "shortLink": "WDHTqfIl",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/WDHTqfIl",
+      "subscribed": false,
+      "url": "https://trello.com/c/WDHTqfIl/44-found-a-bug-report-it",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5a8ba5f003e0f949dbc40bef",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Need Your Help",
+          "color": "red"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5f5a4d00bc4f59285d149d46",
+      "closed": false,
+      "dateLastActivity": "2020-12-29T21:16:08.023Z",
+      "desc": "Apple is blocking Fortnite updates and new installs on the App Store, and terminated our ability to develop Fortnite for Apple devices.  The following issues may be encountered on the 13.40 version of Fortnite, available to existing installs on iOS and Google Play.\n\nFor more information, visit our blog here: https://www.epicgames.com/fortnite/news/freefortnite\n\n----------------\n\n*Fortnite iOS players updating to iOS 14*\n**Description**\n\nFortnite iOS players updating to iOS 14 may lose access to Fortnite. If the message \u201cTemporarily Remove Apps to Install the Software Update?\u201d is accepted, it may result in Fortnite being deleted. Fortnite cannot later be reinstalled due to Apple preventing users from doing so.\n\niOS players who wish to continue playing Fortnite should press Cancel first. Then, to free up space you can offload apps or media by going to Settings->General->iPhone Storage. Once you have cleared out enough space, attempt the update again and the prompt will no longer appear.\n\n**Platforms**\niOS \n\n\n----------------\n\n*Saved Settings issue*\n**Description**\n Player settings do not save when logging onto the same account on different platforms.\n\n**Platforms**\niOS and Google Play\n\n**JIRA**\nFORT-298769\n\n----------------\n*Battle Pass level display*\n**Description**\nPlayers Battle Pass level displays v14.00 Battle Pass level vs v13.40, and may see a Season 4 Battle Pass rewards window if they didn\u2019t accept them on a different device.\n\n**Platforms**\nMac/iOS and Google Play\n\n----------------\n*HUD Layout Cloud Saves*\n**Description**\n\nHUD Layout Tool cloud saves do not apply between platforms or devices on different versions.\n\n**Platforms**\niOS and Google Play\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8af516be70fabe10706245",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1453,
+      "idLabels": [
+        "5da5ab548e0d6a416c7f47e9"
+      ],
+      "name": "#FreeFortnite",
+      "pos": 6143.90625,
+      "shortLink": "Q1ijoB4D",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/Q1ijoB4D",
+      "subscribed": false,
+      "url": "https://trello.com/c/Q1ijoB4D/1453-freefortnite",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5da5ab548e0d6a416c7f47e9",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Important",
+          "color": "black"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5da368742dc04839503acd38",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T15:35:47.158Z",
+      "desc": "Welcome to the Fornite Community Trello Board! \n\nAs we follow player feedback, known issues and important updates for Battle Royale, Creative, and Save the World will be listed here. \n\nSelect an issue to view more details, potential workarounds and the issue's status in our development pipeline.",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": "5fc72a47896295524c832e49",
+      "idList": "5a8af516be70fabe10706245",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 972,
+      "idLabels": [],
+      "name": "Fortnite | Community Trello",
+      "pos": 8191.875,
+      "shortLink": "4C6wNP6q",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 1,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/4C6wNP6q",
+      "subscribed": false,
+      "url": "https://trello.com/c/4C6wNP6q/972-fortnite-community-trello",
+      "cover": {
+        "idAttachment": "5fc72a47896295524c832e49",
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light",
+        "scaled": [
+          {
+            "_id": "5fc72a48896295524c832e4f",
+            "id": "5fc72a48896295524c832e4f",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5da368742dc04839503acd38/70x50/79ee1ced0e3037b6d0c845e21d530322/15BPL_Trello_Title.jpg",
+            "bytes": 6510,
+            "height": 50,
+            "width": 70
+          },
+          {
+            "_id": "5fc72a48896295524c832e50",
+            "id": "5fc72a48896295524c832e50",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5da368742dc04839503acd38/250x150/79ee1ced0e3037b6d0c845e21d530322/15BPL_Trello_Title.jpg",
+            "bytes": 38647,
+            "height": 150,
+            "width": 250
+          },
+          {
+            "_id": "5fc72a48896295524c832e51",
+            "id": "5fc72a48896295524c832e51",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5da368742dc04839503acd38/150x150/79ee1ced0e3037b6d0c845e21d530322/15BPL_Trello_Title.jpg",
+            "bytes": 37315,
+            "height": 150,
+            "width": 150
+          },
+          {
+            "_id": "5fc72a48896295524c832e52",
+            "id": "5fc72a48896295524c832e52",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5da368742dc04839503acd38/300x300/79ee1ced0e3037b6d0c845e21d530322/15BPL_Trello_Title.jpg",
+            "bytes": 112202,
+            "height": 300,
+            "width": 300
+          },
+          {
+            "_id": "5fc72a48896295524c832e53",
+            "id": "5fc72a48896295524c832e53",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5da368742dc04839503acd38/600x600/79ee1ced0e3037b6d0c845e21d530322/15BPL_Trello_Title.jpg",
+            "bytes": 348933,
+            "height": 600,
+            "width": 600
+          },
+          {
+            "_id": "5fc72a48896295524c832e54",
+            "id": "5fc72a48896295524c832e54",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5da368742dc04839503acd38/1080x1080/79ee1ced0e3037b6d0c845e21d530322/15BPL_Trello_Title.jpg",
+            "bytes": 839034,
+            "height": 1080,
+            "width": 1080
+          },
+          {
+            "_id": "5fc72a48896295524c832e55",
+            "id": "5fc72a48896295524c832e55",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5a8ae9c6b95d537ef2173cd1/5da368742dc04839503acd38/6f8d5661993f686b9c32bf5a72df9181/15BPL_Trello_Title.jpg",
+            "bytes": 839030,
+            "height": 1080,
+            "width": 1080
+          }
+        ],
+        "edgeColor": "#d2794d"
+      },
+      "start": null,
+      "labels": [],
+      "stickers": [],
+      "attachments": [
+        {
+          "bytes": 839030,
+          "date": "2020-12-02T05:46:47.773Z",
+          "edgeColor": "#d2794d",
+          "idMember": "5a0c46aae039910e125e51aa",
+          "isUpload": true,
+          "mimeType": "image/jpeg",
+          "name": "15BPL_Trello_Title.jpg",
+          "previews": [
+            {
+              "_id": "5fc72a48896295524c832e4f",
+              "id": "5fc72a48896295524c832e4f",
+              "scaled": false,
+              "url": "https://trello-attachments.s3.amazonaws.com/5da368742dc04839503acd38/70x50/79ee1ced0e3037b6d0c845e21d530322/15BPL_Trello_Title.jpg",
+              "bytes": 6510,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "_id": "5fc72a48896295524c832e50",
+              "id": "5fc72a48896295524c832e50",
+              "scaled": false,
+              "url": "https://trello-attachments.s3.amazonaws.com/5da368742dc04839503acd38/250x150/79ee1ced0e3037b6d0c845e21d530322/15BPL_Trello_Title.jpg",
+              "bytes": 38647,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "_id": "5fc72a48896295524c832e51",
+              "id": "5fc72a48896295524c832e51",
+              "scaled": true,
+              "url": "https://trello-attachments.s3.amazonaws.com/5da368742dc04839503acd38/150x150/79ee1ced0e3037b6d0c845e21d530322/15BPL_Trello_Title.jpg",
+              "bytes": 37315,
+              "height": 150,
+              "width": 150
+            },
+            {
+              "_id": "5fc72a48896295524c832e52",
+              "id": "5fc72a48896295524c832e52",
+              "scaled": true,
+              "url": "https://trello-attachments.s3.amazonaws.com/5da368742dc04839503acd38/300x300/79ee1ced0e3037b6d0c845e21d530322/15BPL_Trello_Title.jpg",
+              "bytes": 112202,
+              "height": 300,
+              "width": 300
+            },
+            {
+              "_id": "5fc72a48896295524c832e53",
+              "id": "5fc72a48896295524c832e53",
+              "scaled": true,
+              "url": "https://trello-attachments.s3.amazonaws.com/5da368742dc04839503acd38/600x600/79ee1ced0e3037b6d0c845e21d530322/15BPL_Trello_Title.jpg",
+              "bytes": 348933,
+              "height": 600,
+              "width": 600
+            },
+            {
+              "_id": "5fc72a48896295524c832e54",
+              "id": "5fc72a48896295524c832e54",
+              "scaled": true,
+              "url": "https://trello-attachments.s3.amazonaws.com/5da368742dc04839503acd38/1080x1080/79ee1ced0e3037b6d0c845e21d530322/15BPL_Trello_Title.jpg",
+              "bytes": 839034,
+              "height": 1080,
+              "width": 1080
+            },
+            {
+              "_id": "5fc72a48896295524c832e55",
+              "id": "5fc72a48896295524c832e55",
+              "scaled": true,
+              "url": "https://trello-attachments.s3.amazonaws.com/5a8ae9c6b95d537ef2173cd1/5da368742dc04839503acd38/6f8d5661993f686b9c32bf5a72df9181/15BPL_Trello_Title.jpg",
+              "bytes": 839030,
+              "height": 1080,
+              "width": 1080
+            }
+          ],
+          "url": "https://trello-attachments.s3.amazonaws.com/5a8ae9c6b95d537ef2173cd1/5da368742dc04839503acd38/6f8d5661993f686b9c32bf5a72df9181/15BPL_Trello_Title.jpg",
+          "pos": 32768,
+          "fileName": "15BPL_Trello_Title.jpg",
+          "id": "5fc72a47896295524c832e49"
+        }
+      ]
+    },
+    {
+      "id": "5fd88deb2264f71a2481dee4",
+      "closed": false,
+      "dateLastActivity": "2021-01-05T23:27:17.837Z",
+      "desc": "**General**\n\nhttps://trello.com/c/whdCHYV1/1546-high-sensitivity-acceleration-on-xbox-consoles-when-using-keyboard-and-mouse\n\nhttps://trello.com/c/OlgoK8E9/1534-multiple-actions-names-are-missing-from-the-custom-controller-settings\n\n----------------\n\n**Fortnite Crew**\n\nhttps://trello.com/c/E6SBz4qB/1537-there-was-a-problem-error-when-joining-fortnite-crew-on-playstation\n\nhttps://trello.com/c/xplGdtZq/1538-fortnite-crew-button-missing-on-playstation-after-joining\n\nhttps://trello.com/c/CjD0aH6R/1540-incorrect-message-when-cancelling-fortnite-crew-on-a-different-platform\n\nhttps://trello.com/c/QnJukJDr/1539-fortnite-crew-time-remaining-timer-may-appear-off-by-a-day\n\n\n----------------\n\n**Battle Royale**\n\nhttps://trello.com/c/DI5zYSp7/1550-quests-wrongly-marked-as-new\n\nhttps://trello.com/c/taxxGqHV/1553-big-chuggus-character-collection-tab-lists-an-extra-3rd-location\n\nhttps://trello.com/c/8RPvR2WE/1542-fishing-collection-book-leaderboard-and-friend-progress-not-visible\n\nhttps://trello.com/c/KWRBPD0J/1530-widows-light-back-bling-not-visible-on-pc-with-effects-set-to-low\n\nhttps://trello.com/c/KQQaldsK/1556-certain-npcs-are-granting-storm-surge-credit-when-damaged-in-arena\n\nhttps://trello.com/c/U8YCUz3m/1552-total-bars-may-rarely-appear-as-0-in-a-match\n----------------\n\n**Save the World**\n\nhttps://trello.com/c/9gIwDF94/1516-husks-can-damage-mission-objectives-through-structures\n\n----------------\n\n**Mobile**\nhttps://trello.com/c/12kXalQZ/1544-unable-to-accept-gift-on-first-login-of-the-season-on-android\n\nhttps://trello.com/c/Ar5lzLez/1543-two-buy-battle-pass-buttons-on-the-battle-pass-screen\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8af516be70fabe10706245",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1562,
+      "idLabels": [
+        "5da5ab548e0d6a416c7f47e9"
+      ],
+      "name": "Known Issues Addressed by v15.10",
+      "pos": 38911.65625,
+      "shortLink": "K9wGbBln",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/K9wGbBln",
+      "subscribed": false,
+      "url": "https://trello.com/c/K9wGbBln/1562-known-issues-addressed-by-v1510",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5da5ab548e0d6a416c7f47e9",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Important",
+          "color": "black"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5a91bb1b51d915c9cc0306fa",
+      "closed": false,
+      "dateLastActivity": "2020-12-30T00:22:28.693Z",
+      "desc": "Follow our **[@FortniteStatus](https://twitter.com/FortniteStatus)** Twitter account for updates on emerging issues and what we're doing about them.\n\nAdditionally, you can check the current status of Fortnite by visiting our **[Official Status Page](https://status.epicgames.com/)**.",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8af516be70fabe10706245",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 62,
+      "idLabels": [],
+      "name": "Check @FortniteStatus for updates!",
+      "pos": 131071,
+      "shortLink": "PiHk1Who",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/PiHk1Who",
+      "subscribed": false,
+      "url": "https://trello.com/c/PiHk1Who/62-check-fortnitestatus-for-updates",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5a8ee3bf03f52c60ef063f2c",
+      "closed": false,
+      "dateLastActivity": "2020-12-27T11:09:45.695Z",
+      "desc": "Join us on Reddit:\n\n- [Battle Royale](https://www.reddit.com/r/FortNiteBR/)\n\n- [Creative](https://www.reddit.com/r/fortnitecreative)\n\n- [Save The World](https://www.reddit.com/r/FORTnITE/)\n\n- [Mobile Battle Royale](https://www.reddit.com/r/FortNiteMobile/)\n\n----------------\nJump in the conversations on Discord:\n\n- [Official Fortnite Discord](https://discordapp.com/invite/fortnite)",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8af516be70fabe10706245",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 45,
+      "idLabels": [],
+      "name": "Join the conversation!",
+      "pos": 262143,
+      "shortLink": "e84DdaHo",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/e84DdaHo",
+      "subscribed": false,
+      "url": "https://trello.com/c/e84DdaHo/45-join-the-conversation",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5aaa71f5c4f756559194d80f",
+      "closed": false,
+      "dateLastActivity": "2020-11-17T09:21:07.573Z",
+      "desc": "Hardware or Network issues? Reach out to our Player Support team! \n\n- [PC Support](https://epicgames.helpshift.com/a/fortnite/?s=pc-support)\n- [Xbox One Support](https://epicgames.helpshift.com/a/fortnite/?s=xbox-one-support)\n- [PlayStation 4 Support](https://epicgames.helpshift.com/a/fortnite/?s=ps4-support)\n- [Switch Support](https://epicgames.helpshift.com/a/fortnite/?s=switch-support)\n- [Mobile Support](https://epicgames.helpshift.com/a/fortnite/?s=mobile-support)\n\n\n----------------\nSomething wrong with [your account](http://www.epicgames.com/account)? [Check this FAQ](https://epicgames.helpshift.com/a/fortnite/?s=epic-accounts) for common solutions or contact our team!",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8af516be70fabe10706245",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 81,
+      "idLabels": [],
+      "name": "Technical Support & Account Help",
+      "pos": 327679,
+      "shortLink": "FRkQm4NZ",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/FRkQm4NZ",
+      "subscribed": false,
+      "url": "https://trello.com/c/FRkQm4NZ/81-technical-support-account-help",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5ab93967c38ac5d20e963c8a",
+      "closed": false,
+      "dateLastActivity": "2020-12-11T04:12:22.982Z",
+      "desc": "**Account Security**\nVisit our **[Account Security support post](https://epicgames.helpshift.com/a/fortnite/?s=epic-accounts&f=securing-your-epic-account&p=all)** for tips on keeping your information secure!\n\n----------------\n**Unauthorized Charges**\nNoticed unauthorized purchases on your account? Follow our **[support steps here](https://epicgames.helpshift.com/a/fortnite/?p=all&s=billing-support&f=i-have-a-charge-from-epic-games-i-m-not-familiar-with-%E2%80%94-what-should-i-do)** to fill out a  Unauthorized Charges Form.",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8af516be70fabe10706245",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 92,
+      "idLabels": [],
+      "name": "Account Security and Unauthorized Charges",
+      "pos": 393215,
+      "shortLink": "LQzWaVDs",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/LQzWaVDs",
+      "subscribed": false,
+      "url": "https://trello.com/c/LQzWaVDs/92-account-security-and-unauthorized-charges",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5ff397ad70f50b5bbea1d4a6",
+      "closed": false,
+      "dateLastActivity": "2021-01-05T22:46:19.779Z",
+      "desc": "We're investigating an issue in which Fortnite Crew members are not receiving their V-Bucks and appear inactive despite renewing their subscription in January. \n\nCrew members who renew automatically will continue to be subscribed, but their V-Bucks will be delayed as we work on a fix.\n\n**Note:**\n\nAs we work to address this issue, some players may be unable to resubscribe to Fortnite Crew.\n\nWe'll provide an update when the issue has been resolved.",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5d42ac7f1de207797fe9222d",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1578,
+      "idLabels": [
+        "5e330ce7281000434b192f66"
+      ],
+      "name": "Fortnite Crew - Not receiving V-Bucks and subscription appearing as inactive. (As we address issue, some players may be unable to resub.)",
+      "pos": 16384.568403970006,
+      "shortLink": "NH0OxtJY",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/NH0OxtJY",
+      "subscribed": false,
+      "url": "https://trello.com/c/NH0OxtJY/1578-fortnite-crew-not-receiving-v-bucks-and-subscription-appearing-as-inactive-as-we-address-issue-some-players-may-be-unable-to-res",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330ce7281000434b192f66",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "In Development",
+          "color": "orange"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5ff24045d2cfaf8060855973",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T22:33:33.747Z",
+      "desc": "**Description**\n\nWe\u2019re investigating reports that players are receiving multiple charge attempts for Fortnite Crew in Belarus, Brazil, Russia, and Ukraine. We will update everyone when the issue is resolved.\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5d42ac7f1de207797fe9222d",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1574,
+      "idLabels": [
+        "5e330ce7281000434b192f66"
+      ],
+      "name": "Fortnite Crew - Multiple charge attempts (Russia, Ukraine, Belarus, Brazil).",
+      "pos": 49152.568403970006,
+      "shortLink": "j4VTl56L",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/j4VTl56L",
+      "subscribed": false,
+      "url": "https://trello.com/c/j4VTl56L/1574-fortnite-crew-multiple-charge-attempts-russia-ukraine-belarus-brazil",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330ce7281000434b192f66",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "In Development",
+          "color": "orange"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fceb8cc9c3abd2185904873",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T22:37:57.917Z",
+      "desc": "**Update (December 14)**\nOur teams are still actively investigating the issue that\u2019s affecting purchases on Samsung devices. We continue to attempt to reproduce this error on our end, and to help our investigation efforts, we are adding additional logging capabilities to our 15.10 update, which should help us get more granular information as to what might be happening.\n\nWe will be making sure that all items are rightfully delivered, along with an additional make-good compensation once we are positive the problem is sorted.\n\n----------------\n**Description**\nYou may see errors when making a Fortnite Crew purchase on Samsung devices in the Samsung Galaxy Store. We are aware of this issue and are investigating the error message \"0xfffffc15.\"\n\n----------------\n**Platforms**\nAndroid Samsung\n\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5d42ac7f1de207797fe9222d",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1557,
+      "idLabels": [
+        "5e330cd5e888a10c8b28d88d"
+      ],
+      "name": "Fortnite Crew - Errors on Samsung devices.",
+      "pos": 53248.56840397001,
+      "shortLink": "uy4VruNv",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/uy4VruNv",
+      "subscribed": false,
+      "url": "https://trello.com/c/uy4VruNv/1557-fortnite-crew-errors-on-samsung-devices",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330cd5e888a10c8b28d88d",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Investigating",
+          "color": "orange"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5ff24094d9b2e870e298a0d4",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T22:37:52.024Z",
+      "desc": "We\u2019re investigating reports that PlayStation players are experiencing issues when they attempt to \u201cRejoin\u201d Fortnite Crew after a failed renewal payment occurred.\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5d42ac7f1de207797fe9222d",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1575,
+      "idLabels": [
+        "5fcac296cf15cc638d8cae8a",
+        "5e330ce7281000434b192f66"
+      ],
+      "name": "Fortnite Crew - \"Rejoin\" option issues on PlayStation.",
+      "pos": 57344.56840397001,
+      "shortLink": "kXAnl62Q",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/kXAnl62Q",
+      "subscribed": false,
+      "url": "https://trello.com/c/kXAnl62Q/1575-fortnite-crew-rejoin-option-issues-on-playstation",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5fcac296cf15cc638d8cae8a",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "PlayStation",
+          "color": "black"
+        },
+        {
+          "id": "5e330ce7281000434b192f66",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "In Development",
+          "color": "orange"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fdfd8da3ad56105ef377f7e",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T22:33:22.549Z",
+      "desc": "**Description**\nWe're aware some players on Xbox are reporting not receiving content after resubscribing to Fortnite Crew. \n\nAdditionally, some players who get charged for 2 months and ask for a refund for 1 month have their Fortnite Crew content removed from their account entirely. \n\nIf you still need help, we advise reaching out to the Fortnite player support team. \n\n**Additional Context**\nYou have two options when adjusting your Fortnite Crew Xbox subscription with Microsoft\n\nThe first option is to stop future recurring Fortnite Crew payments by visiting [account.microsoft.com](https://account.microsoft.com/), sign in, and select **\u201cTurn off recurring billing\u201d**. With this option Fortnite Crew items and V-Bucks you have received as part of the subscription will stay in your account, but future Fortnite Crew monthly payments will not be processed.\n\nThe second option is to contact Microsoft support to cancel and request a full refund of your Fortnite Crew purchase. **If granted, this option results in the removal of Fortnite Crew content from your account, including 1,000 V-Bucks or the items purchased with them, and any monthly Crew Packs. You will keep the Battle Pass, however, 950 V-Bucks will be deducted from your wallet. This may result in a negative V-Bucks balance in your Fortnite wallet.**\n\nIf you see that items have been removed from your Xbox account after canceling your Fortnite Crew subscription, it is likely because your subscription was **canceled and refunded** by Microsoft. This may have happened if you had previously selected \u201cCancel subscription\u201d and selected \u201cCancel now and get a refund\u201d - which refunds your Fortnite Crew subscription - rather than \u201cTurn off recurring billing\u201d - which cancels future recurring billing of your subscription.\n\nEach platform has its own cancellation and refund policies. You can find the Xbox subscription refund policy [here](https://support.xbox.com/en-US/help/subscriptions-billing/manage-subscriptions/refund-subscriptions) and full terms and conditions [here](https://account.microsoft.com/account/Account?refd=www.reddit.com&ru=https%3A%2F%2Faccount.microsoft.com%2F%3Frefd%3Dwww.reddit.com&destrt=home-index).\n\nIf you previously received a refund, you can still resubscribe to Fortnite Crew by December 31 to receive the December Crew Pack featuring Galaxia.\n\nIf you're looking for further details on canceling Fortnite Crew renewal, please [check the FAQs on the Fortnite Crew web page](https://www.epicgames.com/fortnite/en-US/fortnite-crew-subscription), as well as our [knowledge base page](https://www.epicgames.com/help/en-US/fortnite-c75/trending-topics-c140/how-can-i-cancel-my-fortnite-crew-subscription-a7522) for canceling Fortnite Crew.\n\nIf you still need help, we advise reaching out to the Fortnite player support team. \n\n----------------\n**Platforms**\nXbox\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5d42ac7f1de207797fe9222d",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1571,
+      "idLabels": [
+        "5e330cd5e888a10c8b28d88d",
+        "5fcabdae514b20493c0e95de"
+      ],
+      "name": "Fortnite Crew - Content not received or removed from account on Xbox (Details in thread)",
+      "pos": 65536.56840397001,
+      "shortLink": "yz55fey5",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/yz55fey5",
+      "subscribed": false,
+      "url": "https://trello.com/c/yz55fey5/1571-fortnite-crew-content-not-received-or-removed-from-account-on-xbox-details-in-thread",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330cd5e888a10c8b28d88d",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Investigating",
+          "color": "orange"
+        },
+        {
+          "id": "5fcabdae514b20493c0e95de",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Xbox",
+          "color": "black"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fc7d4199adc296aeaf0e045",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T22:33:22.564Z",
+      "desc": "**Description**\nWe are aware of an error that may appear for players on PlayStation which refers to fulfilments not being found. \n\nThis is a display issue only, and will not affect your account in any way. Our teams are working on resolving this as soon as possible.\n\n----------------\n\n**Platforms**\nPlayStation 5, PlayStation 4\n\n\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5d42ac7f1de207797fe9222d",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1549,
+      "idLabels": [
+        "5e330cd5e888a10c8b28d88d",
+        "5fcac296cf15cc638d8cae8a"
+      ],
+      "name": "PlayStation fulfillment error message.",
+      "pos": 98304.56840397001,
+      "shortLink": "NY9PJ2hE",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/NY9PJ2hE",
+      "subscribed": false,
+      "url": "https://trello.com/c/NY9PJ2hE/1549-playstation-fulfillment-error-message",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330cd5e888a10c8b28d88d",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Investigating",
+          "color": "orange"
+        },
+        {
+          "id": "5fcac296cf15cc638d8cae8a",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "PlayStation",
+          "color": "black"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fc800bbb6f58d5b9777674f",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T22:33:22.559Z",
+      "desc": "**Description**\nWe're investigating an issue that is causing players to experience a long loading screen after completing a session on PlayStation and Xbox consoles.\n\n------------------------------------------------------\n \n**Platforms**\nPlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One\n\n------------------------------------------------------\n\n**JIRA**\nFORT-325909\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5d42ac7f1de207797fe9222d",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1551,
+      "idLabels": [
+        "5e330ce7281000434b192f66",
+        "5fcac296cf15cc638d8cae8a",
+        "5fcabdae514b20493c0e95de"
+      ],
+      "name": "Long loading screen after completing a session on PlayStation/Xbox.",
+      "pos": 114688.56840397001,
+      "shortLink": "dqDfjlT5",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/dqDfjlT5",
+      "subscribed": false,
+      "url": "https://trello.com/c/dqDfjlT5/1551-long-loading-screen-after-completing-a-session-on-playstation-xbox",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330ce7281000434b192f66",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "In Development",
+          "color": "orange"
+        },
+        {
+          "id": "5fcac296cf15cc638d8cae8a",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "PlayStation",
+          "color": "black"
+        },
+        {
+          "id": "5fcabdae514b20493c0e95de",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Xbox",
+          "color": "black"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fabf107d382ff5fd8de7ba6",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T22:33:22.558Z",
+      "desc": "**Description**\nWhen playing Fortnite, players cannot create system-level parties that include players on both PS5 and PS4.\n\n------------------------------------------------------\n**Platforms**\nPlayStation 5, PlayStation 4\n\n------------------------------------------------------\n**Workaround**\nPlayers on PS5 and PS4 can still party up together using the in-game party system.\n\n------------------------------------------------------\n**JIRA**\n OI-1705\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5d42ac7f1de207797fe9222d",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1529,
+      "idLabels": [
+        "5e330ce7281000434b192f66",
+        "5c9bf967b08e175ec3cd987c",
+        "5fcac296cf15cc638d8cae8a"
+      ],
+      "name": "Cannot create system-level parties between PS5 and PS4 when playing Fortnite.",
+      "pos": 131072.56840397,
+      "shortLink": "R2F0pKKT",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/R2F0pKKT",
+      "subscribed": false,
+      "url": "https://trello.com/c/R2F0pKKT/1529-cannot-create-system-level-parties-between-ps5-and-ps4-when-playing-fortnite",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330ce7281000434b192f66",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "In Development",
+          "color": "orange"
+        },
+        {
+          "id": "5c9bf967b08e175ec3cd987c",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Workaround Included",
+          "color": "sky"
+        },
+        {
+          "id": "5fcac296cf15cc638d8cae8a",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "PlayStation",
+          "color": "black"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5f7decae6965f35b931c67a5",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T22:33:22.558Z",
+      "desc": "**Description**\nThe Banner menu may be unresponsive to controller inputs, causing players to have difficulty editing their Banner with a controller. \n\n----------------\n**Platforms**\nPlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One, Nintendo Switch, PC\n\n----------------\n**Workaround**\nIn order to edit your Banner with a controller, take the following steps:\n\n- Edit your Icon color first. Select the Color Option and double press the Apply button (A on Xbox and Switch, X on PlayStation).\n- Select your desired Color and hit the Apply Button again.\n- Close the menu (B on Xbox and Switch, Circle on PlayStation).\n- Repeat the same process to select your desired Icon.\n\nNote: Edit the Icon color first. If you try editing your Icon first, your Icon may change if you attempt to edit your Banner Color after.\n\n\n----------------\n**JIRA**\nFORT-316555\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5d42ac7f1de207797fe9222d",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1478,
+      "idLabels": [
+        "5c9bf967b08e175ec3cd987c",
+        "5e330cd5e888a10c8b28d88d"
+      ],
+      "name": "Difficulty editing Banner with a controller.",
+      "pos": 147456.56840397,
+      "shortLink": "DPGgQeTC",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/DPGgQeTC",
+      "subscribed": false,
+      "url": "https://trello.com/c/DPGgQeTC/1478-difficulty-editing-banner-with-a-controller",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5c9bf967b08e175ec3cd987c",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Workaround Included",
+          "color": "sky"
+        },
+        {
+          "id": "5e330cd5e888a10c8b28d88d",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Investigating",
+          "color": "orange"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fa2cef3381a823d112da137",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T22:33:22.558Z",
+      "desc": "**Description**\nThe Banner menu may not properly apply players' icon changes, instead saving a different icon than what the player chose. \n\n----------------\n**Platforms**\nPlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One, Nintendo Switch, PC\n\n----------------\n**JIRA**\nFORT-316555\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5d42ac7f1de207797fe9222d",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1526,
+      "idLabels": [
+        "5e330cd5e888a10c8b28d88d"
+      ],
+      "name": "Banner icon not updating properly.",
+      "pos": 163840.56840397,
+      "shortLink": "yXjBiy2q",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/yXjBiy2q",
+      "subscribed": false,
+      "url": "https://trello.com/c/yXjBiy2q/1526-banner-icon-not-updating-properly",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330cd5e888a10c8b28d88d",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Investigating",
+          "color": "orange"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5f91f25b1c7a6777d06b45ba",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T22:33:22.551Z",
+      "desc": "**Description**\nThe sound effect of certain actions, such as opening a Chest or hitting a Weak Point, may be delayed.\n\nEven though this affects Nintendo Switch, please note this is a similar but separate issue to the [audio delay/drop out issue](https://trello.com/c/s5AmIain/1461-nintendo-switch-audio-may-be-delayed-or-drop-out) that affected Nintendo Switch specifically. \n\n----------------\n**Platforms**\nPlayStation 4, Xbox One, Nintendo Switch\n\n----------------\n**JIRA**\nFORT-323047",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5d42ac7f1de207797fe9222d",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1512,
+      "idLabels": [
+        "5e330ce7281000434b192f66"
+      ],
+      "name": "Sound effect audio delay.",
+      "pos": 303376.18874635274,
+      "shortLink": "RTgBMwab",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/RTgBMwab",
+      "subscribed": false,
+      "url": "https://trello.com/c/RTgBMwab/1512-sound-effect-audio-delay",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330ce7281000434b192f66",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "In Development",
+          "color": "orange"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5ff3be5df405285e92bce280",
+      "closed": false,
+      "dateLastActivity": "2021-01-05T20:08:24.610Z",
+      "desc": "**Update**\nOwners of the Flip Reset Lobby Track will be regranted the track with the release of the v15.20 game update.\n\n------------------------------------------------------\n**Description**\nThe Flip Reset Lobby Track has been advertently removed from players' Lockers. \n\n------------------------------------------------------\n **Platforms**\nAll\n\n------------------------------------------------------\n**JIRA**\nFORT-340041\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5d42ac7f1de207797fe9222d",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1579,
+      "idLabels": [
+        "5c09204ee23d5f406f975614",
+        "5dc4687e2b2f6f4de1de1638"
+      ],
+      "name": "Flip Reset Lobby Track inadvertently removed from players' Lockers.",
+      "pos": 373143.9989175441,
+      "shortLink": "azGbR9fH",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/azGbR9fH",
+      "subscribed": false,
+      "url": "https://trello.com/c/azGbR9fH/1579-flip-reset-lobby-track-inadvertently-removed-from-players-lockers",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5c09204ee23d5f406f975614",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Fixed in Next Game Update",
+          "color": "yellow"
+        },
+        {
+          "id": "5dc4687e2b2f6f4de1de1638",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Please Read Update",
+          "color": "blue"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fdb85a24d8afb1550472f31",
+      "closed": false,
+      "dateLastActivity": "2021-01-05T18:18:15.988Z",
+      "desc": "**Description** \nWe're aware that the Michonne Outfit (without the poncho edit style) has visual issues when using a cape Back Bling.\n\n----------\n**JIRA**\nFORT-337975",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5d42ac7f1de207797fe9222d",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1570,
+      "idLabels": [
+        "5c09204ee23d5f406f975614"
+      ],
+      "name": "Michonne Outfit visual issues with cape Back Blings.",
+      "pos": 442911.80908873543,
+      "shortLink": "7ZpIsy82",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/7ZpIsy82",
+      "subscribed": false,
+      "url": "https://trello.com/c/7ZpIsy82/1570-michonne-outfit-visual-issues-with-cape-back-blings",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5c09204ee23d5f406f975614",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Fixed in Next Game Update",
+          "color": "yellow"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fd88e968891d28f70c5daa2",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T21:10:39.020Z",
+      "desc": "**Description**\nPlayers and Spectators may notice inconsistent camera behavior or stuttering after being near a Car they recently drove then exited.\n\n----------------\n**JIRA**\nFORT-337343\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8ae9c6b95d537ef2173cd3",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1563,
+      "idLabels": [
+        "5e330cd5e888a10c8b28d88d"
+      ],
+      "name": "Camera may hitch near a car after exiting.",
+      "pos": 16384,
+      "shortLink": "xCkvK4Q0",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/xCkvK4Q0",
+      "subscribed": false,
+      "url": "https://trello.com/c/xCkvK4Q0/1563-camera-may-hitch-near-a-car-after-exiting",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330cd5e888a10c8b28d88d",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Investigating",
+          "color": "orange"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fd88eb12d3d5088f97e247d",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T17:47:03.103Z",
+      "desc": "**Description**\nPlayers who drop a weapon in Air Royale will be unable to use that weapon for the remainder of the match. Flying through Chest Circles will not return or upgrade it.\n\n----------------\n**JIRA**\nFORT-335591\nFORT-335892",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8ae9c6b95d537ef2173cd3",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1564,
+      "idLabels": [
+        "5e330cd5e888a10c8b28d88d"
+      ],
+      "name": "Dropping a weapon in Air Royale will not be returned.",
+      "pos": 32768,
+      "shortLink": "oPnLvF2q",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/oPnLvF2q",
+      "subscribed": false,
+      "url": "https://trello.com/c/oPnLvF2q/1564-dropping-a-weapon-in-air-royale-will-not-be-returned",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330cd5e888a10c8b28d88d",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Investigating",
+          "color": "orange"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fa19f8f83a7d60136230572",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T23:02:40.741Z",
+      "desc": "**Description**\nCars do not consistently damage objects or players upon impact. \n\n----------------\n**Platforms**\nAll\n\n----------------\n**Discussion**\n [Reddit](https://old.reddit.com/r/FortNiteBR/comments/jnbmdz/bug_vehicles_in_solid_gold_i_couldnt_run_over/)\n\n----------------\n**JIRA**\nFORT-324944\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8ae9c6b95d537ef2173cd3",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1525,
+      "idLabels": [
+        "5e330cd5e888a10c8b28d88d"
+      ],
+      "name": "Cars not always dealing damage on impact.",
+      "pos": 40960,
+      "shortLink": "llPozu0G",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/llPozu0G",
+      "subscribed": false,
+      "url": "https://trello.com/c/llPozu0G/1525-cars-not-always-dealing-damage-on-impact",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330cd5e888a10c8b28d88d",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Investigating",
+          "color": "orange"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5faa1ed66614453e043778b1",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T21:16:34.933Z",
+      "desc": "**Description**\nPlayers will have to reform their party to continue matchmaking if an unreadied party member is removed from the party.\n\n------------------------------------------------------\n \n**Platforms**\nAll\n\n------------------------------------------------------\n**JIRA**\n FORT-326560\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8ae9c6b95d537ef2173cd3",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1528,
+      "idLabels": [
+        "5e330cd5e888a10c8b28d88d"
+      ],
+      "name": "Matchmaking doesn\u2019t start if unreadied player leaves early.",
+      "pos": 63488,
+      "shortLink": "dEWxj1CR",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/dEWxj1CR",
+      "subscribed": false,
+      "url": "https://trello.com/c/dEWxj1CR/1528-matchmaking-doesnt-start-if-unreadied-player-leaves-early",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330cd5e888a10c8b28d88d",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Investigating",
+          "color": "orange"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fd1656d6ff19084d4bbcbd6",
+      "closed": false,
+      "dateLastActivity": "2021-01-05T17:11:44.404Z",
+      "desc": "**Update**\nThough previously marked as \"Fixed in Live,\" we're aware that this issue is still occurring for some players. We are working on a fix.\n\n----------------\n**Description**\nThe game may sometimes freeze or appear stuck when players go to the Compete tab on PlayStation or Xbox.\n\n----------------\n**Platforms**\nPlayStation, Xbox\n\n----------------\n**JIRA**\nFORT-335532\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8ae9c6b95d537ef2173cd3",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1561,
+      "idLabels": [
+        "5e330ce7281000434b192f66",
+        "5fcac296cf15cc638d8cae8a",
+        "5fcabdae514b20493c0e95de"
+      ],
+      "name": "Game freezing when going to the Compete tab on PlayStation/Xbox.",
+      "pos": 80384,
+      "shortLink": "uiBsEdkj",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/uiBsEdkj",
+      "subscribed": false,
+      "url": "https://trello.com/c/uiBsEdkj/1561-game-freezing-when-going-to-the-compete-tab-on-playstation-xbox",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330ce7281000434b192f66",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "In Development",
+          "color": "orange"
+        },
+        {
+          "id": "5fcac296cf15cc638d8cae8a",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "PlayStation",
+          "color": "black"
+        },
+        {
+          "id": "5fcabdae514b20493c0e95de",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Xbox",
+          "color": "black"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5ff4b3512d9d6333503842b6",
+      "closed": false,
+      "dateLastActivity": "2021-01-05T19:31:54.795Z",
+      "desc": "We've temporarily disabled Sand Tunneling on the Island while we investigate an issue. We'll let everyone know when this feature returns.",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8ae9c6b95d537ef2173cd3",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1580,
+      "idLabels": [
+        "5ff4b3ab219edf2506982336"
+      ],
+      "name": "Sand Tunneling temporarily disabled.",
+      "pos": 83200,
+      "shortLink": "BBhTxITh",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/BBhTxITh",
+      "subscribed": false,
+      "url": "https://trello.com/c/BBhTxITh/1580-sand-tunneling-temporarily-disabled",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5ff4b3ab219edf2506982336",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Re-Enabled in Next Game Update",
+          "color": "yellow"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fc750f330d078472a2072e6",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T21:16:08.120Z",
+      "desc": "**Description**\nIf a Bounty was accepted and completed before a player was Rebooted, upon reboot they may see that Bounty appear on their screen. \n\n----------------\n**Platforms**\nAll\n\n----------------\n**Workaround**\nSince the Bounty was already completed while you were awaiting Reboot, simply let it time out.\n\n----------------\n**JIRA**\nFORT-333717\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8ae9c6b95d537ef2173cd3",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1541,
+      "idLabels": [
+        "5c09204ee23d5f406f975614"
+      ],
+      "name": "Rebooted players may see an already completed Bounty.",
+      "pos": 86016,
+      "shortLink": "OOYi7CdJ",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/OOYi7CdJ",
+      "subscribed": false,
+      "url": "https://trello.com/c/OOYi7CdJ/1541-rebooted-players-may-see-an-already-completed-bounty",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5c09204ee23d5f406f975614",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Fixed in Next Game Update",
+          "color": "yellow"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fc978db9428354d2cef83f7",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T21:15:30.263Z",
+      "desc": "\n**Description**\nPlayers may on rare occasion load into a match without their total Bars available, showing 0 in their persistent stash. \n\nDon't worry, your total collected Bars are still tracked - but collecting Bars in the match where they appear at 0 will not add to your cumulative total.\n\n----------------\n**Platforms**\nAll\n\n----------------\n**Workaround**\nLoading into another match should show your total collected Bars, however any collected in the match where they appeared 0 will not have been added.\n\nBars in Arena must be gathered in-match and your persistent stash is unavailable.\n\n----------------\n**Discussion**\n [Twitter](https://twitter.com/OMGitsAliA/status/1334524933205078020?s=20)\n\n----------------\n**JIRA**\nFORT-335524\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8ae9c6b95d537ef2173cd3",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1552,
+      "idLabels": [
+        "5c09204ee23d5f406f975614"
+      ],
+      "name": "Total Bars appearing as 0 in a match.",
+      "pos": 131072,
+      "shortLink": "U8YCUz3m",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/U8YCUz3m",
+      "subscribed": false,
+      "url": "https://trello.com/c/U8YCUz3m/1552-total-bars-appearing-as-0-in-a-match",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5c09204ee23d5f406f975614",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Fixed in Next Game Update",
+          "color": "yellow"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5ff3847b079131352e61c2e2",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T21:15:48.465Z",
+      "desc": "**Description**\nThe Hypernova Outfit may appear as a different Outfit in the Lobby and in a match. \n\n------------------------------------------------------\n **Platforms**\nAll\n\n------------------------------------------------------\n**JIRA**\n FORT-338506\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8ae9c6b95d537ef2173cd3",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1576,
+      "idLabels": [
+        "5c09204ee23d5f406f975614"
+      ],
+      "name": "Hypernova Outfit appearing as a different Outfit in the Lobby and in-match.",
+      "pos": 139264,
+      "shortLink": "88j6VSsx",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/88j6VSsx",
+      "subscribed": false,
+      "url": "https://trello.com/c/88j6VSsx/1576-hypernova-outfit-appearing-as-a-different-outfit-in-the-lobby-and-in-match",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5c09204ee23d5f406f975614",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Fixed in Next Game Update",
+          "color": "yellow"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fd0e45b54ad33277e69fcd0",
+      "closed": false,
+      "dateLastActivity": "2020-12-24T01:22:31.369Z",
+      "desc": "**Description**\nBlank Billboards with default settings will have \"Sample Text\" added to them after the 15.10 update and future updates. This will continue to function this way for future releases.\n\n**Workaround**\nCreators can add a single space to their blank Billboards in 15.10 to avoid having to remove \"Sample Text\" after the 15.10 update.",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5c091fe07b09812cc6e55a54",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1560,
+      "idLabels": [
+        "5c9bf967b08e175ec3cd987c",
+        "5f69f566d2abc566a231e9d2",
+        "5f19cc0a5fcdc756b02cf3e6"
+      ],
+      "name": "Blank Billboards created prior to 15.10 will have \"Sample Text\" added to them in the 15.10 update.",
+      "pos": 267483.43326947093,
+      "shortLink": "FUB7WWHh",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/FUB7WWHh",
+      "subscribed": false,
+      "url": "https://trello.com/c/FUB7WWHh/1560-blank-billboards-created-prior-to-1510-will-have-sample-text-added-to-them-in-the-1510-update",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5c9bf967b08e175ec3cd987c",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Workaround Included",
+          "color": "sky"
+        },
+        {
+          "id": "5f69f566d2abc566a231e9d2",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Info",
+          "color": "black"
+        },
+        {
+          "id": "5f19cc0a5fcdc756b02cf3e6",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "New Update",
+          "color": "sky"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5eb5b18cb01eee6813875780",
+      "closed": false,
+      "dateLastActivity": "2020-12-19T11:49:36.859Z",
+      "desc": "**Update** (if needed) \nGathering data on this crash has been an ongoing effort and we're looking for further (and more recent data) of this crash. Any player who hits this crash after the 12.50 update should send [/u/Magyst](https://www.reddit.com/user/Magyst/) a private DM with the following information:\n\n- Account name\n- Platform\n- Other players in your mission\n- Date / estimate time stamp of when this occurred.\n\nAdditionally, PC players who experience this crash can further help by sending him your client logs directly.\n\n1. Experience the Endurance Crash\n\n2. Navigate to C:\\Users\\<YOUR USERNAME>\\AppData\\Local\\FortniteGame\\Saved\\Logs.\n\n3. Grab the FortniteGame.txt file (it's time stamped for when your client closed)\n\n4. Send it to be via Google Drive or Discord message ( Magyst#8046)\n\n**Description**\nWe're aware of reports that players in Endurance may experience a crash during regular gameplay.\n\n----------------\n**Platforms**\nPlayStation 4, Xbox One, PC\n\n----------------\n**Discussion**\n [Reddit](https://www.reddit.com/r/FORTnITE/comments/gae8cx/1250_endurance_crashing_4292020/)\n\n----------------\n**JIRA**\nFORT-256384\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8ae9c6b95d537ef2173cd2",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1341,
+      "idLabels": [
+        "5e330cd5e888a10c8b28d88d"
+      ],
+      "name": "Crashing during Endurance.",
+      "pos": 5517.247573721073,
+      "shortLink": "2nCSJ7Ck",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/2nCSJ7Ck",
+      "subscribed": false,
+      "url": "https://trello.com/c/2nCSJ7Ck/1341-crashing-during-endurance",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330cd5e888a10c8b28d88d",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Investigating",
+          "color": "orange"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5ff38725df3b7a7a30411f99",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T21:26:33.191Z",
+      "desc": "**Description**\nQuest progress may be slow to update in the HUD and Quest Log.\n\n----------------\n**Platforms**\nPlayStation, Xbox, PC\n\n----------------\n**Discussion**\n [Reddit](https://www.reddit.com/r/FORTnITE/comments/kpyq4l/why_do_daily_challenges_take_forever_to_update/)\n\n----------------\n**JIRA**\nFORT-335664",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8ae9c6b95d537ef2173cd2",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1577,
+      "idLabels": [
+        "5c09204ee23d5f406f975614"
+      ],
+      "name": "Quest progress not instantly updating in the HUD and Quest Log.",
+      "pos": 46477.24757372108,
+      "shortLink": "s31XMECe",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/s31XMECe",
+      "subscribed": false,
+      "url": "https://trello.com/c/s31XMECe/1577-quest-progress-not-instantly-updating-in-the-hud-and-quest-log",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5c09204ee23d5f406f975614",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Fixed in Next Game Update",
+          "color": "yellow"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fd8d41e583a2f56314a6ba6",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T21:28:35.168Z",
+      "desc": "**Update**\nThis issue is resolved, with the exception of the Bash Burner Pickaxe. We'll continue fixing these incorrect animations.\n\n----------------\n**Description**\nThere are a handful of uniquely animated Pickaxes that are not playing the correct animation when used in Save the World. \n\n----------------\n**Platforms**\nPlayStation, Xbox, PC\n\n----------------\n**Discussion**\n [Reddit](https://www.reddit.com/r/FORTnITE/comments/kbwrj1/adds_a_lot_to_it_and_it_would_be_great_if_it_gets/)\n\n----------------\n**JIRA**\nFORT-318869\nFORT-329332\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5a8ae9c6b95d537ef2173cd2",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1567,
+      "idLabels": [
+        "5a907d7364f15fa6202feeb5",
+        "5dc4687e2b2f6f4de1de1638"
+      ],
+      "name": "Broken Pickaxe animations.",
+      "pos": 87437.24757372108,
+      "shortLink": "qfN4TEkv",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/qfN4TEkv",
+      "subscribed": false,
+      "url": "https://trello.com/c/qfN4TEkv/1567-broken-pickaxe-animations",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5a907d7364f15fa6202feeb5",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Fixed in Live",
+          "color": "green"
+        },
+        {
+          "id": "5dc4687e2b2f6f4de1de1638",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Please Read Update",
+          "color": "blue"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fd890fdc9ef471b383f04a7",
+      "closed": false,
+      "dateLastActivity": "2021-01-04T21:18:01.958Z",
+      "desc": "**Description**\nThe End of Round Results Screen will not appear after each round of the Shockwave LTM on Android.\n\n----------------\n**Platform**\nAndroid\n\n----------------\n**Workaround**\nFollow team progress on the in-match HUD or Map screen. \n\n----------------\n**JIRA**\nFORT-337134\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5b7582903bdc2e2f5821d6f1",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1565,
+      "idLabels": [
+        "5e6fc594fabe0a6f0d190813",
+        "5e330cd5e888a10c8b28d88d"
+      ],
+      "name": "End of Round results screen missing on Shockwave LTM.",
+      "pos": 10.785198211669922,
+      "shortLink": "soWjiRRI",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/soWjiRRI",
+      "subscribed": false,
+      "url": "https://trello.com/c/soWjiRRI/1565-end-of-round-results-screen-missing-on-shockwave-ltm",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e6fc594fabe0a6f0d190813",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Android",
+          "color": "black"
+        },
+        {
+          "id": "5e330cd5e888a10c8b28d88d",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Investigating",
+          "color": "orange"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fc7515a51a1937e716ef2b9",
+      "closed": false,
+      "dateLastActivity": "2020-12-14T15:24:43.350Z",
+      "desc": "**Description**\nPlayers with multiple Quests or Bounties may notice their UI is partially covered or obscured, depending on their Android device\u2019s screen size. \n\n----------------\n**Workaround**\nAvoid accepting multiple Quests and Bounties.\n\n----------------\n**JIRA**\nFORT-332709\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5b7582903bdc2e2f5821d6f1",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1545,
+      "idLabels": [
+        "5e330cd5e888a10c8b28d88d",
+        "5e6fc594fabe0a6f0d190813"
+      ],
+      "name": "Two or more Quests can obscure the center of the screen view on Android.",
+      "pos": 86.28158569335938,
+      "shortLink": "wnDC4RG9",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/wnDC4RG9",
+      "subscribed": false,
+      "url": "https://trello.com/c/wnDC4RG9/1545-two-or-more-quests-can-obscure-the-center-of-the-screen-view-on-android",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330cd5e888a10c8b28d88d",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Investigating",
+          "color": "orange"
+        },
+        {
+          "id": "5e6fc594fabe0a6f0d190813",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Android",
+          "color": "black"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fc7a8d9572e2546d5377e05",
+      "closed": false,
+      "dateLastActivity": "2020-12-16T21:06:10.196Z",
+      "desc": "**Description**\nPlayers are unable to move after jumping through the Zero Point. \n\n----------------\n**Platforms**\nMobile\n\n----------------\n**Workaround**\nPlayers do not jump through the Zero Point.\n\n----------------\n**JIRA**\nFORT-324596\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5b7582903bdc2e2f5821d6f1",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1548,
+      "idLabels": [
+        "5e330ce7281000434b192f66"
+      ],
+      "name": "The player loses all movement after jumping through Zero Point.",
+      "pos": 237.27436065673828,
+      "shortLink": "AlH7oj2w",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/AlH7oj2w",
+      "subscribed": false,
+      "url": "https://trello.com/c/AlH7oj2w/1548-the-player-loses-all-movement-after-jumping-through-zero-point",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e330ce7281000434b192f66",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "In Development",
+          "color": "orange"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5f824edb22daf210d08bcd2d",
+      "closed": false,
+      "dateLastActivity": "2021-01-05T11:39:07.601Z",
+      "desc": "**Description**\nWe are investigating voice chat issues for players on Android devices.\n\n----------------\n**Platforms**\nAndroid\n\n----------------\n**JIRA**\nFORT-323130",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5b7582903bdc2e2f5821d6f1",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1482,
+      "idLabels": [
+        "5e6fc594fabe0a6f0d190813",
+        "5e330ce7281000434b192f66"
+      ],
+      "name": "Voice chat issues on Android.",
+      "pos": 690.252685546875,
+      "shortLink": "e21mgQ9y",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/e21mgQ9y",
+      "subscribed": false,
+      "url": "https://trello.com/c/e21mgQ9y/1482-voice-chat-issues-on-android",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5e6fc594fabe0a6f0d190813",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Android",
+          "color": "black"
+        },
+        {
+          "id": "5e330ce7281000434b192f66",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "In Development",
+          "color": "orange"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    },
+    {
+      "id": "5fda765270023b73583cecba",
+      "closed": false,
+      "dateLastActivity": "2020-12-25T00:14:38.835Z",
+      "desc": "**Description**\nNintendo Switch players may crash to a white screen when trying to enter a match.\n\n----------------\n**Platforms**\nNintendo Switch\n\n----------------\n**Discussion**\n[Reddit](https://www.reddit.com/r/FortNiteMobile/comments/keomf7/what_is_going_on_this_has_started_happening_to/)\n\n----------------\n**JIRA**\nFORT-314524\n",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idAttachmentCover": null,
+      "idList": "5b7582903bdc2e2f5821d6f1",
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "idShort": 1569,
+      "idLabels": [
+        "5ea344b54c4af94bdfda8bc9",
+        "5a907d7364f15fa6202feeb5"
+      ],
+      "name": "Nintendo Switch crash to white screen.",
+      "pos": 66226.25268554688,
+      "shortLink": "oL5frniK",
+      "locationName": null,
+      "address": null,
+      "coordinates": null,
+      "isTemplate": false,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "due": null,
+      "dueComplete": false,
+      "idMembers": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/oL5frniK",
+      "subscribed": false,
+      "url": "https://trello.com/c/oL5frniK/1569-nintendo-switch-crash-to-white-screen",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light"
+      },
+      "start": null,
+      "labels": [
+        {
+          "id": "5ea344b54c4af94bdfda8bc9",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Nintendo Switch",
+          "color": "black"
+        },
+        {
+          "id": "5a907d7364f15fa6202feeb5",
+          "idBoard": "5a8ae9c6b95d537ef2173cd1",
+          "name": "Fixed in Live",
+          "color": "green"
+        }
+      ],
+      "stickers": [],
+      "attachments": []
+    }
+  ],
+  "lists": [
+    {
+      "id": "5a8af516be70fabe10706245",
+      "name": "Information",
+      "closed": false,
+      "pos": 16384,
+      "creationMethod": null,
+      "softLimit": null,
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "subscribed": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      }
+    },
+    {
+      "id": "5d42ac7f1de207797fe9222d",
+      "name": "General Top Issues",
+      "closed": false,
+      "pos": 16896,
+      "creationMethod": null,
+      "softLimit": null,
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "subscribed": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      }
+    },
+    {
+      "id": "5a8ae9c6b95d537ef2173cd3",
+      "name": "Battle Royale Top Issues",
+      "closed": false,
+      "pos": 20480,
+      "creationMethod": null,
+      "softLimit": null,
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "subscribed": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      }
+    },
+    {
+      "id": "5c091fe07b09812cc6e55a54",
+      "name": "Creative Mode Top Issues",
+      "closed": false,
+      "pos": 122880,
+      "creationMethod": null,
+      "softLimit": null,
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "subscribed": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      }
+    },
+    {
+      "id": "5a8ae9c6b95d537ef2173cd2",
+      "name": "Save the World Top Issues",
+      "closed": false,
+      "pos": 155648,
+      "creationMethod": null,
+      "softLimit": null,
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "subscribed": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      }
+    },
+    {
+      "id": "5b7582903bdc2e2f5821d6f1",
+      "name": "Mobile Top Issues",
+      "closed": false,
+      "pos": 188416,
+      "creationMethod": null,
+      "softLimit": null,
+      "idBoard": "5a8ae9c6b95d537ef2173cd1",
+      "subscribed": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      }
+    }
+  ],
+  "members": [
+    {
+      "id": "5af1c02bd5aebcea372106c2",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "epicmana",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Amanda Drake",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "AD",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/epicmana"
+    },
+    {
+      "id": "5a843b9c019a19c9c61834ac",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "bengaraizabal",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Ben Garaizabal",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "BG",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/bengaraizabal"
+    },
+    {
+      "id": "5fd2734b6c9aea7eb0d8f18c",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "christopherwilliams250",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Christopher Williams",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "CW",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/christopherwilliams250"
+    },
+    {
+      "id": "526eaf884535b1965b00037b",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "dandadadandan",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Daniel Vogel",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "DV",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/dandadadandan"
+    },
+    {
+      "id": "5d079d1931db418fc1491202",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "davethebuck",
+      "activityBlocked": false,
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/5d079d1931db418fc1491202/e8898434c31044892e1e17086aeb3cac",
+      "fullName": "David Hook",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "DH",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/davethebuck"
+    },
+    {
+      "id": "5a0c46aae039910e125e51aa",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "fortnite_epic",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "EPIC-Trello",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "EPIC",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/fortnite_epic"
+    },
+    {
+      "id": "5b731bc26605fa4511345784",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "freighttrainusa",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Epic Community Team",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "TF",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/freighttrainusa"
+    },
+    {
+      "id": "5b56dda3930947d36111bbe5",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "gaetangireme",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Epic Community Team",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "GG",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/gaetangireme"
+    },
+    {
+      "id": "5a84333fd4e5bf7e9095b6a2",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "tokaj1",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Epic Community Team",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "OD",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/tokaj1"
+    },
+    {
+      "id": "5e2860368271cc52c68ea141",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "kevinboatright",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Epic Games Community Team",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "KB",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/kevinboatright"
+    },
+    {
+      "id": "5b6c617e826ffb1f7ba6396c",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "lukaszzelazek",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Epic Games Community Team",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "LZ",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/lukaszzelazek"
+    },
+    {
+      "id": "5cdd6adbc5b6a20d31c806de",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "m_house_epic",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Epic Games Community Team",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "MH",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/m_house_epic"
+    },
+    {
+      "id": "5d65837f2e200d2125b34f54",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "mattgrandstaff1",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Epic Games Community Team",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "MG",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/mattgrandstaff1"
+    },
+    {
+      "id": "5b5f7a450665f8160b1dc647",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "michaelsokolkov",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Epic Games Community Team",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "MS",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/michaelsokolkov"
+    },
+    {
+      "id": "573a17e1ae826ddefef36bd0",
+      "bio": "Community Coordinator ",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "mrpopotfs",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Epic Games Community Team",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "POPO",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/mrpopotfs"
+    },
+    {
+      "id": "5d2466b53b44f07927ce5e0d",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "seanmcintosh9",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Epic Games Community Team",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "SM",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/seanmcintosh9"
+    },
+    {
+      "id": "5c49ddc7a9ffc77316302b54",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "stephenthompson78",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Epic Games Community Team",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "ST",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/stephenthompson78"
+    },
+    {
+      "id": "5a8af0046ca275a4b17ff636",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "epic_clintonious",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Epic-Clintonious",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "CB",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/epic_clintonious"
+    },
+    {
+      "id": "5cc737e3050e701c6387db86",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "fabienne607",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Fabienne",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "F",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/fabienne607"
+    },
+    {
+      "id": "5cc09d2c5304f012fbef4cbe",
+      "bio": "MENA Community Coordinator",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "khwarezm89",
+      "activityBlocked": false,
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/5cc09d2c5304f012fbef4cbe/8bfe09d45601985d2f5a93e95c22841d",
+      "fullName": "Islam Ibrahim",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "II",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/khwarezm89"
+    },
+    {
+      "id": "56b3e9222a4aeac2dbf0d891",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "jacoblawyer1",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Jacob Lawyer",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "JL",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/jacoblawyer1"
+    },
+    {
+      "id": "5a9ebd3d603c362e285d2f8d",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "josephsozio1",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Joseph Sozio",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "JS",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/josephsozio1"
+    },
+    {
+      "id": "5cf90e7c0b971f0ba1d070fa",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "kosukemarubayashi1",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Kosuke M",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "KM",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/kosukemarubayashi1"
+    },
+    {
+      "id": "5bcbf6547a148853b2b2d179",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "kraiglooney",
+      "activityBlocked": false,
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/5bcbf6547a148853b2b2d179/9ea94ec06ab5313ead97b0353866ad44",
+      "fullName": "Kraig Looney",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "KL",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/kraiglooney"
+    },
+    {
+      "id": "5d08d0987e6ce254d22464af",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "matildetusberti1",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Matilde Tusberti",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "MT",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/matildetusberti1"
+    },
+    {
+      "id": "5bc9da911644b77b6a830153",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "epictense",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Mitch Meara",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "MM",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/epictense"
+    },
+    {
+      "id": "5d444ebd9d77324823a19c39",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "patrickberger18",
+      "activityBlocked": false,
+      "avatarUrl": null,
+      "fullName": "Patrick Berger",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "PB",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/patrickberger18"
+    },
+    {
+      "id": "52d5a934732b4c8c2f3732e1",
+      "bio": "Community Manager\nEpic Games Inc.\nCary, NC\nhttp://twitter.com/iflak\nhttp://twitch.tv/flak\nhttp://facebook.com/iflak",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "memberType": "normal",
+      "username": "flak",
+      "activityBlocked": false,
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/52d5a934732b4c8c2f3732e1/4926f4814f2ade34dab3735ed3f0bbcb",
+      "fullName": "Stacey Conley",
+      "idEnterprise": null,
+      "idMemberReferrer": null,
+      "initials": "SC",
+      "nonPublic": {},
+      "products": [],
+      "url": "https://trello.com/flak"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "5a8ae9c6b95d537ef2173cd5",
+      "idMember": "5a0c46aae039910e125e51aa",
+      "memberType": "admin",
+      "unconfirmed": false
+    },
+    {
+      "id": "5a8da24a3a5a92bf1babfdd6",
+      "idMember": "526eaf884535b1965b00037b",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5a90d3524134c34fcde8560d",
+      "idMember": "56b3e9222a4aeac2dbf0d891",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5a9ec4054628f082ce8c8fbc",
+      "idMember": "5a9ebd3d603c362e285d2f8d",
+      "memberType": "admin",
+      "unconfirmed": false
+    },
+    {
+      "id": "5aa294baab7aa490f8c74422",
+      "idMember": "52d5a934732b4c8c2f3732e1",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5abd04effa4ab07d4b031f20",
+      "idMember": "573a17e1ae826ddefef36bd0",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5b5f7ddc9760a605bae1f530",
+      "idMember": "5b5f7a450665f8160b1dc647",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5b69555073066b6c1994c895",
+      "idMember": "5a84333fd4e5bf7e9095b6a2",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5b73db4b379c6279dcf3cb3d",
+      "idMember": "5b56dda3930947d36111bbe5",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5b97ae7c075c1f0187b41398",
+      "idMember": "5a843b9c019a19c9c61834ac",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5ba5046491c1645e91e2d7bb",
+      "idMember": "5b731bc26605fa4511345784",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5babe4e8b59d4a57b240f595",
+      "idMember": "5a8af0046ca275a4b17ff636",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5bc9dad21a5c1103af8e780e",
+      "idMember": "5bc9da911644b77b6a830153",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5c3f77842c91d71a74b61db9",
+      "idMember": "5bcbf6547a148853b2b2d179",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5cc7397493214e72a8696e8c",
+      "idMember": "5cc737e3050e701c6387db86",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5cdd8e782581354336493c92",
+      "idMember": "5cdd6adbc5b6a20d31c806de",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5d07a543040ef134d56013a3",
+      "idMember": "5d079d1931db418fc1491202",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5d0d0c4cb12c1e16f7803b10",
+      "idMember": "5af1c02bd5aebcea372106c2",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5d0d0d1397f24e0dbdf383f9",
+      "idMember": "5cc09d2c5304f012fbef4cbe",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5d24a6debfb0eb329843e47c",
+      "idMember": "5d2466b53b44f07927ce5e0d",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5d2e9cad9cdffa4fb557c16e",
+      "idMember": "5cf90e7c0b971f0ba1d070fa",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5d496b862c568436e2027ee7",
+      "idMember": "5d444ebd9d77324823a19c39",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5d65880affecd41e4e3b23b0",
+      "idMember": "5d65837f2e200d2125b34f54",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5d6e55c0bbe1368661998ac2",
+      "idMember": "5d08d0987e6ce254d22464af",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5d863f34fd48af37dda4fdf3",
+      "idMember": "5b6c617e826ffb1f7ba6396c",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5da60e28bddd1203092370f3",
+      "idMember": "5c49ddc7a9ffc77316302b54",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5e5003030385057c4fe5cb5f",
+      "idMember": "5e2860368271cc52c68ea141",
+      "memberType": "normal",
+      "unconfirmed": false
+    },
+    {
+      "id": "5fd7872f6c270449cb7bda45",
+      "idMember": "5fd2734b6c9aea7eb0d8f18c",
+      "memberType": "normal",
+      "unconfirmed": false
+    }
+  ],
+  "myPrefs": {
+    "showSidebar": true,
+    "showSidebarMembers": true,
+    "showSidebarBoardActions": true,
+    "showSidebarActivity": true,
+    "showListGuide": false,
+    "idEmailList": null,
+    "emailPosition": "bottom"
+  },
+  "pluginData": []
+}
